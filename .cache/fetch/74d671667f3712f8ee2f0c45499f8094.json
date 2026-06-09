@@ -1,0 +1,933 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5045584219",
+    "name": "Jann Arends",
+    "institution": "University of Freiburg",
+    "institution_url": "https://ror.org/0245cg223",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "ESPEN Guidelines on Enteral Nutrition: Non-surgical oncology",
+        "year": 2006,
+        "url": "https://doi.org/10.1016/j.clnu.2006.01.020",
+        "venue": "Clinical Nutrition",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 195,
+    "first_publication_year": null,
+    "last_publication_year": 1976,
+    "h_index": 36,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5016512818",
+    "name": "Daniel Truhn",
+    "institution": "Universit\u00e4tsklinikum Aachen",
+    "institution_url": "https://ror.org/02gm5zw39",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Large language models and multimodal foundation models for precision oncology",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41698-024-00573-2",
+        "venue": "npj Precision Oncology",
+        "abstract": "The technological progress in artificial intelligence (AI) has massively accelerated since 2022, with far-reaching implications for oncology and cancer research. Large language models (LLMs) now perform at human-level competency in text processing. Notably, both text and image processing networks are increasingly based on transformer neural networks. This convergence enables the development of multimodal AI models that take diverse types of data as an input simultaneously, marking a qualitative "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 394,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 45,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5027652600",
+    "name": "Jan\u2010Niklas Eckardt",
+    "institution": "Fresenius (Germany)",
+    "institution_url": "https://ror.org/01v376g59",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Large language models and multimodal foundation models for precision oncology",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41698-024-00573-2",
+        "venue": "npj Precision Oncology",
+        "abstract": "The technological progress in artificial intelligence (AI) has massively accelerated since 2022, with far-reaching implications for oncology and cancer research. Large language models (LLMs) now perform at human-level competency in text processing. Notably, both text and image processing networks are increasingly based on transformer neural networks. This convergence enables the development of multimodal AI models that take diverse types of data as an input simultaneously, marking a qualitative "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 62,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5048917650",
+    "name": "Dyke Ferber",
+    "institution": "Heidelberg University",
+    "institution_url": "https://ror.org/038t36y30",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Large language models and multimodal foundation models for precision oncology",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41698-024-00573-2",
+        "venue": "npj Precision Oncology",
+        "abstract": "The technological progress in artificial intelligence (AI) has massively accelerated since 2022, with far-reaching implications for oncology and cancer research. Large language models (LLMs) now perform at human-level competency in text processing. Notably, both text and image processing networks are increasingly based on transformer neural networks. This convergence enables the development of multimodal AI models that take diverse types of data as an input simultaneously, marking a qualitative "
+      },
+      {
+        "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s43018-025-00991-6",
+        "venue": "Nature Cancer",
+        "abstract": "Clinical decision-making in oncology is complex, requiring the integration of multimodal data and multidomain expertise. We developed and evaluated an autonomous clinical artificial intelligence (AI) agent leveraging GPT-4 with multimodal precision oncology tools to support personalized clinical decision-making. The system incorporates vision transformers for detecting microsatellite instability and KRAS and BRAF mutations from histopathology slides, MedSAM for radiological image segmentation an"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 69,
+    "first_publication_year": null,
+    "last_publication_year": 1976,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5074325740",
+    "name": "Omar S. M. El Nahhas",
+    "institution": "Fresenius (Germany)",
+    "institution_url": "https://ror.org/01v376g59",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s43018-025-00991-6",
+        "venue": "Nature Cancer",
+        "abstract": "Clinical decision-making in oncology is complex, requiring the integration of multimodal data and multidomain expertise. We developed and evaluated an autonomous clinical artificial intelligence (AI) agent leveraging GPT-4 with multimodal precision oncology tools to support personalized clinical decision-making. The system incorporates vision transformers for detecting microsatellite instability and KRAS and BRAF mutations from histopathology slides, MedSAM for radiological image segmentation an"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 56,
+    "first_publication_year": null,
+    "last_publication_year": 2023,
+    "h_index": 13,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5069636604",
+    "name": "Mohamad Forouzanfar",
+    "institution": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "institution_url": "https://ror.org/002rjbv21",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+        "year": 2024,
+        "url": "https://doi.org/10.3390/bioengineering11040337",
+        "venue": "Bioengineering",
+        "abstract": "As healthcare systems around the world face challenges such as escalating costs, limited access, and growing demand for personalized care, artificial intelligence (AI) is emerging as a key force for transformation. This review is motivated by the urgent need to harness AI's potential to mitigate these issues and aims to critically assess AI's integration in different healthcare domains. We explore how AI empowers clinical decision-making, optimizes hospital operation and management, refines medi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 94,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 22,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100675672",
+    "name": "David Chen",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Performance of Multimodal Artificial Intelligence Chatbots Evaluated on Clinical Oncology Cases",
+        "year": 2024,
+        "url": "https://doi.org/10.1001/jamanetworkopen.2024.37711",
+        "venue": "JAMA Network Open",
+        "abstract": "Importance: Multimodal artificial intelligence (AI) chatbots can process complex medical image and text-based information that may improve their accuracy as a clinical diagnostic and management tool compared with unimodal, text-only AI chatbots. However, the difference in medical accuracy of multimodal and text-only chatbots in addressing questions about clinical oncology cases remains to be tested. Objective: To evaluate the utility of prompt engineering (zero-shot chain-of-thought) and compare"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 377,
+    "first_publication_year": null,
+    "last_publication_year": 1966,
+    "h_index": 46,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5068472891",
+    "name": "Ryan S. Huang",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Performance of Multimodal Artificial Intelligence Chatbots Evaluated on Clinical Oncology Cases",
+        "year": 2024,
+        "url": "https://doi.org/10.1001/jamanetworkopen.2024.37711",
+        "venue": "JAMA Network Open",
+        "abstract": "Importance: Multimodal artificial intelligence (AI) chatbots can process complex medical image and text-based information that may improve their accuracy as a clinical diagnostic and management tool compared with unimodal, text-only AI chatbots. However, the difference in medical accuracy of multimodal and text-only chatbots in addressing questions about clinical oncology cases remains to be tested. Objective: To evaluate the utility of prompt engineering (zero-shot chain-of-thought) and compare"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 143,
+    "first_publication_year": null,
+    "last_publication_year": 1995,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5091834563",
+    "name": "Jane Jomy",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Performance of Multimodal Artificial Intelligence Chatbots Evaluated on Clinical Oncology Cases",
+        "year": 2024,
+        "url": "https://doi.org/10.1001/jamanetworkopen.2024.37711",
+        "venue": "JAMA Network Open",
+        "abstract": "Importance: Multimodal artificial intelligence (AI) chatbots can process complex medical image and text-based information that may improve their accuracy as a clinical diagnostic and management tool compared with unimodal, text-only AI chatbots. However, the difference in medical accuracy of multimodal and text-only chatbots in addressing questions about clinical oncology cases remains to be tested. Objective: To evaluate the utility of prompt engineering (zero-shot chain-of-thought) and compare"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 41,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5015711088",
+    "name": "Lu Xu",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Chatbot for Health Care and Oncology Applications Using Artificial Intelligence and Machine Learning: Systematic Review",
+        "year": 2021,
+        "url": "https://doi.org/10.2196/27850",
+        "venue": "JMIR Cancer",
+        "abstract": "Background Chatbot is a timely topic applied in various fields, including medicine and health care, for human-like knowledge transfer and communication. Machine learning, a subset of artificial intelligence, has been proven particularly applicable in health care, with the ability for complex dialog management and conversational flexibility. Objective This review article aims to report on the recent advances and current trends in chatbot technology in medicine. A brief historical overview, along "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 19,
+    "first_publication_year": null,
+    "last_publication_year": 2003,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5087585802",
+    "name": "Leslie Sanders",
+    "institution": "York University",
+    "institution_url": "https://ror.org/05fq50484",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Chatbot for Health Care and Oncology Applications Using Artificial Intelligence and Machine Learning: Systematic Review",
+        "year": 2021,
+        "url": "https://doi.org/10.2196/27850",
+        "venue": "JMIR Cancer",
+        "abstract": "Background Chatbot is a timely topic applied in various fields, including medicine and health care, for human-like knowledge transfer and communication. Machine learning, a subset of artificial intelligence, has been proven particularly applicable in health care, with the ability for complex dialog management and conversational flexibility. Objective This review article aims to report on the recent advances and current trends in chatbot technology in medicine. A brief historical overview, along "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 52,
+    "first_publication_year": null,
+    "last_publication_year": 1953,
+    "h_index": 9,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5067343733",
+    "name": "Kay Li",
+    "institution": "York University",
+    "institution_url": "https://ror.org/05fq50484",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Chatbot for Health Care and Oncology Applications Using Artificial Intelligence and Machine Learning: Systematic Review",
+        "year": 2021,
+        "url": "https://doi.org/10.2196/27850",
+        "venue": "JMIR Cancer",
+        "abstract": "Background Chatbot is a timely topic applied in various fields, including medicine and health care, for human-like knowledge transfer and communication. Machine learning, a subset of artificial intelligence, has been proven particularly applicable in health care, with the ability for complex dialog management and conversational flexibility. Objective This review article aims to report on the recent advances and current trends in chatbot technology in medicine. A brief historical overview, along "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 69,
+    "first_publication_year": null,
+    "last_publication_year": 2005,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5101880272",
+    "name": "Stefan Schulz",
+    "institution": "Johannes Gutenberg University Mainz",
+    "institution_url": "https://ror.org/023b0x485",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal Deep Learning for Prognosis Prediction in Renal Cancer",
+        "year": 2021,
+        "url": "https://doi.org/10.3389/fonc.2021.788740",
+        "venue": "Frontiers in Oncology",
+        "abstract": "BACKGROUND: Clear-cell renal cell carcinoma (ccRCC) is common and associated with substantial mortality. TNM stage and histopathological grading have been the sole determinants of a patient's prognosis for decades and there are few prognostic biomarkers used in clinical routine. Management of ccRCC involves multiple disciplines such as urology, radiology, oncology, and pathology and each of these specialties generates highly complex medical data. Here, artificial intelligence (AI) could prove ex"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 39,
+    "first_publication_year": null,
+    "last_publication_year": 1975,
+    "h_index": 9,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5029601286",
+    "name": "Ann-Christin Woerl",
+    "institution": "Johannes Gutenberg University Mainz",
+    "institution_url": "https://ror.org/023b0x485",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal Deep Learning for Prognosis Prediction in Renal Cancer",
+        "year": 2021,
+        "url": "https://doi.org/10.3389/fonc.2021.788740",
+        "venue": "Frontiers in Oncology",
+        "abstract": "BACKGROUND: Clear-cell renal cell carcinoma (ccRCC) is common and associated with substantial mortality. TNM stage and histopathological grading have been the sole determinants of a patient's prognosis for decades and there are few prognostic biomarkers used in clinical routine. Management of ccRCC involves multiple disciplines such as urology, radiology, oncology, and pathology and each of these specialties generates highly complex medical data. Here, artificial intelligence (AI) could prove ex"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 8,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5015991893",
+    "name": "Florian Jungmann",
+    "institution": "Johannes Gutenberg University Mainz",
+    "institution_url": "https://ror.org/023b0x485",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal Deep Learning for Prognosis Prediction in Renal Cancer",
+        "year": 2021,
+        "url": "https://doi.org/10.3389/fonc.2021.788740",
+        "venue": "Frontiers in Oncology",
+        "abstract": "BACKGROUND: Clear-cell renal cell carcinoma (ccRCC) is common and associated with substantial mortality. TNM stage and histopathological grading have been the sole determinants of a patient's prognosis for decades and there are few prognostic biomarkers used in clinical routine. Management of ccRCC involves multiple disciplines such as urology, radiology, oncology, and pathology and each of these specialties generates highly complex medical data. Here, artificial intelligence (AI) could prove ex"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 63,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 15,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5090993508",
+    "name": "Roc\u00edo Mercado",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Molecular representations in AI-driven drug discovery: a review and practical guide",
+        "year": 2020,
+        "url": "https://doi.org/10.1186/s13321-020-00460-5",
+        "venue": "Journal of Cheminformatics",
+        "abstract": "The technological advances of the past century, marked by the computer revolution and the advent of high-throughput screening technologies in drug discovery, opened the path to the computational analysis and visualization of bioactive molecules. For this purpose, it became necessary to represent molecules in a syntax that would be readable by computers and understandable by scientists of various fields. A large number of chemical representations have been developed over the years, their numerosi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 72,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5052648825",
+    "name": "Shalini Vinod",
+    "institution": "Western Sydney University",
+    "institution_url": "https://ror.org/03t52dk35",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Uncertainties in volume delineation in radiation oncology: A systematic review and recommendations for future studies",
+        "year": 2016,
+        "url": "https://doi.org/10.1016/j.radonc.2016.09.009",
+        "venue": "Radiotherapy and Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 261,
+    "first_publication_year": null,
+    "last_publication_year": 1999,
+    "h_index": 35,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5014481486",
+    "name": "Michael Jameson",
+    "institution": "University of Wollongong",
+    "institution_url": "https://ror.org/00jtmb277",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Uncertainties in volume delineation in radiation oncology: A systematic review and recommendations for future studies",
+        "year": 2016,
+        "url": "https://doi.org/10.1016/j.radonc.2016.09.009",
+        "venue": "Radiotherapy and Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 111,
+    "first_publication_year": null,
+    "last_publication_year": 1992,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5006934380",
+    "name": "Myo Min",
+    "institution": "Liverpool Hospital",
+    "institution_url": "https://ror.org/03zzzks34",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Uncertainties in volume delineation in radiation oncology: A systematic review and recommendations for future studies",
+        "year": 2016,
+        "url": "https://doi.org/10.1016/j.radonc.2016.09.009",
+        "venue": "Radiotherapy and Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 63,
+    "first_publication_year": null,
+    "last_publication_year": 1980,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5044172388",
+    "name": "Michael Orth",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "institution_url": "https://ror.org/05591te55",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Current concepts in clinical radiation oncology",
+        "year": 2013,
+        "url": "https://doi.org/10.1007/s00411-013-0497-2",
+        "venue": "Radiation and Environmental Biophysics",
+        "abstract": "Based on its potent capacity to induce tumor cell death and to abrogate clonogenic survival, radiotherapy is a key part of multimodal cancer treatment approaches. Numerous clinical trials have documented the clear correlation between improved local control and increased overall survival. However, despite all progress, the efficacy of radiation-based treatment approaches is still limited by different technological, biological, and clinical constraints. In principle, the following major issues can"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 147,
+    "first_publication_year": null,
+    "last_publication_year": 1966,
+    "h_index": 39,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5016924764",
+    "name": "Kirsten Lauber",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "institution_url": "https://ror.org/05591te55",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Current concepts in clinical radiation oncology",
+        "year": 2013,
+        "url": "https://doi.org/10.1007/s00411-013-0497-2",
+        "venue": "Radiation and Environmental Biophysics",
+        "abstract": "Based on its potent capacity to induce tumor cell death and to abrogate clonogenic survival, radiotherapy is a key part of multimodal cancer treatment approaches. Numerous clinical trials have documented the clear correlation between improved local control and increased overall survival. However, despite all progress, the efficacy of radiation-based treatment approaches is still limited by different technological, biological, and clinical constraints. In principle, the following major issues can"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 299,
+    "first_publication_year": null,
+    "last_publication_year": 2000,
+    "h_index": 49,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5065547065",
+    "name": "Maximilian Niyazi",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "institution_url": "https://ror.org/05591te55",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Current concepts in clinical radiation oncology",
+        "year": 2013,
+        "url": "https://doi.org/10.1007/s00411-013-0497-2",
+        "venue": "Radiation and Environmental Biophysics",
+        "abstract": "Based on its potent capacity to induce tumor cell death and to abrogate clonogenic survival, radiotherapy is a key part of multimodal cancer treatment approaches. Numerous clinical trials have documented the clear correlation between improved local control and increased overall survival. However, despite all progress, the efficacy of radiation-based treatment approaches is still limited by different technological, biological, and clinical constraints. In principle, the following major issues can"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 497,
+    "first_publication_year": null,
+    "last_publication_year": 2006,
+    "h_index": 54,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5091809961",
+    "name": "Philipp Lohmann",
+    "institution": "Forschungszentrum J\u00fclich",
+    "institution_url": "https://ror.org/02nv7yv05",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics in radiation oncology\u2014basics, methods, and limitations",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00066-020-01663-3",
+        "venue": "Strahlentherapie und Onkologie",
+        "abstract": "Over the past years, the quantity and complexity of imaging data available for the clinical management of patients with solid tumors has increased substantially. Without the support of methods from the field of artificial intelligence (AI) and machine learning, a complete evaluation of the available image information is hardly feasible in clinical routine. Especially in radiotherapy planning, manual detection and segmentation of lesions is laborious, time consuming, and shows significant variabi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 267,
+    "first_publication_year": null,
+    "last_publication_year": 1974,
+    "h_index": 34,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5007171831",
+    "name": "Khaled Bousabarah",
+    "institution": "University Hospital Cologne",
+    "institution_url": "https://ror.org/05mxhda18",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics in radiation oncology\u2014basics, methods, and limitations",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00066-020-01663-3",
+        "venue": "Strahlentherapie und Onkologie",
+        "abstract": "Over the past years, the quantity and complexity of imaging data available for the clinical management of patients with solid tumors has increased substantially. Without the support of methods from the field of artificial intelligence (AI) and machine learning, a complete evaluation of the available image information is hardly feasible in clinical routine. Especially in radiotherapy planning, manual detection and segmentation of lesions is laborious, time consuming, and shows significant variabi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 62,
+    "first_publication_year": null,
+    "last_publication_year": 2019,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5113551179",
+    "name": "Mauritius Hoevels",
+    "institution": "University Hospital Cologne",
+    "institution_url": "https://ror.org/05mxhda18",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics in radiation oncology\u2014basics, methods, and limitations",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00066-020-01663-3",
+        "venue": "Strahlentherapie und Onkologie",
+        "abstract": "Over the past years, the quantity and complexity of imaging data available for the clinical management of patients with solid tumors has increased substantially. Without the support of methods from the field of artificial intelligence (AI) and machine learning, a complete evaluation of the available image information is hardly feasible in clinical routine. Especially in radiotherapy planning, manual detection and segmentation of lesions is laborious, time consuming, and shows significant variabi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 33,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5033431920",
+    "name": "Daan Schouten",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications",
+        "year": 2025,
+        "url": "https://doi.org/10.1016/j.media.2025.103621",
+        "venue": "Medical Image Analysis",
+        "abstract": "Recent technological advances in healthcare have led to unprecedented growth in patient data quantity and diversity. While artificial intelligence (AI) models have shown promising results in analyzing individual data modalities, there is increasing recognition that models integrating multiple complementary data sources, so-called multimodal AI, could enhance clinical decision-making. This scoping review examines the landscape of deep learning-based multimodal AI applications across the medical d"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 15,
+    "first_publication_year": null,
+    "last_publication_year": 2017,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5114642914",
+    "name": "Bas Dille",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications",
+        "year": 2025,
+        "url": "https://doi.org/10.1016/j.media.2025.103621",
+        "venue": "Medical Image Analysis",
+        "abstract": "Recent technological advances in healthcare have led to unprecedented growth in patient data quantity and diversity. While artificial intelligence (AI) models have shown promising results in analyzing individual data modalities, there is increasing recognition that models integrating multiple complementary data sources, so-called multimodal AI, could enhance clinical decision-making. This scoping review examines the landscape of deep learning-based multimodal AI applications across the medical d"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 2,
+    "first_publication_year": null,
+    "last_publication_year": 2024,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5057118523",
+    "name": "C. Kaempf",
+    "institution": "Fraunhofer Institute for Cell Therapy and Immunology",
+    "institution_url": "https://ror.org/04x45f476",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "New regulatory thinking is needed for AI-based personalised drug and cell therapies in precision oncology",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41698-024-00517-w",
+        "venue": "npj Precision Oncology",
+        "abstract": "Until recently the application of artificial intelligence (AI) in precision oncology was confined to activities in drug development and had limited impact on the personalisation of therapy. Now, a number of approaches have been proposed for the personalisation of drug and cell therapies with AI applied to therapy design, planning and delivery at the patient's bedside. Some drug and cell-based therapies are already tuneable to the individual to optimise efficacy, to reduce toxicity, to adapt the "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 6,
+    "first_publication_year": null,
+    "last_publication_year": 1940,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5041687654",
+    "name": "Michael Altenbuchinger",
+    "institution": "Universit\u00e4tsmedizin G\u00f6ttingen",
+    "institution_url": "https://ror.org/021ft0n22",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "An overview and a roadmap for artificial intelligence in hematology and oncology",
+        "year": 2023,
+        "url": "https://doi.org/10.1007/s00432-023-04667-5",
+        "venue": "Journal of Cancer Research and Clinical Oncology",
+        "abstract": "BACKGROUND: Artificial intelligence (AI) is influencing our society on many levels and has broad implications for the future practice of hematology and oncology. However, for many medical professionals and researchers, it often remains unclear what AI can and cannot do, and what are promising areas for a sensible application of AI in hematology and oncology. Finally, the limits and perils of using AI in oncology are not obvious to many healthcare professionals. METHODS: In this article, we provi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 93,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5003254879",
+    "name": "Bettina Bae\u00dfler",
+    "institution": "Universit\u00e4tsklinikum W\u00fcrzburg",
+    "institution_url": "https://ror.org/03pvr2g57",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "An overview and a roadmap for artificial intelligence in hematology and oncology",
+        "year": 2023,
+        "url": "https://doi.org/10.1007/s00432-023-04667-5",
+        "venue": "Journal of Cancer Research and Clinical Oncology",
+        "abstract": "BACKGROUND: Artificial intelligence (AI) is influencing our society on many levels and has broad implications for the future practice of hematology and oncology. However, for many medical professionals and researchers, it often remains unclear what AI can and cannot do, and what are promising areas for a sensible application of AI in hematology and oncology. Finally, the limits and perils of using AI in oncology are not obvious to many healthcare professionals. METHODS: In this article, we provi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 190,
+    "first_publication_year": null,
+    "last_publication_year": 1985,
+    "h_index": 39,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5062761846",
+    "name": "Dirk Graf",
+    "institution": "Heinrich Heine University D\u00fcsseldorf",
+    "institution_url": "https://ror.org/024z2rq82",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal treatment of hepatocellular carcinoma",
+        "year": 2014,
+        "url": "https://doi.org/10.1016/j.ejim.2014.03.001",
+        "venue": "European Journal of Internal Medicine",
+        "abstract": "Hepatocellular carcinoma (HCC) represents the most common liver cancer with an increasing incidence and it accounts for the third most common cause of cancer-related death worldwide. Even though the clinical diagnosis and management of HCC improved significantly in the last decades, this malignant disease is still associated with a poor prognosis. It has to be distinguished between patients with HCCs, which developed from liver cirrhosis, and patients without underlying liver cirrhosis as classi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 55,
+    "first_publication_year": null,
+    "last_publication_year": 1991,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5034221030",
+    "name": "Daniel Vallb\u00f6hmer",
+    "institution": "Heinrich Heine University D\u00fcsseldorf",
+    "institution_url": "https://ror.org/024z2rq82",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal treatment of hepatocellular carcinoma",
+        "year": 2014,
+        "url": "https://doi.org/10.1016/j.ejim.2014.03.001",
+        "venue": "European Journal of Internal Medicine",
+        "abstract": "Hepatocellular carcinoma (HCC) represents the most common liver cancer with an increasing incidence and it accounts for the third most common cause of cancer-related death worldwide. Even though the clinical diagnosis and management of HCC improved significantly in the last decades, this malignant disease is still associated with a poor prognosis. It has to be distinguished between patients with HCCs, which developed from liver cirrhosis, and patients without underlying liver cirrhosis as classi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 224,
+    "first_publication_year": null,
+    "last_publication_year": 2003,
+    "h_index": 39,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5083695901",
+    "name": "Wolfram Trudo Knoefel",
+    "institution": "Heinrich Heine University D\u00fcsseldorf",
+    "institution_url": "https://ror.org/024z2rq82",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal treatment of hepatocellular carcinoma",
+        "year": 2014,
+        "url": "https://doi.org/10.1016/j.ejim.2014.03.001",
+        "venue": "European Journal of Internal Medicine",
+        "abstract": "Hepatocellular carcinoma (HCC) represents the most common liver cancer with an increasing incidence and it accounts for the third most common cause of cancer-related death worldwide. Even though the clinical diagnosis and management of HCC improved significantly in the last decades, this malignant disease is still associated with a poor prognosis. It has to be distinguished between patients with HCCs, which developed from liver cirrhosis, and patients without underlying liver cirrhosis as classi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 1187,
+    "first_publication_year": null,
+    "last_publication_year": 1990,
+    "h_index": 62,
+    "position_title": null
+  }
+]

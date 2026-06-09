@@ -1,0 +1,506 @@
+[
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "1693233",
+    "name": "P. Lambin",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://www.semanticscholar.org/paper/f9b5c08711b30103ffc7ba144d4f590bbd9b065b",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 1118,
+    "first_publication_year": 2014,
+    "last_publication_year": 2023,
+    "h_index": 112,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "66906587",
+    "name": "R. Leijenaar",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://www.semanticscholar.org/paper/f9b5c08711b30103ffc7ba144d4f590bbd9b065b",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 131,
+    "first_publication_year": 2012,
+    "last_publication_year": 2024,
+    "h_index": 42,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2555577",
+    "name": "T. Deist",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://www.semanticscholar.org/paper/f9b5c08711b30103ffc7ba144d4f590bbd9b065b",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 40,
+    "first_publication_year": 2015,
+    "last_publication_year": 2023,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2277545535",
+    "name": "Osama M. Dorgham",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Vision Transformers in Medical Imaging: a Comprehensive Review of Advancements and Applications Across Multiple Diseases",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/48d5faa6255e7a9ecaf64e588b3b2452d4385743",
+        "venue": "Journal of Imaging Informatics in Medicine",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 8,
+    "first_publication_year": 2023,
+    "last_publication_year": 2025,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2297635938",
+    "name": "Yuzhe Yang",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "The limits of fair medical imaging AI in real-world generalization",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/f8b90da7b61d9917a68e96c6faef51b4fe3d28f4",
+        "venue": "Nature Medicine",
+        "abstract": "As artificial intelligence (AI) rapidly approaches human-level performance in medical imaging, it is crucial that it does not exacerbate or propagate healthcare disparities. Previous research established AI\u2019s capacity to infer demographic data from chest X-rays, leading to a key concern: do models using demographic shortcuts have unfair predictions across subpopulations? In this study, we conducted a thorough investigation into the extent to which medical AI uses demographic encodings, focusing "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 6,
+    "first_publication_year": 2017,
+    "last_publication_year": 2026,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2289863353",
+    "name": "S. Islam",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Generative Adversarial Networks (GANs) in Medical Imaging: Advancements, Applications, and Challenges",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/1f1dbb99ac96a7dde85b31c3c812ff376965db1c",
+        "venue": "IEEE Access",
+        "abstract": "Generative Adversarial Networks are a class of artificial intelligence algorithms that consist of a generator and a discriminator trained simultaneously through adversarial training. GANs have found crucial applications in various fields, including medical imaging. In healthcare, GANs contribute by generating synthetic medical images, enhancing data quality, and aiding in image segmentation, disease detection, and medical image synthesis. Their importance lies in their ability to generate realis"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 9,
+    "first_publication_year": 2021,
+    "last_publication_year": 2025,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2318851997",
+    "name": "Domenico Mastrodicasa",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Generating Synthetic Data for Medical Imaging.",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/455fae6be24bd5e03c58ed9c9a36959b6ae42191",
+        "venue": "Radiology",
+        "abstract": "Artificial intelligence (AI) models for medical imaging tasks, such as classification or segmentation, require large and diverse datasets of images. However, due to privacy and ethical issues, as well as data sharing infrastructure barriers, these datasets are scarce and difficult to assemble. Synthetic medical imaging data generated by AI from existing data could address this challenge by augmenting and anonymizing real imaging data. In addition, synthetic data enable new applications, includin"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 14,
+    "first_publication_year": 2024,
+    "last_publication_year": 2026,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2152490091",
+    "name": "Shakir Khan",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A Study of CNN and Transfer Learning in Medical Imaging: Advantages, Challenges, Future Scope",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/61827838932597591901992a4d3a86b71b42ac69",
+        "venue": "Sustainability",
+        "abstract": "This paper presents a comprehensive study of Convolutional Neural Networks (CNN) and transfer learning in the context of medical imaging. Medical imaging plays a critical role in the diagnosis and treatment of diseases, and CNN-based models have demonstrated significant improvements in image analysis and classification tasks. Transfer learning, which involves reusing pre-trained CNN models, has also shown promise in addressing challenges related to small datasets and limited computational resour"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 60,
+    "first_publication_year": 2021,
+    "last_publication_year": 2026,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "145201272",
+    "name": "S. Ruan",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/13afd3c131dbb836bf9c6c65466ca8f5234bca11",
+        "venue": "Journal of Imaging",
+        "abstract": "Deep learning has become a popular tool for medical image analysis, but the limited availability of training data remains a major challenge, particularly in the medical field where data acquisition can be costly and subject to privacy regulations. Data augmentation techniques offer a solution by artificially increasing the number of training samples, but these techniques often produce limited and unconvincing results. To address this issue, a growing number of studies have proposed the use of de"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 239,
+    "first_publication_year": 1992,
+    "last_publication_year": 2023,
+    "h_index": 42,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2212103245",
+    "name": "Katarzyna Borys",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable AI in medical imaging: An overview for clinical practitioners - Beyond saliency-based XAI approaches.",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/b08ce42005c672f681c6ab4cff96f830ce0bf9fc",
+        "venue": "European Journal of Radiology",
+        "abstract": "Driven by recent advances in Artificial Intelligence (AI) and Computer Vision (CV), the implementation of AI systems in the medical domain increased correspondingly. This is especially true for the domain of medical imaging, in which the incorporation of AI aids several imaging-based tasks such as classification, segmentation, and registration. Moreover, AI reshapes medical research and contributes to the development of personalized clinical care. Consequently, alongside its extended implementat"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 23,
+    "first_publication_year": 2023,
+    "last_publication_year": 2026,
+    "h_index": 6,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2212113048",
+    "name": "Yasmin Alyssa Schmitt",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable AI in medical imaging: An overview for clinical practitioners - Beyond saliency-based XAI approaches.",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/b08ce42005c672f681c6ab4cff96f830ce0bf9fc",
+        "venue": "European Journal of Radiology",
+        "abstract": "Driven by recent advances in Artificial Intelligence (AI) and Computer Vision (CV), the implementation of AI systems in the medical domain increased correspondingly. This is especially true for the domain of medical imaging, in which the incorporation of AI aids several imaging-based tasks such as classification, segmentation, and registration. Moreover, AI reshapes medical research and contributes to the development of personalized clinical care. Consequently, alongside its extended implementat"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 2,
+    "first_publication_year": 2023,
+    "last_publication_year": 2023,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "17698891",
+    "name": "Meike Nauta",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable AI in medical imaging: An overview for clinical practitioners - Beyond saliency-based XAI approaches.",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/b08ce42005c672f681c6ab4cff96f830ce0bf9fc",
+        "venue": "European Journal of Radiology",
+        "abstract": "Driven by recent advances in Artificial Intelligence (AI) and Computer Vision (CV), the implementation of AI systems in the medical domain increased correspondingly. This is especially true for the domain of medical imaging, in which the incorporation of AI aids several imaging-based tasks such as classification, segmentation, and registration. Moreover, AI reshapes medical research and contributes to the development of personalized clinical care. Consequently, alongside its extended implementat"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 26,
+    "first_publication_year": 2016,
+    "last_publication_year": 2026,
+    "h_index": 12,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2167168779",
+    "name": "Amir Molaei",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Implicit Neural Representation in Medical Imaging: A Comparative Survey",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/6b15d617dc71aad7bc14371d60ad3c86575abbcf",
+        "venue": "2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+        "abstract": "Implicit neural representations (INRs) have gained prominence as a powerful paradigm in scene reconstruction and computer graphics, demonstrating remarkable results. By utilizing neural networks to parameterize data through implicit continuous functions, INRs offer several benefits. Recognizing the potential of INRs beyond these domains, this survey aims to provide a comprehensive overview of INR models in the field of medical imaging. In medical settings, numerous challenging and ill-posed prob"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 4,
+    "first_publication_year": 2023,
+    "last_publication_year": 2023,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2054284353",
+    "name": "Ke Zou",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A Review of Uncertainty Estimation and its Application in Medical Imaging",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/bd2f46ec6ba90930faf8fccadee1dd78e64b23b7",
+        "venue": "Meta-Radiology",
+        "abstract": "The use of AI systems in healthcare for the early screening of diseases is of great clinical importance. Deep learning has shown great promise in medical imaging, but the reliability and trustworthiness of AI systems limit their deployment in real clinical scenes, where patient safety is at stake. Uncertainty estimation plays a pivotal role in producing a confidence evaluation along with the prediction of the deep model. This is particularly important in medical imaging, where the uncertainty in"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 20,
+    "first_publication_year": 2022,
+    "last_publication_year": 2026,
+    "h_index": 11,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2144033121",
+    "name": "Liyue Shen",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Solving Inverse Problems in Medical Imaging with Score-Based Generative Models",
+        "year": 2021,
+        "url": "https://www.semanticscholar.org/paper/49f6dbf4ead6a8a3d26f9cf218a654f2f3d1d896",
+        "venue": "International Conference on Learning Representations",
+        "abstract": "Reconstructing medical images from partial measurements is an important inverse problem in Computed Tomography (CT) and Magnetic Resonance Imaging (MRI). Existing solutions based on machine learning typically train a model to directly map measurements to medical images, leveraging a training dataset of paired images and measurements. These measurements are typically synthesized from images using a fixed physical model of the measurement process, which hinders the generalization capability of mod"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 20,
+    "first_publication_year": 2021,
+    "last_publication_year": 2025,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2109067965",
+    "name": "H. Zhang",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Applying Deep Learning to Medical Imaging: A Review",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/d069034d2995cb4cc53bdb56ee53c716f020fca2",
+        "venue": "Applied Sciences",
+        "abstract": "Deep learning (DL) has made significant strides in medical imaging. This review article presents an in-depth analysis of DL applications in medical imaging, focusing on the challenges, methods, and future perspectives. We discuss the impact of DL on the diagnosis and treatment of diseases and how it has revolutionized the medical imaging field. Furthermore, we examine the most recent DL techniques, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adv"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 58,
+    "first_publication_year": 2015,
+    "last_publication_year": 2026,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2338739641",
+    "name": "Y. Qie",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Applying Deep Learning to Medical Imaging: A Review",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/d069034d2995cb4cc53bdb56ee53c716f020fca2",
+        "venue": "Applied Sciences",
+        "abstract": "Deep learning (DL) has made significant strides in medical imaging. This review article presents an in-depth analysis of DL applications in medical imaging, focusing on the challenges, methods, and future perspectives. We discuss the impact of DL on the diagnosis and treatment of diseases and how it has revolutionized the medical imaging field. Furthermore, we examine the most recent DL techniques, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adv"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 4,
+    "first_publication_year": 2016,
+    "last_publication_year": 2026,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2195435934",
+    "name": "Alessio Serra",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Data augmentation for medical imaging: A systematic literature review",
+        "year": 2022,
+        "url": "https://www.semanticscholar.org/paper/7462b855cd1e8997814f79c9a995d396c6da2ebd",
+        "venue": "Comput. Biol. Medicine",
+        "abstract": "Recent advances in Deep Learning have largely benefited from larger and more diverse training sets. However, collecting large datasets for medical imaging is still a challenge due to privacy concerns and labeling costs. Data augmentation makes it possible to greatly expand the amount and variety of data available for training without actually collecting new samples. Data augmentation techniques range from simple yet surprisingly effective transformations such as cropping, padding, and flipping, "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 2,
+    "first_publication_year": 2022,
+    "last_publication_year": 2023,
+    "h_index": 2,
+    "position_title": null
+  }
+]

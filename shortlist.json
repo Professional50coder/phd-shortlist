@@ -1,0 +1,867 @@
+{
+  "student_id": "student_001",
+  "generated_at": "2026-06-09T11:29:55.158878Z",
+  "target_intake": {
+    "semester": "Fall",
+    "year": 2025
+  },
+  "coverage": {
+    "medical image analysis": 2,
+    "computational pathology": 14,
+    "federated learning in healthcare": 8,
+    "multimodal AI for oncology": 1,
+    "explainable AI in clinical decision support": 5
+  },
+  "shortlist": [
+    {
+      "supervisor_id": "7703f746f10d",
+      "name": "An Tang",
+      "institution": "Centre Hospitalier de l’Université de Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "medical image analysis",
+      "evidence": [
+        {
+          "title": "Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology",
+          "year": 2018,
+          "url": "https://doi.org/10.1016/j.carj.2018.02.002",
+          "venue": "Canadian Association of Radiologists Journal",
+          "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech ",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "An Tang is a strong fit for Priya Sharma because they work on medical image analysis, which aligns closely with medical image analysis. Their recent work includes papers such as 'Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "medical image analysis",
+      "confidence": 0.5823
+    },
+    {
+      "supervisor_id": "30974e01e421",
+      "name": "M. Jorge Cardoso",
+      "institution": "McGill University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/978-3-319-67558-9",
+          "venue": "Lecture notes in computer science",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "M. Jorge Cardoso is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "reach",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.6694
+    },
+    {
+      "supervisor_id": "27e7ae5e94ab",
+      "name": "Christian Desrosiers",
+      "institution": "École de Technologie Supérieure",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "Federated Learning for Healthcare Applications",
+          "year": 2023,
+          "url": "https://doi.org/10.1109/jiot.2023.3325822",
+          "venue": "IEEE Internet of Things Journal",
+          "abstract": "Due to the fast advancement of artificial intelligence (AI), centralized-based models have become critical for healthcare tasks like in medical image analysis and human behavior recognition. Although these models exhibit suitable performance, they are frequently constrained by privacy concerns. To attenuate this, a centralized learning strategy cannot be used in cases where there is a risk of data privacy breach, particularly in healthcare centers. Federated learning (FL) is a technique that all",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Christian Desrosiers is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'Federated Learning for Healthcare Applications'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "reach",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.6233
+    },
+    {
+      "supervisor_id": "0507a6d78c6f",
+      "name": "Mohamad Forouzanfar",
+      "institution": "Université du Québec à Montréal",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "multimodal AI for oncology",
+      "evidence": [
+        {
+          "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+          "year": 2024,
+          "url": "https://doi.org/10.3390/bioengineering11040337",
+          "venue": "Bioengineering",
+          "abstract": "As healthcare systems around the world face challenges such as escalating costs, limited access, and growing demand for personalized care, artificial intelligence (AI) is emerging as a key force for transformation. This review is motivated by the urgent need to harness AI's potential to mitigate these issues and aims to critically assess AI's integration in different healthcare domains. We explore how AI empowers clinical decision-making, optimizes hospital operation and management, refines medi",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Mohamad Forouzanfar is a strong fit for Priya Sharma because they work on multimodal AI for oncology, which aligns closely with medical image analysis. Their recent work includes papers such as 'The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "multimodal AI for oncology",
+      "confidence": 0.5551
+    },
+    {
+      "supervisor_id": "e56e26a1647f",
+      "name": "Wenjing Jia",
+      "institution": "University of Technology Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "explainable AI in clinical decision support",
+      "evidence": [
+        {
+          "title": "Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s10278-019-00227-x",
+          "venue": "Journal of Digital Imaging",
+          "abstract": "Deep learning-based image segmentation is by now firmly established as a robust tool in image segmentation. It has been widely used to separate homogeneous areas as the first and critical component of diagnosis and treatment pipeline. In this article, we present a critical appraisal of popular methods that have employed deep-learning techniques for medical image segmentation. Moreover, we summarize the most common challenges incurred and suggest possible solutions.",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Wenjing Jia is a strong fit for Priya Sharma because they work on explainable AI in clinical decision support, which aligns closely with medical image analysis. Their recent work includes papers such as 'Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "explainable AI in clinical decision support",
+      "confidence": 0.6029
+    },
+    {
+      "supervisor_id": "91e7c08a8805",
+      "name": "Tal Arbel",
+      "institution": "The University of Adelaide",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/978-3-319-67558-9",
+          "venue": "Lecture notes in computer science",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Tal Arbel is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "reach",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.6694
+    },
+    {
+      "supervisor_id": "9995dbb31c43",
+      "name": "Gustavo Carneiro",
+      "institution": "The University of Adelaide",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/978-3-030-00889-5",
+          "venue": "Lecture notes in computer science",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Gustavo Carneiro is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "reach",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.6694
+    },
+    {
+      "supervisor_id": "7297f5d870c0",
+      "name": "Geert Litjens",
+      "institution": "Radboud University Nijmegen",
+      "country": "NL",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "A survey on deep learning in medical image analysis",
+          "year": 2017,
+          "url": "https://doi.org/10.1016/j.media.2017.07.005",
+          "venue": "Medical Image Analysis",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology",
+          "year": 2019,
+          "url": "https://doi.org/10.1016/j.media.2019.101544",
+          "venue": "Medical Image Analysis",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Geert Litjens is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'A survey on deep learning in medical image analysis', and 'Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "reach",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.633
+    },
+    {
+      "supervisor_id": "e835b218c95b",
+      "name": "Babak Ehteshami Bejnordi",
+      "institution": "Radboud University Medical Center",
+      "country": "NL",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "A survey on deep learning in medical image analysis",
+          "year": 2017,
+          "url": "https://doi.org/10.1016/j.media.2017.07.005",
+          "venue": "Medical Image Analysis",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Computational pathology: A survey review and the way forward",
+          "year": 2024,
+          "url": "https://doi.org/10.1016/j.jpi.2023.100357",
+          "venue": "Journal of Pathology Informatics",
+          "abstract": "Computational Pathology (CPath) is an interdisciplinary science that augments developments of computational approaches to analyze and model medical histopathology images. The main objective for CPath is to develop infrastructure and workflows of digital diagnostics as an assistive CAD system for clinical pathology, facilitating transformational changes in the diagnosis and treatment of cancer that are mainly address by CPath tools. With evergrowing developments in deep learning and computer visi",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Babak Ehteshami Bejnordi is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'A survey on deep learning in medical image analysis', and 'Computational pathology: A survey review and the way forward'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "reach",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.6287
+    },
+    {
+      "supervisor_id": "191766da17d3",
+      "name": "Abbas Yazdinejad",
+      "institution": "University of Guelph",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "AP2FL: Auditable Privacy-Preserving Federated Learning Framework for Electronics in Healthcare",
+          "year": 2023,
+          "url": "https://doi.org/10.1109/tce.2023.3318509",
+          "venue": "IEEE Transactions on Consumer Electronics",
+          "abstract": "The growing application of machine learning (ML) techniques in healthcare has led to increased interest in federated learning (FL), which enables the secure and private training of robust ML models. However, conventional FL methods often fall short of providing adequate privacy protection and face challenges in handling non-independent and identically distributed (Non-IID) training data. These shortcomings are of significant concern when employing FL in electronic devices in healthcare. To addre",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Abbas Yazdinejad is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'AP2FL: Auditable Privacy-Preserving Federated Learning Framework for Electronics in Healthcare'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.608
+    },
+    {
+      "supervisor_id": "e62a7fd5199b",
+      "name": "Narmin Ghaffari Laleh",
+      "institution": "RWTH Aachen University",
+      "country": "DE",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Adversarial attacks and adversarial robustness in computational pathology",
+          "year": 2022,
+          "url": "https://doi.org/10.1038/s41467-022-33266-0",
+          "venue": "Nature Communications",
+          "abstract": "Artificial Intelligence (AI) can support diagnostic workflows in oncology by aiding diagnosis and providing biomarkers directly from routine pathology slides. However, AI applications are vulnerable to adversarial attacks. Hence, it is essential to quantify and mitigate this risk before widespread clinical use. Here, we show that convolutional neural networks (CNNs) are highly susceptible to white- and black-box adversarial attacks in clinically relevant weakly-supervised classification tasks. A",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Benchmarking weakly-supervised deep learning pipelines for whole slide classification in computational pathology",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.media.2022.102474",
+          "venue": "Medical Image Analysis",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Narmin Ghaffari Laleh is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Adversarial attacks and adversarial robustness in computational pathology', and 'Benchmarking weakly-supervised deep learning pipelines for whole slide classification in computational pathology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.6075
+    },
+    {
+      "supervisor_id": "93f184acff76",
+      "name": "Hugo J. Kuijf",
+      "institution": "Utrecht University",
+      "country": "NL",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Explainable artificial intelligence (XAI) in deep learning-based medical image analysis",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.media.2022.102470",
+          "venue": "Medical Image Analysis",
+          "abstract": "With an increase in deep learning-based methods, the call for explainability of such methods grows, especially in high-stakes decision making areas such as medical image analysis. This survey presents an overview of explainable artificial intelligence (XAI) used in deep learning-based medical image analysis. A framework of XAI criteria is introduced to classify deep learning-based medical image analysis methods. Papers on XAI techniques in medical image analysis are then surveyed and categorized",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Hugo J. Kuijf is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Explainable artificial intelligence (XAI) in deep learning-based medical image analysis'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.603
+    },
+    {
+      "supervisor_id": "b471bff4191c",
+      "name": "Kenneth G. A. Gilhuijs",
+      "institution": "Utrecht University",
+      "country": "NL",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Explainable artificial intelligence (XAI) in deep learning-based medical image analysis",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.media.2022.102470",
+          "venue": "Medical Image Analysis",
+          "abstract": "With an increase in deep learning-based methods, the call for explainability of such methods grows, especially in high-stakes decision making areas such as medical image analysis. This survey presents an overview of explainable artificial intelligence (XAI) used in deep learning-based medical image analysis. A framework of XAI criteria is introduced to classify deep learning-based medical image analysis methods. Papers on XAI techniques in medical image analysis are then surveyed and categorized",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Kenneth G. A. Gilhuijs is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Explainable artificial intelligence (XAI) in deep learning-based medical image analysis'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.603
+    },
+    {
+      "supervisor_id": "815ecd1ebf49",
+      "name": "Xiangjian He",
+      "institution": "University of Technology Sydney",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "explainable AI in clinical decision support",
+      "evidence": [
+        {
+          "title": "Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s10278-019-00227-x",
+          "venue": "Journal of Digital Imaging",
+          "abstract": "Deep learning-based image segmentation is by now firmly established as a robust tool in image segmentation. It has been widely used to separate homogeneous areas as the first and critical component of diagnosis and treatment pipeline. In this article, we present a critical appraisal of popular methods that have employed deep-learning techniques for medical image segmentation. Moreover, we summarize the most common challenges incurred and suggest possible solutions.",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Xiangjian He is a strong fit for Priya Sharma because they work on explainable AI in clinical decision support, which aligns closely with medical image analysis. Their recent work includes papers such as 'Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "explainable AI in clinical decision support",
+      "confidence": 0.6029
+    },
+    {
+      "supervisor_id": "3d9c48a96b1e",
+      "name": "Ali Dehghantanha",
+      "institution": "University of Guelph",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "AP2FL: Auditable Privacy-Preserving Federated Learning Framework for Electronics in Healthcare",
+          "year": 2023,
+          "url": "https://doi.org/10.1109/tce.2023.3318509",
+          "venue": "IEEE Transactions on Consumer Electronics",
+          "abstract": "The growing application of machine learning (ML) techniques in healthcare has led to increased interest in federated learning (FL), which enables the secure and private training of robust ML models. However, conventional FL methods often fall short of providing adequate privacy protection and face challenges in handling non-independent and identically distributed (Non-IID) training data. These shortcomings are of significant concern when employing FL in electronic devices in healthcare. To addre",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Ali Dehghantanha is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'AP2FL: Auditable Privacy-Preserving Federated Learning Framework for Electronics in Healthcare'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.598
+    },
+    {
+      "supervisor_id": "a9e1ee0b37bf",
+      "name": "Arne Küderle",
+      "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "country": "DE",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "Federated Learning for Healthcare: Systematic Review and Architecture Proposal",
+          "year": 2022,
+          "url": "https://doi.org/10.1145/3501813",
+          "venue": "ACM Transactions on Intelligent Systems and Technology",
+          "abstract": "The use of machine learning (ML) with electronic health records (EHR) is growing in popularity as a means to extract knowledge that can improve the decision-making process in healthcare. Such methods require training of high-quality learning models based on diverse and comprehensive datasets, which are hard to obtain due to the sensitive nature of medical data from patients. In this context, federated learning (FL) is a methodology that enables the distributed training of machine learning models",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Arne Küderle is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'Federated Learning for Healthcare: Systematic Review and Architecture Proposal'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.5959
+    },
+    {
+      "supervisor_id": "e98c5748c247",
+      "name": "Lipo Wang",
+      "institution": "Nanyang Technological University",
+      "country": "SG",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Deep Learning Applications in Medical Image Analysis",
+          "year": 2017,
+          "url": "https://doi.org/10.1109/access.2017.2788044",
+          "venue": "IEEE Access",
+          "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Lipo Wang is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Deep Learning Applications in Medical Image Analysis'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.5951
+    },
+    {
+      "supervisor_id": "5dc921c311a1",
+      "name": "Pubudu N. Pathirana",
+      "institution": "Deakin University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "Federated Learning for Smart Healthcare: A Survey",
+          "year": 2022,
+          "url": "https://doi.org/10.1145/3501296",
+          "venue": "ACM Computing Surveys",
+          "abstract": "Recent advances in communication technologies and the Internet-of-Medical-Things (IOMT) have transformed smart healthcare enabled by artificial intelligence (AI). Traditionally, AI techniques require centralized data collection and processing that may be infeasible in realistic healthcare scenarios due to the high scalability of modern healthcare networks and growing data privacy concerns. Federated Learning (FL), as an emerging distributed collaborative AI paradigm, is particularly attractive f",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Federated Learning for Internet of Things: A Comprehensive Survey",
+          "year": 2021,
+          "url": "https://openalex.org/W3159080474",
+          "venue": "Own your potential (DEAKIN)",
+          "abstract": "The Internet of Things (IoT) is penetrating many facets of our daily life with the proliferation of intelligent services and applications empowered by artificial intelligence (AI). Traditionally, AI techniques require centralized data collection and processing that may not be feasible in realistic application scenarios due to the high scalability of modern IoT networks and growing data privacy concerns. Federated Learning (FL) has emerged as a distributed collaborative AI approach that can enabl",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Pubudu N. Pathirana is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'Federated Learning for Smart Healthcare: A Survey', and 'Federated Learning for Internet of Things: A Comprehensive Survey'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.5934
+    },
+    {
+      "supervisor_id": "2a8f1b714ca9",
+      "name": "Omar S. M. El Nahhas",
+      "institution": "University Hospital Carl Gustav Carus",
+      "country": "DE",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology",
+          "year": 2024,
+          "url": "https://doi.org/10.1038/s41596-024-01047-2",
+          "venue": "Nature Protocols",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Benchmarking foundation models as feature extractors for weakly supervised computational pathology",
+          "year": 2025,
+          "url": "https://doi.org/10.1038/s41551-025-01516-3",
+          "venue": "Nature Biomedical Engineering",
+          "abstract": "Numerous pathology foundation models have been developed to extract clinically relevant information. There is currently limited literature independently evaluating these foundation models on external cohorts and clinically relevant tasks to uncover adjustments for future improvements. Here we benchmark 19 histopathology foundation models on 13 patient cohorts with 6,818 patients and 9,528 slides from lung, colorectal, gastric and breast cancers. The models were evaluated on weakly supervised tas",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology",
+          "year": 2025,
+          "url": "https://doi.org/10.1038/s43018-025-00991-6",
+          "venue": "Nature Cancer",
+          "abstract": "Clinical decision-making in oncology is complex, requiring the integration of multimodal data and multidomain expertise. We developed and evaluated an autonomous clinical artificial intelligence (AI) agent leveraging GPT-4 with multimodal precision oncology tools to support personalized clinical decision-making. The system incorporates vision transformers for detecting microsatellite instability and KRAS and BRAF mutations from histopathology slides, MedSAM for radiological image segmentation an",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Omar S. M. El Nahhas is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology', and 'Benchmarking foundation models as feature extractors for weakly supervised computational pathology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.5933
+    },
+    {
+      "supervisor_id": "a9da2ca24a00",
+      "name": "Dinh C. Nguyen",
+      "institution": "Deakin University",
+      "country": "AU",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "Federated Learning for Smart Healthcare: A Survey",
+          "year": 2022,
+          "url": "https://doi.org/10.1145/3501296",
+          "venue": "ACM Computing Surveys",
+          "abstract": "Recent advances in communication technologies and the Internet-of-Medical-Things (IOMT) have transformed smart healthcare enabled by artificial intelligence (AI). Traditionally, AI techniques require centralized data collection and processing that may be infeasible in realistic healthcare scenarios due to the high scalability of modern healthcare networks and growing data privacy concerns. Federated Learning (FL), as an emerging distributed collaborative AI paradigm, is particularly attractive f",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Dinh C. Nguyen is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'Federated Learning for Smart Healthcare: A Survey'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.5924
+    },
+    {
+      "supervisor_id": "da93f42b05c3",
+      "name": "Nan Liu",
+      "institution": "Nanyang Technological University",
+      "country": "SG",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture",
+          "year": 2024,
+          "url": "https://doi.org/10.1016/j.xcrm.2024.101419",
+          "venue": "Cell Reports Medicine",
+          "abstract": "Federated learning (FL) is a distributed machine learning framework that is gaining traction in view of increasing health data privacy protection needs. By conducting a systematic review of FL applications in healthcare, we identify relevant articles in scientific, engineering, and medical journals in English up to August 31st, 2023. Out of a total of 22,693 articles under review, 612 articles are included in the final analysis. The majority of articles are proof-of-concepts studies, and only 5.",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Nan Liu is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.5894
+    },
+    {
+      "supervisor_id": "5410ce7d7eec",
+      "name": "Roger Tam",
+      "institution": "University of British Columbia",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "medical image analysis",
+      "evidence": [
+        {
+          "title": "Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology",
+          "year": 2018,
+          "url": "https://doi.org/10.1016/j.carj.2018.02.002",
+          "venue": "Canadian Association of Radiologists Journal",
+          "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech ",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Roger Tam is a strong fit for Priya Sharma because they work on medical image analysis, which aligns closely with medical image analysis. Their recent work includes papers such as 'Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "medical image analysis",
+      "confidence": 0.5823
+    },
+    {
+      "supervisor_id": "3d4449f1c683",
+      "name": "Daniel J. Lizotte",
+      "institution": "Western University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "explainable AI in clinical decision support",
+      "evidence": [
+        {
+          "title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+          "year": 2025,
+          "url": "https://doi.org/10.3390/informatics12040119",
+          "venue": "Informatics",
+          "abstract": "While Artificial Intelligence (AI) promises significant enhancements for Clinical Decision Support Systems (CDSSs), the opacity of many AI models remains a major barrier to clinical adoption, primarily due to interpretability and trust challenges. Explainable AI (XAI) seeks to bridge this gap by making model reasoning understandable to clinicians, but technical XAI solutions have too often failed to address real-world clinician needs, workflow integration, and usability concerns. This study synt",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "A User-Centered Design of Explainable AI for Clinical Decision Support",
+          "year": 2021,
+          "url": "https://doi.org/10.21428/594757db.62860442",
+          "venue": "",
+          "abstract": "Clinical decision support (CDS) systems are computer applications whose goal is to facilitate the decision-making process of clinicians. In recent years, CDSS has developed an interest in applying machine learning (ML) models to make predictions related to clinical outcomes. The limited interpretability of many ML models is a major barrier to clinical adoption. This challenge has sparked research interest in interpretable and explainable AI, commonly known as XAI. XAI methods are used to constru",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Daniel J. Lizotte is a strong fit for Priya Sharma because they work on explainable AI in clinical decision support, which aligns closely with medical image analysis. Their recent work includes papers such as 'Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis', and 'A User-Centered Design of Explainable AI for Clinical Decision Support'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "explainable AI in clinical decision support",
+      "confidence": 0.5803
+    },
+    {
+      "supervisor_id": "4477f608ceb4",
+      "name": "Xiaoxiao Li",
+      "institution": "University of British Columbia",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "explainable AI in clinical decision support",
+      "evidence": [
+        {
+          "title": "Guidelines and evaluation of clinical explainable AI in medical image analysis",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.media.2022.102684",
+          "venue": "Medical Image Analysis",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Xiaoxiao Li is a strong fit for Priya Sharma because they work on explainable AI in clinical decision support, which aligns closely with medical image analysis. Their recent work includes papers such as 'Guidelines and evaluation of clinical explainable AI in medical image analysis'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "explainable AI in clinical decision support",
+      "confidence": 0.5795
+    },
+    {
+      "supervisor_id": "d3048ede4e2b",
+      "name": "Marko van Treeck",
+      "institution": "University Hospital Carl Gustav Carus",
+      "country": "DE",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology",
+          "year": 2024,
+          "url": "https://doi.org/10.1038/s41596-024-01047-2",
+          "venue": "Nature Protocols",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Marko van Treeck is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.5765
+    },
+    {
+      "supervisor_id": "1e9e8579496b",
+      "name": "Kamran Sedig",
+      "institution": "Western University",
+      "country": "CA",
+      "contact_email": null,
+      "research_focus": "explainable AI in clinical decision support",
+      "evidence": [
+        {
+          "title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+          "year": 2025,
+          "url": "https://doi.org/10.3390/informatics12040119",
+          "venue": "Informatics",
+          "abstract": "While Artificial Intelligence (AI) promises significant enhancements for Clinical Decision Support Systems (CDSSs), the opacity of many AI models remains a major barrier to clinical adoption, primarily due to interpretability and trust challenges. Explainable AI (XAI) seeks to bridge this gap by making model reasoning understandable to clinicians, but technical XAI solutions have too often failed to address real-world clinician needs, workflow integration, and usability concerns. This study synt",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "A User-Centered Design of Explainable AI for Clinical Decision Support",
+          "year": 2021,
+          "url": "https://doi.org/10.21428/594757db.62860442",
+          "venue": "",
+          "abstract": "Clinical decision support (CDS) systems are computer applications whose goal is to facilitate the decision-making process of clinicians. In recent years, CDSS has developed an interest in applying machine learning (ML) models to make predictions related to clinical outcomes. The limited interpretability of many ML models is a major barrier to clinical adoption. This challenge has sparked research interest in interpretable and explainable AI, commonly known as XAI. XAI methods are used to constru",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Kamran Sedig is a strong fit for Priya Sharma because they work on explainable AI in clinical decision support, which aligns closely with medical image analysis. Their recent work includes papers such as 'Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis', and 'A User-Centered Design of Explainable AI for Clinical Decision Support'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "explainable AI in clinical decision support",
+      "confidence": 0.5743
+    },
+    {
+      "supervisor_id": "b2004c94e339",
+      "name": "Henry C. Woodruff",
+      "institution": "Maastricht University",
+      "country": "NL",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Transparency of deep neural networks for medical image analysis: A review of interpretability methods",
+          "year": 2021,
+          "url": "https://doi.org/10.1016/j.compbiomed.2021.105111",
+          "venue": "Computers in Biology and Medicine",
+          "abstract": "Artificial Intelligence (AI) has emerged as a useful aid in numerous clinical applications for diagnosis and treatment decisions. Deep neural networks have shown the same or better performance than clinicians in many tasks owing to the rapid increase in the available data and computational power. In order to conform to the principles of trustworthy AI, it is essential that the AI system be transparent, robust, fair, and ensure accountability. Current deep neural solutions are referred to as blac",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Henry C. Woodruff is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Transparency of deep neural networks for medical image analysis: A review of interpretability methods'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.5728
+    },
+    {
+      "supervisor_id": "ec316eabfd70",
+      "name": "Daniel Truhn",
+      "institution": "Universitätsklinikum Aachen",
+      "country": "DE",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Adversarial attacks and adversarial robustness in computational pathology",
+          "year": 2022,
+          "url": "https://doi.org/10.1038/s41467-022-33266-0",
+          "venue": "Nature Communications",
+          "abstract": "Artificial Intelligence (AI) can support diagnostic workflows in oncology by aiding diagnosis and providing biomarkers directly from routine pathology slides. However, AI applications are vulnerable to adversarial attacks. Hence, it is essential to quantify and mitigate this risk before widespread clinical use. Here, we show that convolutional neural networks (CNNs) are highly susceptible to white- and black-box adversarial attacks in clinically relevant weakly-supervised classification tasks. A",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Large language models and multimodal foundation models for precision oncology",
+          "year": 2024,
+          "url": "https://doi.org/10.1038/s41698-024-00573-2",
+          "venue": "npj Precision Oncology",
+          "abstract": "The technological progress in artificial intelligence (AI) has massively accelerated since 2022, with far-reaching implications for oncology and cancer research. Large language models (LLMs) now perform at human-level competency in text processing. Notably, both text and image processing networks are increasingly based on transformer neural networks. This convergence enables the development of multimodal AI models that take diverse types of data as an input simultaneously, marking a qualitative ",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Daniel Truhn is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Adversarial attacks and adversarial robustness in computational pathology', and 'Large language models and multimodal foundation models for precision oncology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.571
+    },
+    {
+      "supervisor_id": "f9993b87a676",
+      "name": "Yuanyuan Chen",
+      "institution": "Nanyang Technological University",
+      "country": "SG",
+      "contact_email": null,
+      "research_focus": "federated learning in healthcare",
+      "evidence": [
+        {
+          "title": "Contribution-Aware Federated Learning for Smart Healthcare",
+          "year": 2022,
+          "url": "https://doi.org/10.1609/aaai.v36i11.21505",
+          "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+          "abstract": "Artificial intelligence (AI) is a promising technology to transform the healthcare industry. Due to the highly sensitive nature of patient data, federated learning (FL) is often leveraged to build models for smart healthcare applications. Existing deployed FL frameworks cannot address the key issues of varying data quality and heterogeneous data distributions across multiple institutions in this sector. In this paper, we report our experience developing and deploying the Contribution-Aware Feder",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Yuanyuan Chen is a strong fit for Priya Sharma because they work on federated learning in healthcare, which aligns closely with medical image analysis. Their recent work includes papers such as 'Contribution-Aware Federated Learning for Smart Healthcare'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "federated learning in healthcare",
+      "confidence": 0.5695
+    },
+    {
+      "supervisor_id": "1aa54cfabdd7",
+      "name": "Sophia J. Wagner",
+      "institution": "Helmholtz Zentrum München",
+      "country": "DE",
+      "contact_email": null,
+      "research_focus": "computational pathology",
+      "evidence": [
+        {
+          "title": "Make deep learning algorithms in computational pathology more reproducible and reusable",
+          "year": 2022,
+          "url": "https://doi.org/10.1038/s41591-022-01905-0",
+          "venue": "Nature Medicine",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        },
+        {
+          "title": "Built to Last? Reproducibility and Reusability of Deep Learning Algorithms in Computational Pathology",
+          "year": 2023,
+          "url": "https://doi.org/10.1016/j.modpat.2023.100350",
+          "venue": "Modern Pathology",
+          "abstract": "",
+          "funder": null,
+          "activity_code": null,
+          "is_personal_fellowship": null
+        }
+      ],
+      "why_match": "Sophia J. Wagner is a strong fit for Priya Sharma because they work on computational pathology, which aligns closely with medical image analysis. Their recent work includes papers such as 'Make deep learning algorithms in computational pathology more reproducible and reusable', and 'Built to Last? Reproducibility and Reusability of Deep Learning Algorithms in Computational Pathology'. This makes them a strong candidate for a fully funded PhD application focused on applied healthcare AI.",
+      "tier": "safety",
+      "linked_programs": [],
+      "area": "computational pathology",
+      "confidence": 0.5665
+    }
+  ]
+}

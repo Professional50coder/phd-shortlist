@@ -1,0 +1,6 @@
+aiohttp
+numpy
+pydantic>=1.10
+sentence-transformers
+openai
+groq

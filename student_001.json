@@ -1,0 +1,70 @@
+{
+  "student_id": "student_001",
+  "personal": {
+    "name": "Priya Sharma",
+    "nationality": "IN",
+    "current_location": "Mumbai, India",
+    "email": "priya.sharma@example.com"
+  },
+  "education": [
+    {
+      "degree": "B.Tech",
+      "field": "Biomedical Engineering",
+      "institution": "IIT Bombay",
+      "country": "IN",
+      "graduation_year": 2024,
+      "gpa": "9.1/10",
+      "thesis": "Deep learning-based tumour segmentation in MRI scans using U-Net variants"
+    },
+    {
+      "degree": "Minor",
+      "field": "Data Science and AI",
+      "institution": "IIT Bombay",
+      "country": "IN",
+      "graduation_year": 2024,
+      "gpa": null,
+      "thesis": null
+    }
+  ],
+  "skills": [
+    "Python", "PyTorch", "TensorFlow", "scikit-learn",
+    "medical image processing", "MONAI", "ITK",
+    "statistical modelling", "R", "MATLAB",
+    "Docker", "Git", "Linux"
+  ],
+  "publications": [
+    {
+      "title": "Attention-gated U-Net for brain tumour segmentation in multi-modal MRI",
+      "venue": "MICCAI Workshop 2023",
+      "year": 2023,
+      "url": "https://example.com/paper1",
+      "role": "first author"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Federated learning for privacy-preserving cancer detection",
+      "description": "Built a federated training pipeline across 3 simulated hospital nodes using PySyft; achieved within 2% of centralised baseline on TCGA dataset.",
+      "year": 2024
+    },
+    {
+      "title": "Survival prediction from histopathology slides",
+      "description": "Weakly supervised multiple-instance learning on CAMELYON16; ROC-AUC 0.91.",
+      "year": 2023
+    }
+  ],
+  "research_interests": [
+    "medical image analysis",
+    "computational pathology",
+    "federated learning in healthcare",
+    "multimodal AI for oncology",
+    "explainable AI in clinical decision support"
+  ],
+  "target_countries": ["AU", "CA", "NL", "DE", "SG"],
+  "target_intake": {
+    "semester": "Fall",
+    "year": 2025
+  },
+  "intro_call_summary": "Priya is very strong technically — MICCAI publication at undergrad is unusual. She is particularly excited about computational pathology and federated learning for privacy in multi-site clinical studies. She mentioned Prof. Gustavo Carneiro's work on weakly supervised learning in pathology as the type of research she wants to do. She is open to both CS and BME departments as long as the research is applied to healthcare. She has a strong GPA and a published paper so she can aim for competitive labs. Not interested in purely theoretical ML — wants to see real clinical translation. Budget: fully funded positions only.",
+  "raw_resume_text": "Priya Sharma | IIT Bombay B.Tech Biomedical Engineering 2024 | CGPA 9.1/10\nPublications: MICCAI Workshop 2023 (first author) — attention-gated U-Net for brain tumour segmentation\nProjects: Federated learning for cancer detection (PySyft), survival prediction from WSI (CAMELYON16)\nSkills: Python, PyTorch, MONAI, Docker, R, MATLAB\nAwards: Institute Silver Medal, IIT Bombay 2024"
+}

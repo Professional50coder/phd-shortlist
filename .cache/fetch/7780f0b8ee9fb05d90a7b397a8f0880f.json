@@ -1,0 +1,324 @@
+[
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2164093525",
+    "name": "A. Tripathi",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "HONeYBEE: enabling scalable multimodal AI in oncology through foundation model-driven embeddings",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/a507d22c15244617f6ddadd67f3b1870a8973d1e",
+        "venue": "npj Digital Medicine",
+        "abstract": "Harmonized ONcologY Biomedical Embedding Encoder (HONeYBEE) is an open-source framework that integrates multimodal biomedical data for oncology applications. It processes clinical data (structured and unstructured), whole-slide images, radiology scans, and molecular profiles to generate unified patient-level embeddings using domain-specific foundation models and fusion strategies. These embeddings enable survival prediction, cancer-type classification, patient similarity retrieval, and cohort cl"
+      },
+      {
+        "title": "Abstract 1251: Real-world evaluation of multimodal AI: Foundation model-driven multimodal AI for GBM, NSCLC, and PDAC.",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/8a2a5ee9bfe46a31043a41ac46e953d2f4c81002",
+        "venue": "Cancer Research",
+        "abstract": "\n \n \n Translating multimodal AI from curated research datasets to real-world clinical practice remains a critical challenge in precision oncology. In this study, we adapted HONeYBEE, a foundation model-driven multimodal AI platform, for real-world oncology workflows. We focused on three cancers, glioblastoma (GBM), non-small cell lung cancer (NSCLC), and pancreatic ductal adenocarcinoma (PDAC), using routine clinical documentation, radiology/ pathology reports, and imaging studies to improve sur"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 27,
+    "first_publication_year": 2019,
+    "last_publication_year": 2026,
+    "h_index": 8,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2053769148",
+    "name": "A. Waqas",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "HONeYBEE: enabling scalable multimodal AI in oncology through foundation model-driven embeddings",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/a507d22c15244617f6ddadd67f3b1870a8973d1e",
+        "venue": "npj Digital Medicine",
+        "abstract": "Harmonized ONcologY Biomedical Embedding Encoder (HONeYBEE) is an open-source framework that integrates multimodal biomedical data for oncology applications. It processes clinical data (structured and unstructured), whole-slide images, radiology scans, and molecular profiles to generate unified patient-level embeddings using domain-specific foundation models and fusion strategies. These embeddings enable survival prediction, cancer-type classification, patient similarity retrieval, and cohort cl"
+      },
+      {
+        "title": "Abstract 1251: Real-world evaluation of multimodal AI: Foundation model-driven multimodal AI for GBM, NSCLC, and PDAC.",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/8a2a5ee9bfe46a31043a41ac46e953d2f4c81002",
+        "venue": "Cancer Research",
+        "abstract": "\n \n \n Translating multimodal AI from curated research datasets to real-world clinical practice remains a critical challenge in precision oncology. In this study, we adapted HONeYBEE, a foundation model-driven multimodal AI platform, for real-world oncology workflows. We focused on three cancers, glioblastoma (GBM), non-small cell lung cancer (NSCLC), and pancreatic ductal adenocarcinoma (PDAC), using routine clinical documentation, radiology/ pathology reports, and imaging studies to improve sur"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 40,
+    "first_publication_year": 2021,
+    "last_publication_year": 2026,
+    "h_index": 8,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "3639944",
+    "name": "M. Schabath",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "HONeYBEE: enabling scalable multimodal AI in oncology through foundation model-driven embeddings",
+        "year": 2024,
+        "url": "https://www.semanticscholar.org/paper/a507d22c15244617f6ddadd67f3b1870a8973d1e",
+        "venue": "npj Digital Medicine",
+        "abstract": "Harmonized ONcologY Biomedical Embedding Encoder (HONeYBEE) is an open-source framework that integrates multimodal biomedical data for oncology applications. It processes clinical data (structured and unstructured), whole-slide images, radiology scans, and molecular profiles to generate unified patient-level embeddings using domain-specific foundation models and fusion strategies. These embeddings enable survival prediction, cancer-type classification, patient similarity retrieval, and cohort cl"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 432,
+    "first_publication_year": 2000,
+    "last_publication_year": 2026,
+    "h_index": 63,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2339477897",
+    "name": "Luigia Rizzo",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable Multimodal Ai for Oral Cancer: Integrating Image Segmentation and Large Language Models",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/a30c67e675fa715c683b80d711a821f224392736",
+        "venue": "BigData Congress [Services Society]",
+        "abstract": "Oral cancer poses a major global health concern, and the early recognition of potentially malignant lesions remains a persistent challenge in clinical practice. This study introduces an integrated artificial intelligence framework that advances beyond prior works by unifying lesion detection, visual explanation, and language-based reporting into a single multimodal pipeline designed to enhance diagnostic accuracy, transparency, and communication in oral oncology. A total of 1,271 intraoral image"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 8,
+    "first_publication_year": 2024,
+    "last_publication_year": 2026,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2324842125",
+    "name": "Domenico Rossi",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable Multimodal Ai for Oral Cancer: Integrating Image Segmentation and Large Language Models",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/a30c67e675fa715c683b80d711a821f224392736",
+        "venue": "BigData Congress [Services Society]",
+        "abstract": "Oral cancer poses a major global health concern, and the early recognition of potentially malignant lesions remains a persistent challenge in clinical practice. This study introduces an integrated artificial intelligence framework that advances beyond prior works by unifying lesion detection, visual explanation, and language-based reporting into a single multimodal pipeline designed to enhance diagnostic accuracy, transparency, and communication in oral oncology. A total of 1,271 intraoral image"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 12,
+    "first_publication_year": 2024,
+    "last_publication_year": 2026,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2346650373",
+    "name": "Evan W. Davis",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Abstract 1251: Real-world evaluation of multimodal AI: Foundation model-driven multimodal AI for GBM, NSCLC, and PDAC.",
+        "year": 2026,
+        "url": "https://www.semanticscholar.org/paper/8a2a5ee9bfe46a31043a41ac46e953d2f4c81002",
+        "venue": "Cancer Research",
+        "abstract": "\n \n \n Translating multimodal AI from curated research datasets to real-world clinical practice remains a critical challenge in precision oncology. In this study, we adapted HONeYBEE, a foundation model-driven multimodal AI platform, for real-world oncology workflows. We focused on three cancers, glioblastoma (GBM), non-small cell lung cancer (NSCLC), and pancreatic ductal adenocarcinoma (PDAC), using routine clinical documentation, radiology/ pathology reports, and imaging studies to improve sur"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 12,
+    "first_publication_year": 2024,
+    "last_publication_year": 2026,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2253151010",
+    "name": "B. Griffiths",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "The AI revolution: how multimodal intelligence will reshape the oncology ecosystem",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/678da0a21d681e0b6480c4f84acdcb7724c0b227",
+        "venue": "npj Artificial Intelligence",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 11,
+    "first_publication_year": 2018,
+    "last_publication_year": 2026,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2346927215",
+    "name": "Marc Combalia",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Multimodal AI and tumour microenvironment integration predicts metastasis in cutaneous melanoma",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/5bc0fa7a09ecad929ef12c2701ed904c17c099d9",
+        "venue": "Nature Communications",
+        "abstract": "Accurate prognostication is essential to guide clinical management in localised cutaneous melanoma (CM), the form of skin cancer with the highest mortality. While the tumour microenvironment (TME) plays a key role in disease progression, current staging systems rely on limited tumour features and exclude key clinicopathological prognostic features. Here we show that MelanoMAP, a multimodal AI model integrating TME-derived digital biomarkers and clinicopathological features from over 3,500 histol"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 2,
+    "first_publication_year": 2019,
+    "last_publication_year": 2025,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2260557999",
+    "name": "Tilak Pathak",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "BIOM-94. MULTIMODAL EXPLAINABLE AI FOR MOLECULAR SUBTYPING OF GLIOMAS USING RADIOLOGY AND PATHOLOGY INTEGRATION",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/1e8f053128f36705e9b35f47f1eb2cda94c0585b",
+        "venue": "Neuro-Oncology",
+        "abstract": "\n Accurate molecular subtyping of gliomas is essential for guiding integrated diagnosis, predicting prognosis, and informing clinical decision-making in neuro-oncology. While imaging and pathology each provide valuable perspectives, unimodal approaches often fail to capture the full biological and spatial complexity of gliomas. In this study, we present a biologically interpretable, multimodal AI model (Mc) that integrates handcrafted features from multi-sequence MRI and digitized H&E-stained hi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 66,
+    "first_publication_year": 2023,
+    "last_publication_year": 2026,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "2390699433",
+    "name": "Qaima Ali",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "AI-based histopathology and radiomics fusion for predicting surgical margins in colorectal cancer: improving oncological outcomes through multimodal AI integration",
+        "year": 2025,
+        "url": "https://www.semanticscholar.org/paper/c0b120b687904a52cae592ea7bab6e19ca46f922",
+        "venue": "Annals of Medicine and Surgery",
+        "abstract": "Achieving negative surgical margins is fundamental to curative colorectal cancer (CRC) surgery. Despite advancements in imaging, preoperative identification of margin risk remains limited. Recent developments in artificial intelligence (AI) now enable fusion of radiomics, quantitative imaging analysis, and histopathology (\u201cpathomics\u201d) to predict microscopic tumor spread more accurately. Radiomics captures sub-visual textural and spatial features from CT and MRI, while AI-driven histopathology in"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 8,
+    "first_publication_year": 2025,
+    "last_publication_year": 2025,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "semantic_scholar",
+    "source_author_id": "49833205",
+    "name": "L. D. de Godoy",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Taming Glioblastoma in 'Real Time': Integrating Multimodal Advanced Neuroimaging/AI Tools Towards Creating a Robust and Therapy Agnostic Model for Response Assessment in Neuro-Oncology\".",
+        "year": 2023,
+        "url": "https://www.semanticscholar.org/paper/18c9c0f9de7a5c000735a21a001fd033b77bfaed",
+        "venue": "Clinical Cancer Research",
+        "abstract": "The highly aggressive nature of glioblastoma carries a dismal prognosis despite aggressive multimodal therapy. Alternative treatment regimens, such as immunotherapies, are known to intensify the inflammatory response in the treatment field. Follow-up imaging in these scenarios often mimics disease progression on conventional MRI, making accurate evaluation extremely challenging. To this end, revised criteria for assessment of treatment response in high-grade gliomas were successfully proposed by"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "multimodal AI for oncology",
+    "matched_keyword": "multimodal AI for oncology",
+    "total_paper_count": 23,
+    "first_publication_year": 2017,
+    "last_publication_year": 2026,
+    "h_index": 7,
+    "position_title": null
+  }
+]

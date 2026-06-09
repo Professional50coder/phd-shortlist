@@ -1,0 +1,681 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5029602911",
+    "name": "Arne K\u00fcderle",
+    "institution": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "institution_url": "https://ror.org/00f7hpc57",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Learning for Healthcare: Systematic Review and Architecture Proposal",
+        "year": 2022,
+        "url": "https://doi.org/10.1145/3501813",
+        "venue": "ACM Transactions on Intelligent Systems and Technology",
+        "abstract": "The use of machine learning (ML) with electronic health records (EHR) is growing in popularity as a means to extract knowledge that can improve the decision-making process in healthcare. Such methods require training of high-quality learning models based on diverse and comprehensive datasets, which are hard to obtain due to the sensitive nature of medical data from patients. In this context, federated learning (FL) is a methodology that enables the distributed training of machine learning models"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 97,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5076942188",
+    "name": "Dinh C. Nguyen",
+    "institution": "Deakin University",
+    "institution_url": "https://ror.org/02czsnj07",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Learning for Smart Healthcare: A Survey",
+        "year": 2022,
+        "url": "https://doi.org/10.1145/3501296",
+        "venue": "ACM Computing Surveys",
+        "abstract": "Recent advances in communication technologies and the Internet-of-Medical-Things (IOMT) have transformed smart healthcare enabled by artificial intelligence (AI). Traditionally, AI techniques require centralized data collection and processing that may be infeasible in realistic healthcare scenarios due to the high scalability of modern healthcare networks and growing data privacy concerns. Federated Learning (FL), as an emerging distributed collaborative AI paradigm, is particularly attractive f"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 166,
+    "first_publication_year": null,
+    "last_publication_year": 1986,
+    "h_index": 33,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5037113249",
+    "name": "Pubudu N. Pathirana",
+    "institution": "Deakin University",
+    "institution_url": "https://ror.org/02czsnj07",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Learning for Smart Healthcare: A Survey",
+        "year": 2022,
+        "url": "https://doi.org/10.1145/3501296",
+        "venue": "ACM Computing Surveys",
+        "abstract": "Recent advances in communication technologies and the Internet-of-Medical-Things (IOMT) have transformed smart healthcare enabled by artificial intelligence (AI). Traditionally, AI techniques require centralized data collection and processing that may be infeasible in realistic healthcare scenarios due to the high scalability of modern healthcare networks and growing data privacy concerns. Federated Learning (FL), as an emerging distributed collaborative AI paradigm, is particularly attractive f"
+      },
+      {
+        "title": "Federated Learning for Internet of Things: A Comprehensive Survey",
+        "year": 2021,
+        "url": "https://openalex.org/W3159080474",
+        "venue": "Own your potential (DEAKIN)",
+        "abstract": "The Internet of Things (IoT) is penetrating many facets of our daily life with the proliferation of intelligent services and applications empowered by artificial intelligence (AI). Traditionally, AI techniques require centralized data collection and processing that may not be feasible in realistic application scenarios due to the high scalability of modern IoT networks and growing data privacy concerns. Federated Learning (FL) has emerged as a distributed collaborative AI approach that can enabl"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 370,
+    "first_publication_year": null,
+    "last_publication_year": 1999,
+    "h_index": 42,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5017608284",
+    "name": "Christian Desrosiers",
+    "institution": "\u00c9cole de Technologie Sup\u00e9rieure",
+    "institution_url": "https://ror.org/0020snb74",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Learning for Healthcare Applications",
+        "year": 2023,
+        "url": "https://doi.org/10.1109/jiot.2023.3325822",
+        "venue": "IEEE Internet of Things Journal",
+        "abstract": "Due to the fast advancement of artificial intelligence (AI), centralized-based models have become critical for healthcare tasks like in medical image analysis and human behavior recognition. Although these models exhibit suitable performance, they are frequently constrained by privacy concerns. To attenuate this, a centralized learning strategy cannot be used in cases where there is a risk of data privacy breach, particularly in healthcare centers. Federated learning (FL) is a technique that all"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 313,
+    "first_publication_year": null,
+    "last_publication_year": 1983,
+    "h_index": 38,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5057558573",
+    "name": "Xin Gu",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A Review of Privacy Enhancement Methods for Federated Learning in Healthcare Systems",
+        "year": 2023,
+        "url": "https://doi.org/10.3390/ijerph20156539",
+        "venue": "International Journal of Environmental Research and Public Health",
+        "abstract": "Federated learning (FL) provides a distributed machine learning system that enables participants to train using local data to create a shared model by eliminating the requirement of data sharing. In healthcare systems, FL allows Medical Internet of Things (MIoT) devices and electronic health records (EHRs) to be trained locally without sending patients data to the central server. This allows healthcare decisions and diagnoses based on datasets from all participants, as well as streamlining other"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 177,
+    "first_publication_year": null,
+    "last_publication_year": 1994,
+    "h_index": 20,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5087242242",
+    "name": "Fariza Sabrina",
+    "institution": "Central Queensland University",
+    "institution_url": "https://ror.org/023q4bk22",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A Review of Privacy Enhancement Methods for Federated Learning in Healthcare Systems",
+        "year": 2023,
+        "url": "https://doi.org/10.3390/ijerph20156539",
+        "venue": "International Journal of Environmental Research and Public Health",
+        "abstract": "Federated learning (FL) provides a distributed machine learning system that enables participants to train using local data to create a shared model by eliminating the requirement of data sharing. In healthcare systems, FL allows Medical Internet of Things (MIoT) devices and electronic health records (EHRs) to be trained locally without sending patients data to the central server. This allows healthcare decisions and diagnoses based on datasets from all participants, as well as streamlining other"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 82,
+    "first_publication_year": null,
+    "last_publication_year": 2003,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5001095666",
+    "name": "Veronika Stephanie",
+    "institution": "RMIT University",
+    "institution_url": "https://ror.org/04ttjf776",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Trustworthy Privacy-Preserving Hierarchical Ensemble and Federated Learning in Healthcare 4.0 With Blockchain",
+        "year": 2022,
+        "url": "https://doi.org/10.1109/tii.2022.3214998",
+        "venue": "IEEE Transactions on Industrial Informatics",
+        "abstract": "The advancement of internet and communication technologies has led to the era of Industry 4.0. This shift is followed by healthcare industries creating the term Healthcare 4.0. In Healthcare 4.0, the use of Internet of Things-enabled medical imaging devices for early disease detection has enabled medical practitioners to increase healthcare institutions' quality of service. However, Healthcare 4.0 is still lagging in artificial intelligence and big data compared to other Industry 4.0 due to data"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 9,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 7,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5068423418",
+    "name": "Ibrahim Khalil",
+    "institution": "RMIT University",
+    "institution_url": "https://ror.org/04ttjf776",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Trustworthy Privacy-Preserving Hierarchical Ensemble and Federated Learning in Healthcare 4.0 With Blockchain",
+        "year": 2022,
+        "url": "https://doi.org/10.1109/tii.2022.3214998",
+        "venue": "IEEE Transactions on Industrial Informatics",
+        "abstract": "The advancement of internet and communication technologies has led to the era of Industry 4.0. This shift is followed by healthcare industries creating the term Healthcare 4.0. In Healthcare 4.0, the use of Internet of Things-enabled medical imaging devices for early disease detection has enabled medical practitioners to increase healthcare institutions' quality of service. However, Healthcare 4.0 is still lagging in artificial intelligence and big data compared to other Industry 4.0 due to data"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 362,
+    "first_publication_year": null,
+    "last_publication_year": 1994,
+    "h_index": 52,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5012692998",
+    "name": "Rebekah Eden",
+    "institution": "The University of Queensland",
+    "institution_url": "https://ror.org/00rqy9422",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A scoping review of the governance of federated learning in healthcare",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s41746-025-01836-3",
+        "venue": "npj Digital Medicine",
+        "abstract": "In healthcare, federated learning (FL) is emerging as a methodology to enable the analysis of large and disparate datasets while allowing custodians to retain sovereignty. While FL minimises data-sharing challenges, concerns surrounding ethics, privacy, maleficent use, and harm remain. These concerns can be managed by effective data governance. Data governance specifies procedural, relational, and structural mechanisms governing how data is captured, shared, and analysed, the resultant models an"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 54,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5086389606",
+    "name": "Ignatius Chukwudi",
+    "institution": "Queensland Health",
+    "institution_url": "https://ror.org/00c1dt378",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A scoping review of the governance of federated learning in healthcare",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s41746-025-01836-3",
+        "venue": "npj Digital Medicine",
+        "abstract": "In healthcare, federated learning (FL) is emerging as a methodology to enable the analysis of large and disparate datasets while allowing custodians to retain sovereignty. While FL minimises data-sharing challenges, concerns surrounding ethics, privacy, maleficent use, and harm remain. These concerns can be managed by effective data governance. Data governance specifies procedural, relational, and structural mechanisms governing how data is captured, shared, and analysed, the resultant models an"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 8,
+    "first_publication_year": null,
+    "last_publication_year": 2018,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5086727904",
+    "name": "Chris Bain",
+    "institution": "Monash University",
+    "institution_url": "https://ror.org/02bfwt286",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A scoping review of the governance of federated learning in healthcare",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s41746-025-01836-3",
+        "venue": "npj Digital Medicine",
+        "abstract": "In healthcare, federated learning (FL) is emerging as a methodology to enable the analysis of large and disparate datasets while allowing custodians to retain sovereignty. While FL minimises data-sharing challenges, concerns surrounding ethics, privacy, maleficent use, and harm remain. These concerns can be managed by effective data governance. Data governance specifies procedural, relational, and structural mechanisms governing how data is captured, shared, and analysed, the resultant models an"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 12,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5026604569",
+    "name": "Zhen Ling Teo",
+    "institution": "Singapore National Eye Center",
+    "institution_url": "https://ror.org/029nvrb94",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.xcrm.2024.101419",
+        "venue": "Cell Reports Medicine",
+        "abstract": "Federated learning (FL) is a distributed machine learning framework that is gaining traction in view of increasing health data privacy protection needs. By conducting a systematic review of FL applications in healthcare, we identify relevant articles in scientific, engineering, and medical journals in English up to August 31st, 2023. Out of a total of 22,693 articles under review, 612 articles are included in the final analysis. The majority of articles are proof-of-concepts studies, and only 5."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 66,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5101723488",
+    "name": "Liyuan Jin",
+    "institution": "Singapore Eye Research Institute",
+    "institution_url": "https://ror.org/02crz6e12",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.xcrm.2024.101419",
+        "venue": "Cell Reports Medicine",
+        "abstract": "Federated learning (FL) is a distributed machine learning framework that is gaining traction in view of increasing health data privacy protection needs. By conducting a systematic review of FL applications in healthcare, we identify relevant articles in scientific, engineering, and medical journals in English up to August 31st, 2023. Out of a total of 22,693 articles under review, 612 articles are included in the final analysis. The majority of articles are proof-of-concepts studies, and only 5."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 32,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 13,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100367554",
+    "name": "Nan Liu",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated machine learning in healthcare: A systematic review on clinical applications and technical architecture",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.xcrm.2024.101419",
+        "venue": "Cell Reports Medicine",
+        "abstract": "Federated learning (FL) is a distributed machine learning framework that is gaining traction in view of increasing health data privacy protection needs. By conducting a systematic review of FL applications in healthcare, we identify relevant articles in scientific, engineering, and medical journals in English up to August 31st, 2023. Out of a total of 22,693 articles under review, 612 articles are included in the final analysis. The majority of articles are proof-of-concepts studies, and only 5."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 1090,
+    "first_publication_year": null,
+    "last_publication_year": 1955,
+    "h_index": 59,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5025770030",
+    "name": "Zelei Liu",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Contribution-Aware Federated Learning for Smart Healthcare",
+        "year": 2022,
+        "url": "https://doi.org/10.1609/aaai.v36i11.21505",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "abstract": "Artificial intelligence (AI) is a promising technology to transform the healthcare industry. Due to the highly sensitive nature of patient data, federated learning (FL) is often leveraged to build models for smart healthcare applications. Existing deployed FL frameworks cannot address the key issues of varying data quality and heterogeneous data distributions across multiple institutions in this sector. In this paper, we report our experience developing and deploying the Contribution-Aware Feder"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 22,
+    "first_publication_year": null,
+    "last_publication_year": 2017,
+    "h_index": 9,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100437870",
+    "name": "Yuanyuan Chen",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Contribution-Aware Federated Learning for Smart Healthcare",
+        "year": 2022,
+        "url": "https://doi.org/10.1609/aaai.v36i11.21505",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "abstract": "Artificial intelligence (AI) is a promising technology to transform the healthcare industry. Due to the highly sensitive nature of patient data, federated learning (FL) is often leveraged to build models for smart healthcare applications. Existing deployed FL frameworks cannot address the key issues of varying data quality and heterogeneous data distributions across multiple institutions in this sector. In this paper, we report our experience developing and deploying the Contribution-Aware Feder"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 240,
+    "first_publication_year": null,
+    "last_publication_year": 2003,
+    "h_index": 32,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5017339916",
+    "name": "Yansong Zhao",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Contribution-Aware Federated Learning for Smart Healthcare",
+        "year": 2022,
+        "url": "https://doi.org/10.1609/aaai.v36i11.21505",
+        "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "abstract": "Artificial intelligence (AI) is a promising technology to transform the healthcare industry. Due to the highly sensitive nature of patient data, federated learning (FL) is often leveraged to build models for smart healthcare applications. Existing deployed FL frameworks cannot address the key issues of varying data quality and heterogeneous data distributions across multiple institutions in this sector. In this paper, we report our experience developing and deploying the Contribution-Aware Feder"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 4,
+    "first_publication_year": null,
+    "last_publication_year": 2022,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5087870144",
+    "name": "Abbas Yazdinejad",
+    "institution": "University of Guelph",
+    "institution_url": "https://ror.org/01r7awg59",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "AP2FL: Auditable Privacy-Preserving Federated Learning Framework for Electronics in Healthcare",
+        "year": 2023,
+        "url": "https://doi.org/10.1109/tce.2023.3318509",
+        "venue": "IEEE Transactions on Consumer Electronics",
+        "abstract": "The growing application of machine learning (ML) techniques in healthcare has led to increased interest in federated learning (FL), which enables the secure and private training of robust ML models. However, conventional FL methods often fall short of providing adequate privacy protection and face challenges in handling non-independent and identically distributed (Non-IID) training data. These shortcomings are of significant concern when employing FL in electronic devices in healthcare. To addre"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 89,
+    "first_publication_year": null,
+    "last_publication_year": 2017,
+    "h_index": 30,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5038019914",
+    "name": "Ali Dehghantanha",
+    "institution": "University of Guelph",
+    "institution_url": "https://ror.org/01r7awg59",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "AP2FL: Auditable Privacy-Preserving Federated Learning Framework for Electronics in Healthcare",
+        "year": 2023,
+        "url": "https://doi.org/10.1109/tce.2023.3318509",
+        "venue": "IEEE Transactions on Consumer Electronics",
+        "abstract": "The growing application of machine learning (ML) techniques in healthcare has led to increased interest in federated learning (FL), which enables the secure and private training of robust ML models. However, conventional FL methods often fall short of providing adequate privacy protection and face challenges in handling non-independent and identically distributed (Non-IID) training data. These shortcomings are of significant concern when employing FL in electronic devices in healthcare. To addre"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 299,
+    "first_publication_year": null,
+    "last_publication_year": 2008,
+    "h_index": 63,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5051070119",
+    "name": "Marcus R. Makowski",
+    "institution": "Technical University of Munich",
+    "institution_url": "https://ror.org/02kkvpp62",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Secure, privacy-preserving and federated machine learning in medical imaging",
+        "year": 2020,
+        "url": "https://doi.org/10.1038/s42256-020-0186-1",
+        "venue": "Nature Machine Intelligence",
+        "abstract": "The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the req"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 524,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 48,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5027969322",
+    "name": "Wei Yang Bryan Lim",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Dynamic Contract Design for Federated Learning in Smart Healthcare Applications",
+        "year": 2020,
+        "url": "https://doi.org/10.1109/jiot.2020.3033806",
+        "venue": "IEEE Internet of Things Journal",
+        "abstract": "Currently, the data collected by the Internet of Healthcare Things, i.e., healthcare oriented Internet of Things (IoT), still rely on cloud-based centralized data aggregation and processing. To reduce the need for transmission of data to the cloud, the edge computing architecture may be adopted to facilitate machine learning at the edge of the network through leveraging on the amassed computation resources of pervasive IoT devices. In this article, federated learning (FL) is proposed to enable p"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 126,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 28,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5005877741",
+    "name": "Sahil Garg",
+    "institution": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+    "institution_url": "https://ror.org/002rjbv21",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Dynamic Contract Design for Federated Learning in Smart Healthcare Applications",
+        "year": 2020,
+        "url": "https://doi.org/10.1109/jiot.2020.3033806",
+        "venue": "IEEE Internet of Things Journal",
+        "abstract": "Currently, the data collected by the Internet of Healthcare Things, i.e., healthcare oriented Internet of Things (IoT), still rely on cloud-based centralized data aggregation and processing. To reduce the need for transmission of data to the cloud, the edge computing architecture may be adopted to facilitate machine learning at the edge of the network through leveraging on the amassed computation resources of pervasive IoT devices. In this article, federated learning (FL) is proposed to enable p"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 385,
+    "first_publication_year": null,
+    "last_publication_year": 1979,
+    "h_index": 59,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5005327587",
+    "name": "Zehui Xiong",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Dynamic Contract Design for Federated Learning in Smart Healthcare Applications",
+        "year": 2020,
+        "url": "https://doi.org/10.1109/jiot.2020.3033806",
+        "venue": "IEEE Internet of Things Journal",
+        "abstract": "Currently, the data collected by the Internet of Healthcare Things, i.e., healthcare oriented Internet of Things (IoT), still rely on cloud-based centralized data aggregation and processing. To reduce the need for transmission of data to the cloud, the edge computing architecture may be adopted to facilitate machine learning at the edge of the network through leveraging on the amassed computation resources of pervasive IoT devices. In this article, federated learning (FL) is proposed to enable p"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 775,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 74,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5018409592",
+    "name": "Mamoun Alazab",
+    "institution": "Charles Darwin University",
+    "institution_url": "https://ror.org/048zcaj52",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "FL-PMI: Federated Learning-Based Person Movement Identification through Wearable Devices in Smart Healthcare Systems",
+        "year": 2022,
+        "url": "https://doi.org/10.3390/s22041377",
+        "venue": "Sensors",
+        "abstract": "Recent technological developments, such as the Internet of Things (IoT), artificial intelligence, edge, and cloud computing, have paved the way in transforming traditional healthcare systems into smart healthcare (SHC) systems. SHC escalates healthcare management with increased efficiency, convenience, and personalization, via use of wearable devices and connectivity, to access information with rapid responses. Wearable devices are equipped with multiple sensors to identify a person's movements."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "federated learning in healthcare",
+    "matched_keyword": "federated learning in healthcare",
+    "total_paper_count": 412,
+    "first_publication_year": null,
+    "last_publication_year": 1969,
+    "h_index": 86,
+    "position_title": null
+  }
+]

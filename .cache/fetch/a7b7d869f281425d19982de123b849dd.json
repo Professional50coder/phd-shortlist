@@ -1,0 +1,954 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5055697525",
+    "name": "Geert Litjens",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1016/j.media.2017.07.005",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 185,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 51,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5057937692",
+    "name": "Thijs Kooi",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1016/j.media.2017.07.005",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 23,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 8,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5055531734",
+    "name": "Babak Ehteshami Bejnordi",
+    "institution": "Radboud University Medical Center",
+    "institution_url": "https://ror.org/05wg1m734",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1016/j.media.2017.07.005",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 62,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5005985801",
+    "name": "Tim McInerney",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deformable models in medical image analysis: a survey",
+        "year": 1996,
+        "url": "https://doi.org/10.1016/s1361-8415(96)80007-7",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      },
+      {
+        "title": "Deformable models in medical image analysis",
+        "year": 1996,
+        "url": "https://doi.org/10.1109/mmbia.1996.534069",
+        "venue": "",
+        "abstract": "This article surveys deformable models, a promising and vigorously researched computer-assisted medical image analysis technique. Among model-based techniques, deformable models offer a unique and powerful approach to image analysis that combines geometry, physics, and approximation theory. They have proven to be effective in segmenting, matching, and tracking anatomic structures by exploiting (bottom-up) constraints derived from the image data together with (top-down) a priori knowledge about t"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 46,
+    "first_publication_year": null,
+    "last_publication_year": 1993,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5034397232",
+    "name": "Demetri Terzopoulos",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deformable models in medical image analysis: a survey",
+        "year": 1996,
+        "url": "https://doi.org/10.1016/s1361-8415(96)80007-7",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      },
+      {
+        "title": "Deformable models in medical image analysis",
+        "year": 1996,
+        "url": "https://doi.org/10.1109/mmbia.1996.534069",
+        "venue": "",
+        "abstract": "This article surveys deformable models, a promising and vigorously researched computer-assisted medical image analysis technique. Among model-based techniques, deformable models offer a unique and powerful approach to image analysis that combines geometry, physics, and approximation theory. They have proven to be effective in segmenting, matching, and tracking anatomic structures by exploiting (bottom-up) constraints derived from the image data together with (top-down) a priori knowledge about t"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 400,
+    "first_publication_year": null,
+    "last_publication_year": 1980,
+    "h_index": 76,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5013877182",
+    "name": "Justin Ker",
+    "institution": "National Neuroscience Institute",
+    "institution_url": "https://ror.org/03d58dr58",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Applications in Medical Image Analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1109/access.2017.2788044",
+        "venue": "IEEE Access",
+        "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 15,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 7,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5086764741",
+    "name": "Lipo Wang",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Applications in Medical Image Analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1109/access.2017.2788044",
+        "venue": "IEEE Access",
+        "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 364,
+    "first_publication_year": null,
+    "last_publication_year": 1985,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5063292206",
+    "name": "Jai Prashanth Rao",
+    "institution": "National Neuroscience Institute",
+    "institution_url": "https://ror.org/03d58dr58",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Applications in Medical Image Analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1109/access.2017.2788044",
+        "venue": "IEEE Access",
+        "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 27,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5029655930",
+    "name": "Bas H. M. van der Velden",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable artificial intelligence (XAI) in deep learning-based medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102470",
+        "venue": "Medical Image Analysis",
+        "abstract": "With an increase in deep learning-based methods, the call for explainability of such methods grows, especially in high-stakes decision making areas such as medical image analysis. This survey presents an overview of explainable artificial intelligence (XAI) used in deep learning-based medical image analysis. A framework of XAI criteria is introduced to classify deep learning-based medical image analysis methods. Papers on XAI techniques in medical image analysis are then surveyed and categorized"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 49,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 14,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5078692612",
+    "name": "Hugo J. Kuijf",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable artificial intelligence (XAI) in deep learning-based medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102470",
+        "venue": "Medical Image Analysis",
+        "abstract": "With an increase in deep learning-based methods, the call for explainability of such methods grows, especially in high-stakes decision making areas such as medical image analysis. This survey presents an overview of explainable artificial intelligence (XAI) used in deep learning-based medical image analysis. A framework of XAI criteria is introduced to classify deep learning-based medical image analysis methods. Papers on XAI techniques in medical image analysis are then surveyed and categorized"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 232,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 43,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5033195086",
+    "name": "Kenneth G. A. Gilhuijs",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable artificial intelligence (XAI) in deep learning-based medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102470",
+        "venue": "Medical Image Analysis",
+        "abstract": "With an increase in deep learning-based methods, the call for explainability of such methods grows, especially in high-stakes decision making areas such as medical image analysis. This survey presents an overview of explainable artificial intelligence (XAI) used in deep learning-based medical image analysis. A framework of XAI criteria is introduced to classify deep learning-based medical image analysis methods. Papers on XAI techniques in medical image analysis are then surveyed and categorized"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 169,
+    "first_publication_year": null,
+    "last_publication_year": 1991,
+    "h_index": 40,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5058987737",
+    "name": "Philippe Lambin",
+    "institution": "Maastricht University Medical Centre",
+    "institution_url": "https://ror.org/02d9ce178",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "year": 2012,
+        "url": "https://doi.org/10.1016/j.ejca.2011.11.036",
+        "venue": "European Journal of Cancer",
+        "abstract": ""
+      },
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://doi.org/10.1038/nrclinonc.2017.141",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 1289,
+    "first_publication_year": null,
+    "last_publication_year": 1935,
+    "h_index": 117,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5073148967",
+    "name": "Emmanuel Rios-Velazquez",
+    "institution": "Maastricht University",
+    "institution_url": "https://ror.org/02jz4aj89",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "year": 2012,
+        "url": "https://doi.org/10.1016/j.ejca.2011.11.036",
+        "venue": "European Journal of Cancer",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 4,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5055844896",
+    "name": "Ralph T. H. Leijenaar",
+    "institution": "Maastricht University",
+    "institution_url": "https://ror.org/02jz4aj89",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "year": 2012,
+        "url": "https://doi.org/10.1016/j.ejca.2011.11.036",
+        "venue": "European Journal of Cancer",
+        "abstract": ""
+      },
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://doi.org/10.1038/nrclinonc.2017.141",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 141,
+    "first_publication_year": null,
+    "last_publication_year": 2002,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5077080413",
+    "name": "M. Jorge Cardoso",
+    "institution": "McGill University",
+    "institution_url": "https://ror.org/01pxwe438",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support",
+        "year": 2017,
+        "url": "https://doi.org/10.1007/978-3-319-67558-9",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 554,
+    "first_publication_year": null,
+    "last_publication_year": 1970,
+    "h_index": 72,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5038749016",
+    "name": "Tal Arbel",
+    "institution": "The University of Adelaide",
+    "institution_url": "https://ror.org/00892tw58",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support",
+        "year": 2017,
+        "url": "https://doi.org/10.1007/978-3-319-67558-9",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 226,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 39,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5013950108",
+    "name": "Felix Ritter",
+    "institution": "Fraunhofer Institute for Digital Medicine",
+    "institution_url": "https://ror.org/04farme71",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Medical Image Analysis",
+        "year": 2011,
+        "url": "https://doi.org/10.1109/mpul.2011.942929",
+        "venue": "IEEE Pulse",
+        "abstract": "Since the discovery of the X-ray radiation by Wilhelm Conrad Roentgen in 1895, the field of medical imaging has developed into a huge scientific discipline. The analysis of patient data acquired by current image modalities, such as computerized tomography (CT), magnetic resonance tomography (MRT), positron emission tomography (PET), or ultrasound (US), offers previously unattained opportunities for diagnosis, therapy planning, and therapy assessment. Medical image processing is essential to leve"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 57,
+    "first_publication_year": null,
+    "last_publication_year": 1975,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5074650107",
+    "name": "Tobias Boskamp",
+    "institution": "MeVis Medical Solutions (Germany)",
+    "institution_url": "https://ror.org/04zj6ee21",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Medical Image Analysis",
+        "year": 2011,
+        "url": "https://doi.org/10.1109/mpul.2011.942929",
+        "venue": "IEEE Pulse",
+        "abstract": "Since the discovery of the X-ray radiation by Wilhelm Conrad Roentgen in 1895, the field of medical imaging has developed into a huge scientific discipline. The analysis of patient data acquired by current image modalities, such as computerized tomography (CT), magnetic resonance tomography (MRT), positron emission tomography (PET), or ultrasound (US), offers previously unattained opportunities for diagnosis, therapy planning, and therapy assessment. Medical image processing is essential to leve"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 51,
+    "first_publication_year": null,
+    "last_publication_year": 1997,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5033981831",
+    "name": "Andr\u00e9 Homeyer",
+    "institution": "Fraunhofer Institute for Digital Medicine",
+    "institution_url": "https://ror.org/04farme71",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Medical Image Analysis",
+        "year": 2011,
+        "url": "https://doi.org/10.1109/mpul.2011.942929",
+        "venue": "IEEE Pulse",
+        "abstract": "Since the discovery of the X-ray radiation by Wilhelm Conrad Roentgen in 1895, the field of medical imaging has developed into a huge scientific discipline. The analysis of patient data acquired by current image modalities, such as computerized tomography (CT), magnetic resonance tomography (MRT), positron emission tomography (PET), or ultrasound (US), offers previously unattained opportunities for diagnosis, therapy planning, and therapy assessment. Medical image processing is essential to leve"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 75,
+    "first_publication_year": null,
+    "last_publication_year": 1956,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5078711649",
+    "name": "Xingjun Ma",
+    "institution": "The University of Melbourne",
+    "institution_url": "https://ror.org/01ej9dk98",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Understanding adversarial attacks on deep learning based medical image analysis systems",
+        "year": 2020,
+        "url": "https://doi.org/10.1016/j.patcog.2020.107332",
+        "venue": "Pattern Recognition",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 227,
+    "first_publication_year": null,
+    "last_publication_year": 2002,
+    "h_index": 32,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5046759809",
+    "name": "Padmavathi Kora",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Transfer learning techniques for medical image analysis: A review",
+        "year": 2021,
+        "url": "https://doi.org/10.1016/j.bbe.2021.11.004",
+        "venue": "Journal of Applied Biomedicine",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 94,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 25,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5056744112",
+    "name": "Chui Ping Ooi",
+    "institution": "Singapore University of Social Sciences",
+    "institution_url": "https://ror.org/01s57k749",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Transfer learning techniques for medical image analysis: A review",
+        "year": 2021,
+        "url": "https://doi.org/10.1016/j.bbe.2021.11.004",
+        "venue": "Journal of Applied Biomedicine",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 63,
+    "first_publication_year": null,
+    "last_publication_year": 2001,
+    "h_index": 33,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5087512747",
+    "name": "Reza Azad",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Advances in medical image analysis with vision Transformers: A comprehensive review",
+        "year": 2023,
+        "url": "https://doi.org/10.1016/j.media.2023.103000",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 88,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 24,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5034894826",
+    "name": "Zohaib Salahuddin",
+    "institution": "Maastricht University",
+    "institution_url": "https://ror.org/02jz4aj89",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Transparency of deep neural networks for medical image analysis: A review of interpretability methods",
+        "year": 2021,
+        "url": "https://doi.org/10.1016/j.compbiomed.2021.105111",
+        "venue": "Computers in Biology and Medicine",
+        "abstract": "Artificial Intelligence (AI) has emerged as a useful aid in numerous clinical applications for diagnosis and treatment decisions. Deep neural networks have shown the same or better performance than clinicians in many tasks owing to the rapid increase in the available data and computational power. In order to conform to the principles of trustworthy AI, it is essential that the AI system be transparent, robust, fair, and ensure accountability. Current deep neural solutions are referred to as blac"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 37,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 11,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5001892623",
+    "name": "Henry C. Woodruff",
+    "institution": "Maastricht University",
+    "institution_url": "https://ror.org/02jz4aj89",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Transparency of deep neural networks for medical image analysis: A review of interpretability methods",
+        "year": 2021,
+        "url": "https://doi.org/10.1016/j.compbiomed.2021.105111",
+        "venue": "Computers in Biology and Medicine",
+        "abstract": "Artificial Intelligence (AI) has emerged as a useful aid in numerous clinical applications for diagnosis and treatment decisions. Deep neural networks have shown the same or better performance than clinicians in many tasks owing to the rapid increase in the available data and computational power. In order to conform to the principles of trustworthy AI, it is essential that the AI system be transparent, robust, fair, and ensure accountability. Current deep neural solutions are referred to as blac"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 181,
+    "first_publication_year": null,
+    "last_publication_year": 2003,
+    "h_index": 42,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100783879",
+    "name": "Avishek Chatterjee",
+    "institution": "Maastricht University",
+    "institution_url": "https://ror.org/02jz4aj89",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Transparency of deep neural networks for medical image analysis: A review of interpretability methods",
+        "year": 2021,
+        "url": "https://doi.org/10.1016/j.compbiomed.2021.105111",
+        "venue": "Computers in Biology and Medicine",
+        "abstract": "Artificial Intelligence (AI) has emerged as a useful aid in numerous clinical applications for diagnosis and treatment decisions. Deep neural networks have shown the same or better performance than clinicians in many tasks owing to the rapid increase in the available data and computational power. In order to conform to the principles of trustworthy AI, it is essential that the AI system be transparent, robust, fair, and ensure accountability. Current deep neural solutions are referred to as blac"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 61,
+    "first_publication_year": null,
+    "last_publication_year": 1994,
+    "h_index": 20,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5109490464",
+    "name": "Mohammed Adnan",
+    "institution": "University of Waterloo",
+    "institution_url": "https://ror.org/01aff2v68",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated learning and differential privacy for medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41598-022-05539-7",
+        "venue": "Scientific Reports",
+        "abstract": "The artificial intelligence revolution has been spurred forward by the availability of large-scale datasets. In contrast, the paucity of large-scale medical datasets hinders the application of machine learning in healthcare. The lack of publicly available multi-centric and diverse datasets mainly stems from confidentiality and privacy concerns around sharing medical data. To demonstrate a feasible path forward in medical image imaging, we conduct a case study of applying a differentially private"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 23,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5041584243",
+    "name": "Shivam Kalra",
+    "institution": "University of Waterloo",
+    "institution_url": "https://ror.org/01aff2v68",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated learning and differential privacy for medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41598-022-05539-7",
+        "venue": "Scientific Reports",
+        "abstract": "The artificial intelligence revolution has been spurred forward by the availability of large-scale datasets. In contrast, the paucity of large-scale medical datasets hinders the application of machine learning in healthcare. The lack of publicly available multi-centric and diverse datasets mainly stems from confidentiality and privacy concerns around sharing medical data. To demonstrate a feasible path forward in medical image imaging, we conduct a case study of applying a differentially private"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 50,
+    "first_publication_year": null,
+    "last_publication_year": 1972,
+    "h_index": 14,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5011437676",
+    "name": "Jesse C. Cresswell",
+    "institution": "MaRS",
+    "institution_url": "https://ror.org/020n6f578",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated learning and differential privacy for medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41598-022-05539-7",
+        "venue": "Scientific Reports",
+        "abstract": "The artificial intelligence revolution has been spurred forward by the availability of large-scale datasets. In contrast, the paucity of large-scale medical datasets hinders the application of machine learning in healthcare. The lack of publicly available multi-centric and diverse datasets mainly stems from confidentiality and privacy concerns around sharing medical data. To demonstrate a feasible path forward in medical image imaging, we conduct a case study of applying a differentially private"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 68,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 8,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5029215323",
+    "name": "Gustavo Carneiro",
+    "institution": "The University of Adelaide",
+    "institution_url": "https://ror.org/00892tw58",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support",
+        "year": 2018,
+        "url": "https://doi.org/10.1007/978-3-030-00889-5",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 466,
+    "first_publication_year": null,
+    "last_publication_year": 1991,
+    "h_index": 56,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5078933997",
+    "name": "Dwarikanath Mahapatra",
+    "institution": "IBM Research - Australia",
+    "institution_url": "https://ror.org/027r3nx49",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Image super-resolution using progressive generative adversarial networks for medical image analysis",
+        "year": 2018,
+        "url": "https://doi.org/10.1016/j.compmedimag.2018.10.005",
+        "venue": "Computerized Medical Imaging and Graphics",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 175,
+    "first_publication_year": null,
+    "last_publication_year": 2006,
+    "h_index": 38,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5091677392",
+    "name": "Rahil Garnavi",
+    "institution": "IBM Research - Australia",
+    "institution_url": "https://ror.org/027r3nx49",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Image super-resolution using progressive generative adversarial networks for medical image analysis",
+        "year": 2018,
+        "url": "https://doi.org/10.1016/j.compmedimag.2018.10.005",
+        "venue": "Computerized Medical Imaging and Graphics",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 94,
+    "first_publication_year": null,
+    "last_publication_year": 2005,
+    "h_index": 30,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5035749164",
+    "name": "Timo M. Deist",
+    "institution": "Maastricht University Medical Centre",
+    "institution_url": "https://ror.org/02d9ce178",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://doi.org/10.1038/nrclinonc.2017.141",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "medical image analysis",
+    "total_paper_count": 42,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 17,
+    "position_title": null
+  }
+]

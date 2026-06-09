@@ -1,0 +1,996 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5077239665",
+    "name": "Oleg S. Pianykh",
+    "institution": "Heidelberg University",
+    "institution_url": "https://ror.org/038t36y30",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Continuous Learning AI in Radiology: Implementation Principles and Early Applications",
+        "year": 2020,
+        "url": "https://doi.org/10.1148/radiol.2020200038",
+        "venue": "Radiology",
+        "abstract": "Artificial intelligence (AI) is becoming increasingly present in radiology and health care. This expansion is driven by the principal AI strengths: automation, accuracy, and objectivity. However, as radiology AI matures to become fully integrated into the daily radiology routine, it needs to go beyond replicating static models, toward discovering new knowledge from the data and environments around it. Continuous learning AI presents the next substantial step in this direction and brings a new se"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 129,
+    "first_publication_year": null,
+    "last_publication_year": 1997,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5060814361",
+    "name": "Georg Langs",
+    "institution": "Heidelberg University",
+    "institution_url": "https://ror.org/038t36y30",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Continuous Learning AI in Radiology: Implementation Principles and Early Applications",
+        "year": 2020,
+        "url": "https://doi.org/10.1148/radiol.2020200038",
+        "venue": "Radiology",
+        "abstract": "Artificial intelligence (AI) is becoming increasingly present in radiology and health care. This expansion is driven by the principal AI strengths: automation, accuracy, and objectivity. However, as radiology AI matures to become fully integrated into the daily radiology routine, it needs to go beyond replicating static models, toward discovering new knowledge from the data and environments around it. Continuous learning AI presents the next substantial step in this direction and brings a new se"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 443,
+    "first_publication_year": null,
+    "last_publication_year": 1991,
+    "h_index": 48,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5086965469",
+    "name": "Marc Dewey",
+    "institution": "Heidelberg University",
+    "institution_url": "https://ror.org/038t36y30",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Continuous Learning AI in Radiology: Implementation Principles and Early Applications",
+        "year": 2020,
+        "url": "https://doi.org/10.1148/radiol.2020200038",
+        "venue": "Radiology",
+        "abstract": "Artificial intelligence (AI) is becoming increasingly present in radiology and health care. This expansion is driven by the principal AI strengths: automation, accuracy, and objectivity. However, as radiology AI matures to become fully integrated into the daily radiology routine, it needs to go beyond replicating static models, toward discovering new knowledge from the data and environments around it. Continuous learning AI presents the next substantial step in this direction and brings a new se"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 423,
+    "first_publication_year": null,
+    "last_publication_year": 2001,
+    "h_index": 55,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5037001404",
+    "name": "L.G.D. Strohm",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Implementation of artificial intelligence (AI) applications in radiology: hindering and facilitating factors",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00330-020-06946-y",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVE: The objective was to identify barriers and facilitators to the implementation of artificial intelligence (AI) applications in clinical radiology in The Netherlands. MATERIALS AND METHODS: Using an embedded multiple case study, an exploratory, qualitative research design was followed. Data collection consisted of 24 semi-structured interviews from seven Dutch hospitals. The analysis of barriers and facilitators was guided by the recently published Non-adoption, Abandonment, Scale-up, S"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 2,
+    "first_publication_year": null,
+    "last_publication_year": 2019,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5011187635",
+    "name": "Charisma Hehakaya",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Implementation of artificial intelligence (AI) applications in radiology: hindering and facilitating factors",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00330-020-06946-y",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVE: The objective was to identify barriers and facilitators to the implementation of artificial intelligence (AI) applications in clinical radiology in The Netherlands. MATERIALS AND METHODS: Using an embedded multiple case study, an exploratory, qualitative research design was followed. Data collection consisted of 24 semi-structured interviews from seven Dutch hospitals. The analysis of barriers and facilitators was guided by the recently published Non-adoption, Abandonment, Scale-up, S"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 18,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 7,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5021602522",
+    "name": "Erik Ranschaert",
+    "institution": "Elisabeth-TweeSteden Ziekenhuis",
+    "institution_url": "https://ror.org/04gpfvy81",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Implementation of artificial intelligence (AI) applications in radiology: hindering and facilitating factors",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00330-020-06946-y",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVE: The objective was to identify barriers and facilitators to the implementation of artificial intelligence (AI) applications in clinical radiology in The Netherlands. MATERIALS AND METHODS: Using an embedded multiple case study, an exploratory, qualitative research design was followed. Data collection consisted of 24 semi-structured interviews from seven Dutch hospitals. The analysis of barriers and facilitators was guided by the recently published Non-adoption, Abandonment, Scale-up, S"
+      },
+      {
+        "title": "An international survey on AI in radiology in 1,041 radiologists and radiology residents part 1: fear of replacement, knowledge, and attitude",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07781-5",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Radiologists' perception is likely to influence the adoption of artificial intelligence (AI) into clinical practice. We investigated knowledge and attitude towards AI by radiologists and residents in Europe and beyond. METHODS: Between April and July 2019, a survey on fear of replacement, knowledge, and attitude towards AI was accessible to radiologists and residents. The survey was distributed through several radiological societies, author networks, and social media. Independent pre"
+      },
+      {
+        "title": "An international survey on AI in radiology in 1041 radiologists and radiology residents part 2: expectations, hurdles to implementation, and education",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07782-4",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Currently, hurdles to implementation of artificial intelligence (AI) in radiology are a much-debated topic but have not been investigated in the community at large. Also, controversy exists if and to what extent AI should be incorporated into radiology residency programs. METHODS: Between April and July 2019, an international survey took place on AI regarding its impact on the profession and training. The survey was accessible for radiologists and residents and distributed through se"
+      },
+      {
+        "title": "Training opportunities of artificial intelligence (AI) in radiology: a systematic review",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-020-07621-y",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: The aim is to offer an overview of the existing training programs and critically examine them and suggest avenues for further development of AI training programs for radiologists. METHODS: Deductive thematic analysis of 100 training programs offered in 2019 and 2020 (until June 30). We analyze the public data about the training programs based on their \"contents,\" \"target audience,\" \"instructors and offering agents,\" and \"legitimization strategies.\" RESULTS: There are many AI training"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 95,
+    "first_publication_year": null,
+    "last_publication_year": 1986,
+    "h_index": 23,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5008796850",
+    "name": "Merel Huisman",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "An international survey on AI in radiology in 1,041 radiologists and radiology residents part 1: fear of replacement, knowledge, and attitude",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07781-5",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Radiologists' perception is likely to influence the adoption of artificial intelligence (AI) into clinical practice. We investigated knowledge and attitude towards AI by radiologists and residents in Europe and beyond. METHODS: Between April and July 2019, a survey on fear of replacement, knowledge, and attitude towards AI was accessible to radiologists and residents. The survey was distributed through several radiological societies, author networks, and social media. Independent pre"
+      },
+      {
+        "title": "An international survey on AI in radiology in 1041 radiologists and radiology residents part 2: expectations, hurdles to implementation, and education",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07782-4",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Currently, hurdles to implementation of artificial intelligence (AI) in radiology are a much-debated topic but have not been investigated in the community at large. Also, controversy exists if and to what extent AI should be incorporated into radiology residency programs. METHODS: Between April and July 2019, an international survey took place on AI regarding its impact on the profession and training. The survey was accessible for radiologists and residents and distributed through se"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 75,
+    "first_publication_year": null,
+    "last_publication_year": 1985,
+    "h_index": 23,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5047563379",
+    "name": "William Parker",
+    "institution": "University of British Columbia",
+    "institution_url": "https://ror.org/03rmrcq20",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "An international survey on AI in radiology in 1,041 radiologists and radiology residents part 1: fear of replacement, knowledge, and attitude",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07781-5",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Radiologists' perception is likely to influence the adoption of artificial intelligence (AI) into clinical practice. We investigated knowledge and attitude towards AI by radiologists and residents in Europe and beyond. METHODS: Between April and July 2019, a survey on fear of replacement, knowledge, and attitude towards AI was accessible to radiologists and residents. The survey was distributed through several radiological societies, author networks, and social media. Independent pre"
+      },
+      {
+        "title": "An international survey on AI in radiology in 1041 radiologists and radiology residents part 2: expectations, hurdles to implementation, and education",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07782-4",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Currently, hurdles to implementation of artificial intelligence (AI) in radiology are a much-debated topic but have not been investigated in the community at large. Also, controversy exists if and to what extent AI should be incorporated into radiology residency programs. METHODS: Between April and July 2019, an international survey took place on AI regarding its impact on the profession and training. The survey was accessible for radiologists and residents and distributed through se"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 174,
+    "first_publication_year": null,
+    "last_publication_year": 1852,
+    "h_index": 32,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5093565264",
+    "name": "Bart-Jan Boverhof",
+    "institution": "Erasmus University Rotterdam",
+    "institution_url": "https://ror.org/057w15z03",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice",
+        "year": 2024,
+        "url": "https://doi.org/10.1186/s13244-023-01599-z",
+        "venue": "Insights into Imaging",
+        "abstract": "OBJECTIVE: To provide a comprehensive framework for value assessment of artificial intelligence (AI) in radiology. METHODS: This paper presents the RADAR framework, which has been adapted from Fryback and Thornbury's imaging efficacy framework to facilitate the valuation of radiology AI from conception to local implementation. Local efficacy has been newly introduced to underscore the importance of appraising an AI technology within its local environment. Furthermore, the RADAR framework is illu"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 7,
+    "first_publication_year": null,
+    "last_publication_year": 2023,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5038765957",
+    "name": "Ken Redekop",
+    "institution": "Erasmus University Rotterdam",
+    "institution_url": "https://ror.org/057w15z03",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice",
+        "year": 2024,
+        "url": "https://doi.org/10.1186/s13244-023-01599-z",
+        "venue": "Insights into Imaging",
+        "abstract": "OBJECTIVE: To provide a comprehensive framework for value assessment of artificial intelligence (AI) in radiology. METHODS: This paper presents the RADAR framework, which has been adapted from Fryback and Thornbury's imaging efficacy framework to facilitate the valuation of radiology AI from conception to local implementation. Local efficacy has been newly introduced to underscore the importance of appraising an AI technology within its local environment. Furthermore, the RADAR framework is illu"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 364,
+    "first_publication_year": null,
+    "last_publication_year": 1991,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5089667544",
+    "name": "Dani\u00ebl Bos",
+    "institution": "Erasmus University Rotterdam",
+    "institution_url": "https://ror.org/057w15z03",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice",
+        "year": 2024,
+        "url": "https://doi.org/10.1186/s13244-023-01599-z",
+        "venue": "Insights into Imaging",
+        "abstract": "OBJECTIVE: To provide a comprehensive framework for value assessment of artificial intelligence (AI) in radiology. METHODS: This paper presents the RADAR framework, which has been adapted from Fryback and Thornbury's imaging efficacy framework to facilitate the valuation of radiology AI from conception to local implementation. Local efficacy has been newly introduced to underscore the importance of appraising an AI technology within its local environment. Furthermore, the RADAR framework is illu"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 367,
+    "first_publication_year": null,
+    "last_publication_year": 2009,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5084291094",
+    "name": "Alexis Ducarouge",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "To buy or not to buy\u2014evaluating commercial AI solutions in radiology (the ECLAIR guidelines)",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-020-07684-x",
+        "venue": "European Radiology",
+        "abstract": "Artificial intelligence (AI) has made impressive progress over the past few years, including many applications in medical imaging. Numerous commercial solutions based on AI techniques are now available for sale, forcing radiology practices to learn how to properly assess these tools. While several guidelines describing good practices for conducting and reporting AI-based research in medicine and radiology have been published, fewer efforts have focused on recommendations addressing the key quest"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 16,
+    "first_publication_year": null,
+    "last_publication_year": 2017,
+    "h_index": 9,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5013663784",
+    "name": "Antoine Tournier",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "To buy or not to buy\u2014evaluating commercial AI solutions in radiology (the ECLAIR guidelines)",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-020-07684-x",
+        "venue": "European Radiology",
+        "abstract": "Artificial intelligence (AI) has made impressive progress over the past few years, including many applications in medical imaging. Numerous commercial solutions based on AI techniques are now available for sale, forcing radiology practices to learn how to properly assess these tools. While several guidelines describing good practices for conducting and reporting AI-based research in medicine and radiology have been published, fewer efforts have focused on recommendations addressing the key quest"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 2,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5087413038",
+    "name": "Elmar Kotter",
+    "institution": "University of Freiburg",
+    "institution_url": "https://ror.org/0245cg223",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Guiding AI in radiology: ESR\u2019s recommendations for effective implementation of the European AI Act",
+        "year": 2025,
+        "url": "https://doi.org/10.1186/s13244-025-01905-x",
+        "venue": "Insights into Imaging",
+        "abstract": "This statement has been produced within the European Society of Radiology AI Working Group and identifies the key policies of the EU AI Act as they pertain to medical imaging. It offers specific recommendations to policymakers and the professional community for the effective implementation of the legislation, addressing potential gaps and uncertainties. Key areas include AI literacy, classification rules for high-risk AI systems, data governance, transparency, human oversight, quality management"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 187,
+    "first_publication_year": null,
+    "last_publication_year": 1989,
+    "h_index": 37,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5029172836",
+    "name": "Tugba Akinci D\u2019Antonoli",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Guiding AI in radiology: ESR\u2019s recommendations for effective implementation of the European AI Act",
+        "year": 2025,
+        "url": "https://doi.org/10.1186/s13244-025-01905-x",
+        "venue": "Insights into Imaging",
+        "abstract": "This statement has been produced within the European Society of Radiology AI Working Group and identifies the key policies of the EU AI Act as they pertain to medical imaging. It offers specific recommendations to policymakers and the professional community for the effective implementation of the legislation, addressing potential gaps and uncertainties. Key areas include AI literacy, classification rules for high-risk AI systems, data governance, transparency, human oversight, quality management"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 57,
+    "first_publication_year": null,
+    "last_publication_year": 1980,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5036400734",
+    "name": "Mohammad Hosein Rezazade Mehrizi",
+    "institution": "Vrije Universiteit Amsterdam",
+    "institution_url": "https://ror.org/008xxew50",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Applications of artificial intelligence (AI) in diagnostic radiology: a technography study",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00330-020-07230-9",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Why is there a major gap between the promises of AI and its applications in the domain of diagnostic radiology? To answer this question, we systematically review and critically analyze the AI applications in the radiology domain. METHODS: We systematically analyzed these applications based on their focal modality and anatomic region as well as their stage of development, technical infrastructure, and approval. RESULTS: We identified 269 AI applications in the diagnostic radiology dom"
+      },
+      {
+        "title": "Training opportunities of artificial intelligence (AI) in radiology: a systematic review",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-020-07621-y",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: The aim is to offer an overview of the existing training programs and critically examine them and suggest avenues for further development of AI training programs for radiologists. METHODS: Deductive thematic analysis of 100 training programs offered in 2019 and 2020 (until June 30). We analyze the public data about the training programs based on their \"contents,\" \"target audience,\" \"instructors and offering agents,\" and \"legitimization strategies.\" RESULTS: There are many AI training"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 48,
+    "first_publication_year": null,
+    "last_publication_year": 2006,
+    "h_index": 18,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5024082845",
+    "name": "Peter M. A. van Ooijen",
+    "institution": "University Medical Center Groningen",
+    "institution_url": "https://ror.org/03cv38k47",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Applications of artificial intelligence (AI) in diagnostic radiology: a technography study",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00330-020-07230-9",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Why is there a major gap between the promises of AI and its applications in the domain of diagnostic radiology? To answer this question, we systematically review and critically analyze the AI applications in the radiology domain. METHODS: We systematically analyzed these applications based on their focal modality and anatomic region as well as their stage of development, technical infrastructure, and approval. RESULTS: We identified 269 AI applications in the diagnostic radiology dom"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 418,
+    "first_publication_year": null,
+    "last_publication_year": 1977,
+    "h_index": 52,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5041407651",
+    "name": "Milou Homan",
+    "institution": "Vrije Universiteit Amsterdam",
+    "institution_url": "https://ror.org/008xxew50",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Applications of artificial intelligence (AI) in diagnostic radiology: a technography study",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00330-020-07230-9",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Why is there a major gap between the promises of AI and its applications in the domain of diagnostic radiology? To answer this question, we systematically review and critically analyze the AI applications in the radiology domain. METHODS: We systematically analyzed these applications based on their focal modality and anatomic region as well as their stage of development, technical infrastructure, and approval. RESULTS: We identified 269 AI applications in the diagnostic radiology dom"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 1,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5028466190",
+    "name": "Reabal Najjar",
+    "institution": "Services Australia",
+    "institution_url": "https://ror.org/03gwaxw53",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging",
+        "year": 2023,
+        "url": "https://doi.org/10.3390/diagnostics13172760",
+        "venue": "Diagnostics",
+        "abstract": "This comprehensive review unfolds a detailed narrative of Artificial Intelligence (AI) making its foray into radiology, a move that is catalysing transformational shifts in the healthcare landscape. It traces the evolution of radiology, from the initial discovery of X-rays to the application of machine learning and deep learning in modern medical image analysis. The primary focus of this review is to shed light on AI applications in radiology, elucidating their seminal roles in image segmentatio"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 47,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5051558381",
+    "name": "An Tang",
+    "institution": "Centre Hospitalier de l\u2019Universit\u00e9 de Montr\u00e9al",
+    "institution_url": "https://ror.org/0410a8y51",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology",
+        "year": 2018,
+        "url": "https://doi.org/10.1016/j.carj.2018.02.002",
+        "venue": "Canadian Association of Radiologists Journal",
+        "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 384,
+    "first_publication_year": null,
+    "last_publication_year": 1987,
+    "h_index": 61,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5084754494",
+    "name": "Roger Tam",
+    "institution": "University of British Columbia",
+    "institution_url": "https://ror.org/03rmrcq20",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology",
+        "year": 2018,
+        "url": "https://doi.org/10.1016/j.carj.2018.02.002",
+        "venue": "Canadian Association of Radiologists Journal",
+        "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 225,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 36,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5010325707",
+    "name": "Alexandre Cadrin-Ch\u00eanevert",
+    "institution": "Cegep regional de Lanaudiere",
+    "institution_url": "https://ror.org/02jqwca63",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology",
+        "year": 2018,
+        "url": "https://doi.org/10.1016/j.carj.2018.02.002",
+        "venue": "Canadian Association of Radiologists Journal",
+        "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 25,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 11,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5079542856",
+    "name": "Kicky G. van Leeuwen",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07892-z",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Map the current landscape of commercially available artificial intelligence (AI) software for radiology and review the availability of their scientific evidence. METHODS: We created an online overview of CE-marked AI software products for clinical radiology based on vendor-supplied product specifications ( www.aiforradiology.com ). Characteristics such as modality, subspeciality, main task, regulatory information, deployment, and pricing model were retrieved. We conducted an extensiv"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 25,
+    "first_publication_year": null,
+    "last_publication_year": 2015,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5074610940",
+    "name": "Steven Schalekamp",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07892-z",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Map the current landscape of commercially available artificial intelligence (AI) software for radiology and review the availability of their scientific evidence. METHODS: We created an online overview of CE-marked AI software products for clinical radiology based on vendor-supplied product specifications ( www.aiforradiology.com ). Characteristics such as modality, subspeciality, main task, regulatory information, deployment, and pricing model were retrieved. We conducted an extensiv"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 42,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5036815525",
+    "name": "Matthieu Rutten",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-021-07892-z",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: Map the current landscape of commercially available artificial intelligence (AI) software for radiology and review the availability of their scientific evidence. METHODS: We created an online overview of CE-marked AI software products for clinical radiology based on vendor-supplied product specifications ( www.aiforradiology.com ). Characteristics such as modality, subspeciality, main task, regulatory information, deployment, and pricing model were retrieved. We conducted an extensiv"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 116,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 32,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5009321937",
+    "name": "Floor Schuur",
+    "institution": "Vrije Universiteit Amsterdam",
+    "institution_url": "https://ror.org/008xxew50",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Training opportunities of artificial intelligence (AI) in radiology: a systematic review",
+        "year": 2021,
+        "url": "https://doi.org/10.1007/s00330-020-07621-y",
+        "venue": "European Radiology",
+        "abstract": "OBJECTIVES: The aim is to offer an overview of the existing training programs and critically examine them and suggest avenues for further development of AI training programs for radiologists. METHODS: Deductive thematic analysis of 100 training programs offered in 2019 and 2020 (until June 30). We analyze the public data about the training programs based on their \"contents,\" \"target audience,\" \"instructors and offering agents,\" and \"legitimization strategies.\" RESULTS: There are many AI training"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 2,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5093537411",
+    "name": "Ethan Sacoransky",
+    "institution": "Queen's University",
+    "institution_url": "https://ror.org/02y72wh86",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "ChatGPT and assistive AI in structured radiology reporting: A systematic review",
+        "year": 2024,
+        "url": "https://doi.org/10.1067/j.cpradiol.2024.07.007",
+        "venue": "Current Problems in Diagnostic Radiology",
+        "abstract": "The rise of transformer-based large language models (LLMs), such as ChatGPT, has captured global attention with recent advancements in artificial intelligence (AI). ChatGPT demonstrates growing potential in structured radiology reporting\u2014a field where AI has traditionally focused on image analysis. A comprehensive search of MEDLINE and Embase was conducted from inception through May 2024, and primary studies discussing ChatGPT's role in structured radiology reporting were selected based on their"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 15,
+    "first_publication_year": null,
+    "last_publication_year": 2023,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5072268653",
+    "name": "Benjamin Y. M. Kwan",
+    "institution": "Queen's University",
+    "institution_url": "https://ror.org/02y72wh86",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "ChatGPT and assistive AI in structured radiology reporting: A systematic review",
+        "year": 2024,
+        "url": "https://doi.org/10.1067/j.cpradiol.2024.07.007",
+        "venue": "Current Problems in Diagnostic Radiology",
+        "abstract": "The rise of transformer-based large language models (LLMs), such as ChatGPT, has captured global attention with recent advancements in artificial intelligence (AI). ChatGPT demonstrates growing potential in structured radiology reporting\u2014a field where AI has traditionally focused on image analysis. A comprehensive search of MEDLINE and Embase was conducted from inception through May 2024, and primary studies discussing ChatGPT's role in structured radiology reporting were selected based on their"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 66,
+    "first_publication_year": null,
+    "last_publication_year": 2006,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5113282302",
+    "name": "Donald Soboleski",
+    "institution": "Queen's University",
+    "institution_url": "https://ror.org/02y72wh86",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "ChatGPT and assistive AI in structured radiology reporting: A systematic review",
+        "year": 2024,
+        "url": "https://doi.org/10.1067/j.cpradiol.2024.07.007",
+        "venue": "Current Problems in Diagnostic Radiology",
+        "abstract": "The rise of transformer-based large language models (LLMs), such as ChatGPT, has captured global attention with recent advancements in artificial intelligence (AI). ChatGPT demonstrates growing potential in structured radiology reporting\u2014a field where AI has traditionally focused on image analysis. A comprehensive search of MEDLINE and Embase was conducted from inception through May 2024, and primary studies discussing ChatGPT's role in structured radiology reporting were selected based on their"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 22,
+    "first_publication_year": null,
+    "last_publication_year": 1993,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5075528447",
+    "name": "Jaron Chong",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Developing, purchasing, implementing and monitoring AI tools in radiology: practical considerations. A multi-society statement from the ACR, CAR, ESR, RANZCR &amp; RSNA",
+        "year": 2024,
+        "url": "https://doi.org/10.1186/s13244-023-01541-3",
+        "venue": "Insights into Imaging",
+        "abstract": "Artificial Intelligence (AI) carries the potential for unprecedented disruption in radiology, with possible positive and negative consequences. The integration of AI in radiology holds the potential to revolutionize healthcare practices by advancing diagnosis, quantification, and management of multiple medical conditions. Nevertheless, the ever-growing availability of AI tools in radiology highlights an increasing need to critically evaluate claims for its utility and to differentiate safe produ"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 80,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 27,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5077221559",
+    "name": "Arjan M Groen",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.ejrad.2022.110592",
+        "venue": "European Journal of Radiology",
+        "abstract": "OBJECTIVES: This study aims to contribute to an understanding of the explainability of computer aided diagnosis studies in radiology that use end-to-end deep learning by providing a quantitative overview of methodological choices and by discussing the implications of these choices for their explainability. METHODS: A systematic review was executed using the preferred reporting items for systemic reviews and meta-analysis guidelines. Primary diagnostic test accuracy studies using end-to-end deep "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 1,
+    "first_publication_year": null,
+    "last_publication_year": 2022,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5047091216",
+    "name": "Rik Kraan",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.ejrad.2022.110592",
+        "venue": "European Journal of Radiology",
+        "abstract": "OBJECTIVES: This study aims to contribute to an understanding of the explainability of computer aided diagnosis studies in radiology that use end-to-end deep learning by providing a quantitative overview of methodological choices and by discussing the implications of these choices for their explainability. METHODS: A systematic review was executed using the preferred reporting items for systemic reviews and meta-analysis guidelines. Primary diagnostic test accuracy studies using end-to-end deep "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 1,
+    "first_publication_year": null,
+    "last_publication_year": 2022,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5041632354",
+    "name": "Shahira F Amirkhan",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.ejrad.2022.110592",
+        "venue": "European Journal of Radiology",
+        "abstract": "OBJECTIVES: This study aims to contribute to an understanding of the explainability of computer aided diagnosis studies in radiology that use end-to-end deep learning by providing a quantitative overview of methodological choices and by discussing the implications of these choices for their explainability. METHODS: A systematic review was executed using the preferred reporting items for systemic reviews and meta-analysis guidelines. Primary diagnostic test accuracy studies using end-to-end deep "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 1,
+    "first_publication_year": null,
+    "last_publication_year": 2022,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5031408152",
+    "name": "Jacob J. Visser",
+    "institution": "Erasmus MC",
+    "institution_url": "https://ror.org/018906e22",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Impact of AI on radiology: a EuroAIM/EuSoMII 2024 survey among members of the European Society of Radiology",
+        "year": 2024,
+        "url": "https://doi.org/10.1186/s13244-024-01801-w",
+        "venue": "Insights into Imaging",
+        "abstract": "In order to assess the perceptions and expectations of the radiology staff about artificial intelligence (AI), we conducted an online survey among ESR members (January-March 2024). It was designed considering that conducted in 2018, updated according to recent advancements and emerging topics, consisting of seven questions regarding demographics and professional background and 28 AI questions. Of 28,000 members contacted, 572 (2%) completed the survey. AI impact was predominantly expected on bre"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "medical image analysis",
+    "matched_keyword": "radiology AI",
+    "total_paper_count": 91,
+    "first_publication_year": null,
+    "last_publication_year": 2001,
+    "h_index": 22,
+    "position_title": null
+  }
+]

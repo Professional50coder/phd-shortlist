@@ -1,0 +1,1122 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5055697525",
+    "name": "Geert Litjens",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1016/j.media.2017.07.005",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 185,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 51,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5057937692",
+    "name": "Thijs Kooi",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1016/j.media.2017.07.005",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 23,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 8,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5055531734",
+    "name": "Babak Ehteshami Bejnordi",
+    "institution": "Radboud University Medical Center",
+    "institution_url": "https://ror.org/05wg1m734",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1016/j.media.2017.07.005",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 62,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5058987737",
+    "name": "Philippe Lambin",
+    "institution": "Maastricht University Medical Centre",
+    "institution_url": "https://ror.org/02d9ce178",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://doi.org/10.1038/nrclinonc.2017.141",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      },
+      {
+        "title": "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "year": 2012,
+        "url": "https://doi.org/10.1016/j.ejca.2011.11.036",
+        "venue": "European Journal of Cancer",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 1289,
+    "first_publication_year": null,
+    "last_publication_year": 1935,
+    "h_index": 117,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5055844896",
+    "name": "Ralph T. H. Leijenaar",
+    "institution": "Maastricht University Medical Centre",
+    "institution_url": "https://ror.org/02d9ce178",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://doi.org/10.1038/nrclinonc.2017.141",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      },
+      {
+        "title": "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "year": 2012,
+        "url": "https://doi.org/10.1016/j.ejca.2011.11.036",
+        "venue": "European Journal of Cancer",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 141,
+    "first_publication_year": null,
+    "last_publication_year": 2002,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5035749164",
+    "name": "Timo M. Deist",
+    "institution": "Maastricht University Medical Centre",
+    "institution_url": "https://ror.org/02d9ce178",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: the bridge between medical imaging and personalized medicine",
+        "year": 2017,
+        "url": "https://doi.org/10.1038/nrclinonc.2017.141",
+        "venue": "Nature Reviews Clinical Oncology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 42,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5052901925",
+    "name": "Stefan Klein",
+    "institution": "University Medical Center Utrecht",
+    "institution_url": "https://ror.org/0575yy874",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "elastix: A Toolbox for Intensity-Based Medical Image Registration",
+        "year": 2009,
+        "url": "https://doi.org/10.1109/tmi.2009.2035616",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "Medical image registration is an important task in medical image processing. It refers to the process of aligning data sets, possibly from different modalities (e.g., magnetic resonance and computed tomography), different time points (e.g., follow-up scans), and/or different subjects (in case of population studies). A large number of methods for image registration are described in the literature. Unfortunately, there is not one method that works for all applications. We have therefore developed "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 456,
+    "first_publication_year": null,
+    "last_publication_year": 1972,
+    "h_index": 52,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5025788902",
+    "name": "Marius Staring",
+    "institution": "Leiden University Medical Center",
+    "institution_url": "https://ror.org/05xvt9f17",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "elastix: A Toolbox for Intensity-Based Medical Image Registration",
+        "year": 2009,
+        "url": "https://doi.org/10.1109/tmi.2009.2035616",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "Medical image registration is an important task in medical image processing. It refers to the process of aligning data sets, possibly from different modalities (e.g., magnetic resonance and computed tomography), different time points (e.g., follow-up scans), and/or different subjects (in case of population studies). A large number of methods for image registration are described in the literature. Unfortunately, there is not one method that works for all applications. We have therefore developed "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 232,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 37,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5053348129",
+    "name": "Keelin Murphy",
+    "institution": "University Medical Center Utrecht",
+    "institution_url": "https://ror.org/0575yy874",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "elastix: A Toolbox for Intensity-Based Medical Image Registration",
+        "year": 2009,
+        "url": "https://doi.org/10.1109/tmi.2009.2035616",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "Medical image registration is an important task in medical image processing. It refers to the process of aligning data sets, possibly from different modalities (e.g., magnetic resonance and computed tomography), different time points (e.g., follow-up scans), and/or different subjects (in case of population studies). A large number of methods for image registration are described in the literature. Unfortunately, there is not one method that works for all applications. We have therefore developed "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 73,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 22,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5073148967",
+    "name": "Emmanuel Rios-Velazquez",
+    "institution": "Maastricht University",
+    "institution_url": "https://ror.org/02jz4aj89",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Radiomics: Extracting more information from medical images using advanced feature analysis",
+        "year": 2012,
+        "url": "https://doi.org/10.1016/j.ejca.2011.11.036",
+        "venue": "European Journal of Cancer",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 4,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5040361272",
+    "name": "J. B. Antoine Maintz",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey of medical image registration",
+        "year": 1998,
+        "url": "https://doi.org/10.1016/s1361-8415(01)80026-8",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      },
+      {
+        "title": "Mutual-information-based registration of medical images: a survey",
+        "year": 2003,
+        "url": "https://doi.org/10.1109/tmi.2003.815867",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "An overview is presented of the medical image processing literature on mutual-information-based registration. The aim of the survey is threefold: an introduction for those new to the field, an overview for those working in the field, and a reference for those searching for literature on a specific application. Methods are classified according to the different aspects of mutual-information-based registration. The main division is in aspects of the methodology and of the application. The part on m"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 47,
+    "first_publication_year": null,
+    "last_publication_year": 1976,
+    "h_index": 23,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5033933581",
+    "name": "Max A. Viergever",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A survey of medical image registration",
+        "year": 1998,
+        "url": "https://doi.org/10.1016/s1361-8415(01)80026-8",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      },
+      {
+        "title": "Mutual-information-based registration of medical images: a survey",
+        "year": 2003,
+        "url": "https://doi.org/10.1109/tmi.2003.815867",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "An overview is presented of the medical image processing literature on mutual-information-based registration. The aim of the survey is threefold: an introduction for those new to the field, an overview for those working in the field, and a reference for those searching for literature on a specific application. Methods are classified according to the different aspects of mutual-information-based registration. The main division is in aspects of the methodology and of the application. The part on m"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 765,
+    "first_publication_year": null,
+    "last_publication_year": 1974,
+    "h_index": 105,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100678900",
+    "name": "Jun Ma",
+    "institution": "University Health Network",
+    "institution_url": "https://ror.org/042xt5161",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Segment anything in medical images",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41467-024-44824-z",
+        "venue": "Nature Communications",
+        "abstract": "Medical image segmentation is a critical component in clinical practice, facilitating accurate diagnosis, treatment planning, and disease monitoring. However, existing methods, often tailored to specific modalities or disease types, lack generalizability across the diverse spectrum of medical image segmentation tasks. Here we present MedSAM, a foundation model designed for bridging this gap by enabling universal medical image segmentation. The model is developed on a large-scale medical image da"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 253,
+    "first_publication_year": null,
+    "last_publication_year": 1986,
+    "h_index": 37,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5101476695",
+    "name": "Yuting He",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Segment anything in medical images",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41467-024-44824-z",
+        "venue": "Nature Communications",
+        "abstract": "Medical image segmentation is a critical component in clinical practice, facilitating accurate diagnosis, treatment planning, and disease monitoring. However, existing methods, often tailored to specific modalities or disease types, lack generalizability across the diverse spectrum of medical image segmentation tasks. Here we present MedSAM, a foundation model designed for bridging this gap by enabling universal medical image segmentation. The model is developed on a large-scale medical image da"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 77,
+    "first_publication_year": null,
+    "last_publication_year": 2016,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5028026588",
+    "name": "Feifei Li",
+    "institution": "University Health Network",
+    "institution_url": "https://ror.org/042xt5161",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Segment anything in medical images",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41467-024-44824-z",
+        "venue": "Nature Communications",
+        "abstract": "Medical image segmentation is a critical component in clinical practice, facilitating accurate diagnosis, treatment planning, and disease monitoring. However, existing methods, often tailored to specific modalities or disease types, lack generalizability across the diverse spectrum of medical image segmentation tasks. Here we present MedSAM, a foundation model designed for bridging this gap by enabling universal medical image segmentation. The model is developed on a large-scale medical image da"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 5,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5011193488",
+    "name": "Hu Cao",
+    "institution": "Technical University of Munich",
+    "institution_url": "https://ror.org/02kkvpp62",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Swin-Unet: Unet-Like Pure Transformer for\u00a0Medical Image Segmentation",
+        "year": 2023,
+        "url": "https://doi.org/10.1007/978-3-031-25066-8_9",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 105,
+    "first_publication_year": null,
+    "last_publication_year": 1999,
+    "h_index": 30,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5057583165",
+    "name": "Josien P. W. Pluim",
+    "institution": "University Medical Center Utrecht",
+    "institution_url": "https://ror.org/0575yy874",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Mutual-information-based registration of medical images: a survey",
+        "year": 2003,
+        "url": "https://doi.org/10.1109/tmi.2003.815867",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "An overview is presented of the medical image processing literature on mutual-information-based registration. The aim of the survey is threefold: an introduction for those new to the field, an overview for those working in the field, and a reference for those searching for literature on a specific application. Methods are classified according to the different aspects of mutual-information-based registration. The main division is in aspects of the methodology and of the application. The part on m"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 335,
+    "first_publication_year": null,
+    "last_publication_year": 1995,
+    "h_index": 53,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5103810782",
+    "name": "Robert E. Smith",
+    "institution": "The University of Melbourne",
+    "institution_url": "https://ror.org/01ej9dk98",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.neuroimage.2019.116137",
+        "venue": "NeuroImage",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 35,
+    "first_publication_year": null,
+    "last_publication_year": 1954,
+    "h_index": 14,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5045933824",
+    "name": "David Raffelt",
+    "institution": "Florey Institute of Neuroscience and Mental Health",
+    "institution_url": "https://ror.org/03a2tac74",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.neuroimage.2019.116137",
+        "venue": "NeuroImage",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 43,
+    "first_publication_year": null,
+    "last_publication_year": 2009,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5005985801",
+    "name": "Tim McInerney",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deformable models in medical image analysis: a survey",
+        "year": 1996,
+        "url": "https://doi.org/10.1016/s1361-8415(96)80007-7",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 46,
+    "first_publication_year": null,
+    "last_publication_year": 1993,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5034397232",
+    "name": "Demetri Terzopoulos",
+    "institution": "University of Toronto",
+    "institution_url": "https://ror.org/03dbr7087",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deformable models in medical image analysis: a survey",
+        "year": 1996,
+        "url": "https://doi.org/10.1016/s1361-8415(96)80007-7",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 400,
+    "first_publication_year": null,
+    "last_publication_year": 1980,
+    "h_index": 76,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5046896448",
+    "name": "Nassir Navab",
+    "institution": "Technical University of Munich",
+    "institution_url": "https://ror.org/02kkvpp62",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015",
+        "year": 2015,
+        "url": "https://doi.org/10.1007/978-3-319-24553-9",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 2035,
+    "first_publication_year": null,
+    "last_publication_year": 1989,
+    "h_index": 101,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5058662444",
+    "name": "Joachim Hornegger",
+    "institution": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "institution_url": "https://ror.org/00f7hpc57",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015",
+        "year": 2015,
+        "url": "https://doi.org/10.1007/978-3-319-24553-9",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 758,
+    "first_publication_year": null,
+    "last_publication_year": 1994,
+    "h_index": 67,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5006921976",
+    "name": "Yi Xin",
+    "institution": "University of Saskatchewan",
+    "institution_url": "https://ror.org/010x8gc63",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Generative adversarial network in medical imaging: A review",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.media.2019.101552",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 101,
+    "first_publication_year": null,
+    "last_publication_year": 2001,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5069952907",
+    "name": "Ekta Walia",
+    "institution": "University of Saskatchewan",
+    "institution_url": "https://ror.org/010x8gc63",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Generative adversarial network in medical imaging: A review",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.media.2019.101552",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 70,
+    "first_publication_year": null,
+    "last_publication_year": 2005,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5017986343",
+    "name": "Paul Babyn",
+    "institution": "University of Saskatchewan",
+    "institution_url": "https://ror.org/010x8gc63",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Generative adversarial network in medical imaging: A review",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.media.2019.101552",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 431,
+    "first_publication_year": null,
+    "last_publication_year": 1978,
+    "h_index": 65,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5013877182",
+    "name": "Justin Ker",
+    "institution": "National Neuroscience Institute",
+    "institution_url": "https://ror.org/03d58dr58",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Applications in Medical Image Analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1109/access.2017.2788044",
+        "venue": "IEEE Access",
+        "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 15,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 7,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5086764741",
+    "name": "Lipo Wang",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Applications in Medical Image Analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1109/access.2017.2788044",
+        "venue": "IEEE Access",
+        "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 364,
+    "first_publication_year": null,
+    "last_publication_year": 1985,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5063292206",
+    "name": "Jai Prashanth Rao",
+    "institution": "National Neuroscience Institute",
+    "institution_url": "https://ror.org/03d58dr58",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Applications in Medical Image Analysis",
+        "year": 2017,
+        "url": "https://doi.org/10.1109/access.2017.2788044",
+        "venue": "IEEE Access",
+        "abstract": "The tremendous success of machine learning algorithms at image recognition tasks in recent years intersects with a time of dramatically increased use of electronic medical records and diagnostic imaging. This review introduces the machine learning algorithms as applied to medical image analysis, focusing on convolutional neural networks, and emphasizing clinical aspects of the field. The advantage of machine learning in an era of medical big data is that significant hierarchal relationships with"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 27,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5107886806",
+    "name": "Salman Khan",
+    "institution": "Australian National University",
+    "institution_url": "https://ror.org/019wvm592",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Transformers in medical imaging: A survey",
+        "year": 2023,
+        "url": "https://doi.org/10.1016/j.media.2023.102802",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 39,
+    "first_publication_year": null,
+    "last_publication_year": 2000,
+    "h_index": 11,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5045782176",
+    "name": "Mohammad Hesam Hesamian",
+    "institution": "University of Technology Sydney",
+    "institution_url": "https://ror.org/03f0f6041",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges",
+        "year": 2019,
+        "url": "https://doi.org/10.1007/s10278-019-00227-x",
+        "venue": "Journal of Digital Imaging",
+        "abstract": "Deep learning-based image segmentation is by now firmly established as a robust tool in image segmentation. It has been widely used to separate homogeneous areas as the first and critical component of diagnosis and treatment pipeline. In this article, we present a critical appraisal of popular methods that have employed deep-learning techniques for medical image segmentation. Moreover, we summarize the most common challenges incurred and suggest possible solutions."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 15,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100395314",
+    "name": "Wenjing Jia",
+    "institution": "University of Technology Sydney",
+    "institution_url": "https://ror.org/03f0f6041",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges",
+        "year": 2019,
+        "url": "https://doi.org/10.1007/s10278-019-00227-x",
+        "venue": "Journal of Digital Imaging",
+        "abstract": "Deep learning-based image segmentation is by now firmly established as a robust tool in image segmentation. It has been widely used to separate homogeneous areas as the first and critical component of diagnosis and treatment pipeline. In this article, we present a critical appraisal of popular methods that have employed deep-learning techniques for medical image segmentation. Moreover, we summarize the most common challenges incurred and suggest possible solutions."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 239,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 29,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5006921134",
+    "name": "Xiangjian He",
+    "institution": "University of Technology Sydney",
+    "institution_url": "https://ror.org/03f0f6041",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges",
+        "year": 2019,
+        "url": "https://doi.org/10.1007/s10278-019-00227-x",
+        "venue": "Journal of Digital Imaging",
+        "abstract": "Deep learning-based image segmentation is by now firmly established as a robust tool in image segmentation. It has been widely used to separate homogeneous areas as the first and critical component of diagnosis and treatment pipeline. In this article, we present a critical appraisal of popular methods that have employed deep-learning techniques for medical image segmentation. Moreover, we summarize the most common challenges incurred and suggest possible solutions."
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 533,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5004153656",
+    "name": "Thomas Lehmann",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Survey: interpolation methods in medical image processing",
+        "year": 1999,
+        "url": "https://doi.org/10.1109/42.816070",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "Image interpolation techniques often are required in medical imaging for image generation (e.g., discrete back projection for inverse Radon transform) and processing such as compression or resampling. Since the ideal interpolation function spatially is unlimited, several interpolation kernels of finite size have been introduced. This paper compares 1) truncated and windowed sinc; 2) nearest neighbor; 3) linear; 4) quadratic; 5) cubic B-spline; 6) cubic; g) Lagrange; and 7) Gaussian interpolation"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 538,
+    "first_publication_year": null,
+    "last_publication_year": 1983,
+    "h_index": 47,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5000905409",
+    "name": "C. Gonner",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Survey: interpolation methods in medical image processing",
+        "year": 1999,
+        "url": "https://doi.org/10.1109/42.816070",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "Image interpolation techniques often are required in medical imaging for image generation (e.g., discrete back projection for inverse Radon transform) and processing such as compression or resampling. Since the ideal interpolation function spatially is unlimited, several interpolation kernels of finite size have been introduced. This paper compares 1) truncated and windowed sinc; 2) nearest neighbor; 3) linear; 4) quadratic; 5) cubic B-spline; 6) cubic; g) Lagrange; and 7) Gaussian interpolation"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 12,
+    "first_publication_year": null,
+    "last_publication_year": 1999,
+    "h_index": 7,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5028396912",
+    "name": "Klaus Spitzer",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Survey: interpolation methods in medical image processing",
+        "year": 1999,
+        "url": "https://doi.org/10.1109/42.816070",
+        "venue": "IEEE Transactions on Medical Imaging",
+        "abstract": "Image interpolation techniques often are required in medical imaging for image generation (e.g., discrete back projection for inverse Radon transform) and processing such as compression or resampling. Since the ideal interpolation function spatially is unlimited, several interpolation kernels of finite size have been introduced. This paper compares 1) truncated and windowed sinc; 2) nearest neighbor; 3) linear; 4) quadratic; 5) cubic B-spline; 6) cubic; g) Lagrange; and 7) Gaussian interpolation"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 186,
+    "first_publication_year": null,
+    "last_publication_year": 1948,
+    "h_index": 31,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5051070119",
+    "name": "Marcus R. Makowski",
+    "institution": "Technical University of Munich",
+    "institution_url": "https://ror.org/02kkvpp62",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Secure, privacy-preserving and federated machine learning in medical imaging",
+        "year": 2020,
+        "url": "https://doi.org/10.1038/s42256-020-0186-1",
+        "venue": "Nature Machine Intelligence",
+        "abstract": "The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the req"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 524,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 48,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5109501628",
+    "name": "Tobias Heimann",
+    "institution": "German Cancer Research Center",
+    "institution_url": "https://ror.org/04cdgtt98",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Statistical shape models for 3D medical image segmentation: A review",
+        "year": 2009,
+        "url": "https://doi.org/10.1016/j.media.2009.05.004",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 87,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 23,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5109185878",
+    "name": "Hans-Peter Meinzer",
+    "institution": "German Cancer Research Center",
+    "institution_url": "https://ror.org/04cdgtt98",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Statistical shape models for 3D medical image segmentation: A review",
+        "year": 2009,
+        "url": "https://doi.org/10.1016/j.media.2009.05.004",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "medical imaging",
+    "total_paper_count": 220,
+    "first_publication_year": null,
+    "last_publication_year": 1978,
+    "h_index": 37,
+    "position_title": null
+  }
+]

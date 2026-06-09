@@ -1,0 +1,947 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5015054335",
+    "name": "David Tellez",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.media.2019.101544",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 18,
+    "first_publication_year": null,
+    "last_publication_year": 2014,
+    "h_index": 9,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5055697525",
+    "name": "Geert Litjens",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.media.2019.101544",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 185,
+    "first_publication_year": null,
+    "last_publication_year": 2010,
+    "h_index": 51,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5037509355",
+    "name": "P\u00e9ter B\u00e1ndi",
+    "institution": "Radboud University Nijmegen",
+    "institution_url": "https://ror.org/016xsfp80",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.media.2019.101544",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 28,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5008902493",
+    "name": "Eugene Vorontsov",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A foundation model for clinical-grade computational pathology and rare cancers detection",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41591-024-03141-0",
+        "venue": "Nature Medicine",
+        "abstract": "The analysis of histopathology images with artificial intelligence aims to enable clinical decision support systems and precision medicine. The success of such applications depends on the ability to model the diverse patterns observed in pathology images. To this end, we present Virchow, the largest foundation model for computational pathology to date. In addition to the evaluation of biomarker prediction and cell identification, we demonstrate that a large foundation model enables pan-cancer de"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 50,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 20,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5053808736",
+    "name": "Alican Bozkurt",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A foundation model for clinical-grade computational pathology and rare cancers detection",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41591-024-03141-0",
+        "venue": "Nature Medicine",
+        "abstract": "The analysis of histopathology images with artificial intelligence aims to enable clinical decision support systems and precision medicine. The success of such applications depends on the ability to model the diverse patterns observed in pathology images. To this end, we present Virchow, the largest foundation model for computational pathology to date. In addition to the evaluation of biomarker prediction and cell identification, we demonstrate that a large foundation model enables pan-cancer de"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 53,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5079321481",
+    "name": "Adam Casson",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A foundation model for clinical-grade computational pathology and rare cancers detection",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41591-024-03141-0",
+        "venue": "Nature Medicine",
+        "abstract": "The analysis of histopathology images with artificial intelligence aims to enable clinical decision support systems and precision medicine. The success of such applications depends on the ability to model the diverse patterns observed in pathology images. To this end, we present Virchow, the largest foundation model for computational pathology to date. In addition to the evaluation of biomarker prediction and cell identification, we demonstrate that a large foundation model enables pan-cancer de"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 18,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 7,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5057475480",
+    "name": "Narmin Ghaffari Laleh",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Adversarial attacks and adversarial robustness in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41467-022-33266-0",
+        "venue": "Nature Communications",
+        "abstract": "Artificial Intelligence (AI) can support diagnostic workflows in oncology by aiding diagnosis and providing biomarkers directly from routine pathology slides. However, AI applications are vulnerable to adversarial attacks. Hence, it is essential to quantify and mitigate this risk before widespread clinical use. Here, we show that convolutional neural networks (CNNs) are highly susceptible to white- and black-box adversarial attacks in clinically relevant weakly-supervised classification tasks. A"
+      },
+      {
+        "title": "Benchmarking weakly-supervised deep learning pipelines for whole slide classification in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102474",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 40,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5016512818",
+    "name": "Daniel Truhn",
+    "institution": "Universit\u00e4tsklinikum Aachen",
+    "institution_url": "https://ror.org/02gm5zw39",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Adversarial attacks and adversarial robustness in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41467-022-33266-0",
+        "venue": "Nature Communications",
+        "abstract": "Artificial Intelligence (AI) can support diagnostic workflows in oncology by aiding diagnosis and providing biomarkers directly from routine pathology slides. However, AI applications are vulnerable to adversarial attacks. Hence, it is essential to quantify and mitigate this risk before widespread clinical use. Here, we show that convolutional neural networks (CNNs) are highly susceptible to white- and black-box adversarial attacks in clinically relevant weakly-supervised classification tasks. A"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 394,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 45,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5012440991",
+    "name": "Gregory Patrick Veldhuizen",
+    "institution": "University Hospital Carl Gustav Carus",
+    "institution_url": "https://ror.org/04za5zm41",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Adversarial attacks and adversarial robustness in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41467-022-33266-0",
+        "venue": "Nature Communications",
+        "abstract": "Artificial Intelligence (AI) can support diagnostic workflows in oncology by aiding diagnosis and providing biomarkers directly from routine pathology slides. However, AI applications are vulnerable to adversarial attacks. Hence, it is essential to quantify and mitigate this risk before widespread clinical use. Here, we show that convolutional neural networks (CNNs) are highly susceptible to white- and black-box adversarial attacks in clinically relevant weakly-supervised classification tasks. A"
+      },
+      {
+        "title": "AI in Computational Pathology of Cancer: Improving Diagnostic Workflows and Clinical Outcomes?",
+        "year": 2023,
+        "url": "https://doi.org/10.1146/annurev-cancerbio-061521-092038",
+        "venue": "Annual Review of Cancer Biology",
+        "abstract": "Histopathology plays a fundamental role in the diagnosis and subtyping of solid tumors and has become a cornerstone of modern precision oncology. Histopathological evaluation is typically performed manually by expert pathologists due to the complexity of visual data. However, in the last ten years, new artificial intelligence (AI) methods have made it possible to train computers to perform visual tasks with high performance, reaching similar levels as experts in some applications. In cancer hist"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 39,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 13,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5065852572",
+    "name": "Hannah Sophie Muti",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Benchmarking weakly-supervised deep learning pipelines for whole slide classification in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102474",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      },
+      {
+        "title": "Benchmarking foundation models as feature extractors for weakly supervised computational pathology",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s41551-025-01516-3",
+        "venue": "Nature Biomedical Engineering",
+        "abstract": "Numerous pathology foundation models have been developed to extract clinically relevant information. There is currently limited literature independently evaluating these foundation models on external cohorts and clinically relevant tasks to uncover adjustments for future improvements. Here we benchmark 19 histopathology foundation models on 13 patient cohorts with 6,818 patients and 9,528 slides from lung, colorectal, gastric and breast cancers. The models were evaluated on weakly supervised tas"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 44,
+    "first_publication_year": null,
+    "last_publication_year": 2019,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5083995530",
+    "name": "Chiara Maria Lavinia Loeffler",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Benchmarking weakly-supervised deep learning pipelines for whole slide classification in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102474",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 46,
+    "first_publication_year": null,
+    "last_publication_year": 2019,
+    "h_index": 14,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5073426758",
+    "name": "Mahdi S. Hosseini",
+    "institution": "Concordia University",
+    "institution_url": "https://ror.org/0420zvk78",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Computational pathology: A survey review and the way forward",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.jpi.2023.100357",
+        "venue": "Journal of Pathology Informatics",
+        "abstract": "Computational Pathology (CPath) is an interdisciplinary science that augments developments of computational approaches to analyze and model medical histopathology images. The main objective for CPath is to develop infrastructure and workflows of digital diagnostics as an assistive CAD system for clinical pathology, facilitating transformational changes in the diagnosis and treatment of cancer that are mainly address by CPath tools. With evergrowing developments in deep learning and computer visi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 83,
+    "first_publication_year": null,
+    "last_publication_year": 1997,
+    "h_index": 16,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5055531734",
+    "name": "Babak Ehteshami Bejnordi",
+    "institution": null,
+    "institution_url": null,
+    "country_hint": null,
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Computational pathology: A survey review and the way forward",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.jpi.2023.100357",
+        "venue": "Journal of Pathology Informatics",
+        "abstract": "Computational Pathology (CPath) is an interdisciplinary science that augments developments of computational approaches to analyze and model medical histopathology images. The main objective for CPath is to develop infrastructure and workflows of digital diagnostics as an assistive CAD system for clinical pathology, facilitating transformational changes in the diagnosis and treatment of cancer that are mainly address by CPath tools. With evergrowing developments in deep learning and computer visi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 62,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 21,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5029718148",
+    "name": "Vincent Quoc\u2010Huy Trinh",
+    "institution": "Institute for Research in Immunology and Cancer",
+    "institution_url": "https://ror.org/00wj6x496",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Computational pathology: A survey review and the way forward",
+        "year": 2024,
+        "url": "https://doi.org/10.1016/j.jpi.2023.100357",
+        "venue": "Journal of Pathology Informatics",
+        "abstract": "Computational Pathology (CPath) is an interdisciplinary science that augments developments of computational approaches to analyze and model medical histopathology images. The main objective for CPath is to develop infrastructure and workflows of digital diagnostics as an assistive CAD system for clinical pathology, facilitating transformational changes in the diagnosis and treatment of cancer that are mainly address by CPath tools. With evergrowing developments in deep learning and computer visi"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 102,
+    "first_publication_year": null,
+    "last_publication_year": 2002,
+    "h_index": 23,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5074325740",
+    "name": "Omar S. M. El Nahhas",
+    "institution": "University Hospital Carl Gustav Carus",
+    "institution_url": "https://ror.org/04za5zm41",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41596-024-01047-2",
+        "venue": "Nature Protocols",
+        "abstract": ""
+      },
+      {
+        "title": "Benchmarking foundation models as feature extractors for weakly supervised computational pathology",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s41551-025-01516-3",
+        "venue": "Nature Biomedical Engineering",
+        "abstract": "Numerous pathology foundation models have been developed to extract clinically relevant information. There is currently limited literature independently evaluating these foundation models on external cohorts and clinically relevant tasks to uncover adjustments for future improvements. Here we benchmark 19 histopathology foundation models on 13 patient cohorts with 6,818 patients and 9,528 slides from lung, colorectal, gastric and breast cancers. The models were evaluated on weakly supervised tas"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 56,
+    "first_publication_year": null,
+    "last_publication_year": 2023,
+    "h_index": 13,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5034336361",
+    "name": "Marko van Treeck",
+    "institution": "University Hospital Carl Gustav Carus",
+    "institution_url": "https://ror.org/04za5zm41",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "From whole-slide image to biomarker prediction: end-to-end weakly supervised deep learning in computational pathology",
+        "year": 2024,
+        "url": "https://doi.org/10.1038/s41596-024-01047-2",
+        "venue": "Nature Protocols",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 48,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5070145160",
+    "name": "Didem \u00c7if\u00e7i",
+    "institution": "RWTH Aachen University",
+    "institution_url": "https://ror.org/04xfq0f34",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "AI in Computational Pathology of Cancer: Improving Diagnostic Workflows and Clinical Outcomes?",
+        "year": 2023,
+        "url": "https://doi.org/10.1146/annurev-cancerbio-061521-092038",
+        "venue": "Annual Review of Cancer Biology",
+        "abstract": "Histopathology plays a fundamental role in the diagnosis and subtyping of solid tumors and has become a cornerstone of modern precision oncology. Histopathological evaluation is typically performed manually by expert pathologists due to the complexity of visual data. However, in the last ten years, new artificial intelligence (AI) methods have made it possible to train computers to perform visual tasks with high performance, reaching similar levels as experts in some applications. In cancer hist"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 17,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 10,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5073167797",
+    "name": "Sebastian Foersch",
+    "institution": "Johannes Gutenberg University Mainz",
+    "institution_url": "https://ror.org/023b0x485",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "AI in Computational Pathology of Cancer: Improving Diagnostic Workflows and Clinical Outcomes?",
+        "year": 2023,
+        "url": "https://doi.org/10.1146/annurev-cancerbio-061521-092038",
+        "venue": "Annual Review of Cancer Biology",
+        "abstract": "Histopathology plays a fundamental role in the diagnosis and subtyping of solid tumors and has become a cornerstone of modern precision oncology. Histopathological evaluation is typically performed manually by expert pathologists due to the complexity of visual data. However, in the last ten years, new artificial intelligence (AI) methods have made it possible to train computers to perform visual tasks with high performance, reaching similar levels as experts in some applications. In cancer hist"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 149,
+    "first_publication_year": null,
+    "last_publication_year": 2009,
+    "h_index": 35,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5061946401",
+    "name": "Lars Ole Schwen",
+    "institution": "Fraunhofer Institute for Digital Medicine",
+    "institution_url": "https://ror.org/04farme71",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Evaluating generic AutoML tools for computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.imu.2022.100853",
+        "venue": "Informatics in Medicine Unlocked",
+        "abstract": "Image analysis tasks in computational pathology are commonly solved using convolutional neural networks (CNNs). The selection of a suitable CNN architecture and hyperparameters is usually done through exploratory iterative optimization, which is computationally expensive and requires substantial manual work. The goal of this article is to evaluate how generic tools for neural network architecture search and hyperparameter optimization perform for common use cases in computational pathology. For "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 55,
+    "first_publication_year": null,
+    "last_publication_year": 2006,
+    "h_index": 17,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5082118175",
+    "name": "Daniela P. Schacherer",
+    "institution": "Fraunhofer Institute for Digital Medicine",
+    "institution_url": "https://ror.org/04farme71",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Evaluating generic AutoML tools for computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.imu.2022.100853",
+        "venue": "Informatics in Medicine Unlocked",
+        "abstract": "Image analysis tasks in computational pathology are commonly solved using convolutional neural networks (CNNs). The selection of a suitable CNN architecture and hyperparameters is usually done through exploratory iterative optimization, which is computationally expensive and requires substantial manual work. The goal of this article is to evaluate how generic tools for neural network architecture search and hyperparameter optimization perform for common use cases in computational pathology. For "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 46,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5036160810",
+    "name": "Christian Gei\u00dfler",
+    "institution": "Technische Universit\u00e4t Berlin",
+    "institution_url": "https://ror.org/03v4gjf40",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Evaluating generic AutoML tools for computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.imu.2022.100853",
+        "venue": "Informatics in Medicine Unlocked",
+        "abstract": "Image analysis tasks in computational pathology are commonly solved using convolutional neural networks (CNNs). The selection of a suitable CNN architecture and hyperparameters is usually done through exploratory iterative optimization, which is computationally expensive and requires substantial manual work. The goal of this article is to evaluate how generic tools for neural network architecture search and hyperparameter optimization perform for common use cases in computational pathology. For "
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 93,
+    "first_publication_year": null,
+    "last_publication_year": 1962,
+    "h_index": 19,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5000341866",
+    "name": "Sophia J. Wagner",
+    "institution": "Helmholtz Zentrum M\u00fcnchen",
+    "institution_url": "https://ror.org/00cfam450",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Make deep learning algorithms in computational pathology more reproducible and reusable",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41591-022-01905-0",
+        "venue": "Nature Medicine",
+        "abstract": ""
+      },
+      {
+        "title": "Built to Last? Reproducibility and Reusability of Deep Learning Algorithms in Computational Pathology",
+        "year": 2023,
+        "url": "https://doi.org/10.1016/j.modpat.2023.100350",
+        "venue": "Modern Pathology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 36,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 12,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5053507592",
+    "name": "Christian Matek",
+    "institution": "Helmholtz Zentrum M\u00fcnchen",
+    "institution_url": "https://ror.org/00cfam450",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Make deep learning algorithms in computational pathology more reproducible and reusable",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41591-022-01905-0",
+        "venue": "Nature Medicine",
+        "abstract": ""
+      },
+      {
+        "title": "Built to Last? Reproducibility and Reusability of Deep Learning Algorithms in Computational Pathology",
+        "year": 2023,
+        "url": "https://doi.org/10.1016/j.modpat.2023.100350",
+        "venue": "Modern Pathology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 63,
+    "first_publication_year": null,
+    "last_publication_year": 2012,
+    "h_index": 15,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5035757196",
+    "name": "Sayedali Shetab Boushehri",
+    "institution": "Helmholtz Zentrum M\u00fcnchen",
+    "institution_url": "https://ror.org/00cfam450",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Make deep learning algorithms in computational pathology more reproducible and reusable",
+        "year": 2022,
+        "url": "https://doi.org/10.1038/s41591-022-01905-0",
+        "venue": "Nature Medicine",
+        "abstract": ""
+      },
+      {
+        "title": "Built to Last? Reproducibility and Reusability of Deep Learning Algorithms in Computational Pathology",
+        "year": 2023,
+        "url": "https://doi.org/10.1016/j.modpat.2023.100350",
+        "venue": "Modern Pathology",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 29,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 9,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5107077385",
+    "name": "Peter Neidlinger",
+    "institution": "University Hospital Carl Gustav Carus",
+    "institution_url": "https://ror.org/04za5zm41",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Benchmarking foundation models as feature extractors for weakly supervised computational pathology",
+        "year": 2025,
+        "url": "https://doi.org/10.1038/s41551-025-01516-3",
+        "venue": "Nature Biomedical Engineering",
+        "abstract": "Numerous pathology foundation models have been developed to extract clinically relevant information. There is currently limited literature independently evaluating these foundation models on external cohorts and clinically relevant tasks to uncover adjustments for future improvements. Here we benchmark 19 histopathology foundation models on 13 patient cohorts with 6,818 patients and 9,528 slides from lung, colorectal, gastric and breast cancers. The models were evaluated on weakly supervised tas"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 10,
+    "first_publication_year": null,
+    "last_publication_year": 2024,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5038566332",
+    "name": "Hamid R. Tizhoosh",
+    "institution": "University of Waterloo",
+    "institution_url": "https://ror.org/01aff2v68",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Artificial Intelligence and Digital Pathology: Challenges and Opportunities",
+        "year": 2018,
+        "url": "https://doi.org/10.4103/jpi.jpi_53_18",
+        "venue": "Journal of Pathology Informatics",
+        "abstract": "In light of the recent success of artificial intelligence (AI) in computer vision applications, many researchers and physicians expect that AI would be able to assist in many tasks in digital pathology. Although opportunities are both manifest and tangible, there are clearly many challenges that need to be overcome in order to exploit the AI potentials in computational pathology. In this paper, we strive to provide a realistic account of all challenges and opportunities of adopting AI algorithms"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 357,
+    "first_publication_year": null,
+    "last_publication_year": 1997,
+    "h_index": 45,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5081785513",
+    "name": "David Schuhmacher",
+    "institution": "University Hospitals of the Ruhr-University of Bochum",
+    "institution_url": "https://ror.org/03zcpvf19",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A framework for falsifiable explanations of machine learning models with an application in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102594",
+        "venue": "Medical Image Analysis",
+        "abstract": "In recent years, deep learning has been the key driver of breakthrough developments in computational pathology and other image based approaches that support medical diagnosis and treatment. The underlying neural networks as inherent black boxes lack transparency and are often accompanied by approaches to explain their output. However, formally defining explainability has been a notorious unsolved riddle. Here, we introduce a hypothesis-based framework for falsifiable explanations of machine lear"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 9,
+    "first_publication_year": null,
+    "last_publication_year": 2020,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5008461109",
+    "name": "Stephanie Sch\u00f6rner",
+    "institution": "University Hospitals of the Ruhr-University of Bochum",
+    "institution_url": "https://ror.org/03zcpvf19",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A framework for falsifiable explanations of machine learning models with an application in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102594",
+        "venue": "Medical Image Analysis",
+        "abstract": "In recent years, deep learning has been the key driver of breakthrough developments in computational pathology and other image based approaches that support medical diagnosis and treatment. The underlying neural networks as inherent black boxes lack transparency and are often accompanied by approaches to explain their output. However, formally defining explainability has been a notorious unsolved riddle. Here, we introduce a hypothesis-based framework for falsifiable explanations of machine lear"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 3,
+    "first_publication_year": null,
+    "last_publication_year": 2022,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5089852497",
+    "name": "Claus K\u00fcpper",
+    "institution": "University Hospitals of the Ruhr-University of Bochum",
+    "institution_url": "https://ror.org/03zcpvf19",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A framework for falsifiable explanations of machine learning models with an application in computational pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102594",
+        "venue": "Medical Image Analysis",
+        "abstract": "In recent years, deep learning has been the key driver of breakthrough developments in computational pathology and other image based approaches that support medical diagnosis and treatment. The underlying neural networks as inherent black boxes lack transparency and are often accompanied by approaches to explain their output. However, formally defining explainability has been a notorious unsolved riddle. Here, we introduce a hypothesis-based framework for falsifiable explanations of machine lear"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 9,
+    "first_publication_year": null,
+    "last_publication_year": 2019,
+    "h_index": 4,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5006291762",
+    "name": "Nicolas Wagner",
+    "institution": "Technische Universit\u00e4t Darmstadt",
+    "institution_url": "https://ror.org/05n911h24",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Stain Normalization for Computational Pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1007/978-3-031-16434-7_2",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 8,
+    "first_publication_year": null,
+    "last_publication_year": 2022,
+    "h_index": 3,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5056472668",
+    "name": "Moritz Fuchs",
+    "institution": "Technische Universit\u00e4t Darmstadt",
+    "institution_url": "https://ror.org/05n911h24",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Stain Normalization for Computational Pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1007/978-3-031-16434-7_2",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 34,
+    "first_publication_year": null,
+    "last_publication_year": 2004,
+    "h_index": 8,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5062655554",
+    "name": "Yuri Tolkach",
+    "institution": "University Hospital Cologne",
+    "institution_url": "https://ror.org/05mxhda18",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Federated Stain Normalization for Computational Pathology",
+        "year": 2022,
+        "url": "https://doi.org/10.1007/978-3-031-16434-7_2",
+        "venue": "Lecture notes in computer science",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "computational pathology",
+    "matched_keyword": "computational pathology",
+    "total_paper_count": 253,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 27,
+    "position_title": null
+  }
+]

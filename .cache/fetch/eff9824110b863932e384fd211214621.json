@@ -1,0 +1,604 @@
+[
+  {
+    "source": "openalex",
+    "source_author_id": "A5112563918",
+    "name": "Luke Oakden\u2010Rayner",
+    "institution": "University of Adelaide",
+    "institution_url": "https://ror.org/00892tw58",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "The false hope of current approaches to explainable artificial intelligence in health care",
+        "year": 2021,
+        "url": "https://doi.org/10.1016/s2589-7500(21)00208-9",
+        "venue": "The Lancet Digital Health",
+        "abstract": "The black-box nature of current artificial intelligence (AI) has caused some to question whether AI must be explainable to be used in high-stakes scenarios such as medicine. It has been argued that explainable AI will engender trust with the health-care workforce, provide transparency into the AI decision making process, and potentially mitigate various kinds of bias. In this Viewpoint, we argue that this argument represents a false hope for explainable AI and that current explainability methods"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 41,
+    "first_publication_year": null,
+    "last_publication_year": 2016,
+    "h_index": 23,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5062201387",
+    "name": "Danding Wang",
+    "institution": "National University of Singapore",
+    "institution_url": "https://ror.org/01tgyzw49",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Designing Theory-Driven User-Centric Explainable AI",
+        "year": 2019,
+        "url": "https://doi.org/10.1145/3290605.3300831",
+        "venue": "",
+        "abstract": "From healthcare to criminal justice, artificial intelligence (AI) is increasingly supporting high-consequence human decisions. This has spurred the field of explainable AI (XAI). This paper seeks to strengthen empirical application-specific investigations of XAI by exploring theoretical underpinnings of human decision making, drawing from the fields of philosophy and psychology. In this paper, we propose a conceptual framework for building human-centered, decision-theory-driven XAI based on an e"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 33,
+    "first_publication_year": null,
+    "last_publication_year": 2018,
+    "h_index": 11,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5101779238",
+    "name": "Ashraf Abdul",
+    "institution": "National University of Singapore",
+    "institution_url": "https://ror.org/01tgyzw49",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Designing Theory-Driven User-Centric Explainable AI",
+        "year": 2019,
+        "url": "https://doi.org/10.1145/3290605.3300831",
+        "venue": "",
+        "abstract": "From healthcare to criminal justice, artificial intelligence (AI) is increasingly supporting high-consequence human decisions. This has spurred the field of explainable AI (XAI). This paper seeks to strengthen empirical application-specific investigations of XAI by exploring theoretical underpinnings of human decision making, drawing from the fields of philosophy and psychology. In this paper, we propose a conceptual framework for building human-centered, decision-theory-driven XAI based on an e"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 12,
+    "first_publication_year": null,
+    "last_publication_year": 2017,
+    "h_index": 6,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5120161470",
+    "name": "Mozhgan Salimparsa",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+        "year": 2025,
+        "url": "https://doi.org/10.3390/informatics12040119",
+        "venue": "Informatics",
+        "abstract": "While Artificial Intelligence (AI) promises significant enhancements for Clinical Decision Support Systems (CDSSs), the opacity of many AI models remains a major barrier to clinical adoption, primarily due to interpretability and trust challenges. Explainable AI (XAI) seeks to bridge this gap by making model reasoning understandable to clinicians, but technical XAI solutions have too often failed to address real-world clinician needs, workflow integration, and usability concerns. This study synt"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 1,
+    "first_publication_year": null,
+    "last_publication_year": 2025,
+    "h_index": 1,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5027962058",
+    "name": "Kamran Sedig",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+        "year": 2025,
+        "url": "https://doi.org/10.3390/informatics12040119",
+        "venue": "Informatics",
+        "abstract": "While Artificial Intelligence (AI) promises significant enhancements for Clinical Decision Support Systems (CDSSs), the opacity of many AI models remains a major barrier to clinical adoption, primarily due to interpretability and trust challenges. Explainable AI (XAI) seeks to bridge this gap by making model reasoning understandable to clinicians, but technical XAI solutions have too often failed to address real-world clinician needs, workflow integration, and usability concerns. This study synt"
+      },
+      {
+        "title": "A User-Centered Design of Explainable AI for Clinical Decision Support",
+        "year": 2021,
+        "url": "https://doi.org/10.21428/594757db.62860442",
+        "venue": "",
+        "abstract": "Clinical decision support (CDS) systems are computer applications whose goal is to facilitate the decision-making process of clinicians. In recent years, CDSS has developed an interest in applying machine learning (ML) models to make predictions related to clinical outcomes. The limited interpretability of many ML models is a major barrier to clinical adoption. This challenge has sparked research interest in interpretable and explainable AI, commonly known as XAI. XAI methods are used to constru"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 138,
+    "first_publication_year": null,
+    "last_publication_year": 2001,
+    "h_index": 24,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5004615169",
+    "name": "Daniel J. Lizotte",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis",
+        "year": 2025,
+        "url": "https://doi.org/10.3390/informatics12040119",
+        "venue": "Informatics",
+        "abstract": "While Artificial Intelligence (AI) promises significant enhancements for Clinical Decision Support Systems (CDSSs), the opacity of many AI models remains a major barrier to clinical adoption, primarily due to interpretability and trust challenges. Explainable AI (XAI) seeks to bridge this gap by making model reasoning understandable to clinicians, but technical XAI solutions have too often failed to address real-world clinician needs, workflow integration, and usability concerns. This study synt"
+      },
+      {
+        "title": "A User-Centered Design of Explainable AI for Clinical Decision Support",
+        "year": 2021,
+        "url": "https://doi.org/10.21428/594757db.62860442",
+        "venue": "",
+        "abstract": "Clinical decision support (CDS) systems are computer applications whose goal is to facilitate the decision-making process of clinicians. In recent years, CDSS has developed an interest in applying machine learning (ML) models to make predictions related to clinical outcomes. The limited interpretability of many ML models is a major barrier to clinical adoption. This challenge has sparked research interest in interpretable and explainable AI, commonly known as XAI. XAI methods are used to constru"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 158,
+    "first_publication_year": null,
+    "last_publication_year": 2001,
+    "h_index": 30,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5043709502",
+    "name": "Dennis Vetter",
+    "institution": "Goethe University Frankfurt",
+    "institution_url": "https://ror.org/04cvxnb49",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "To explain or not to explain?\u2014Artificial intelligence explainability in clinical decision support systems",
+        "year": 2022,
+        "url": "https://doi.org/10.1371/journal.pdig.0000016",
+        "venue": "PLOS Digital Health",
+        "abstract": "Explainability for artificial intelligence (AI) in medicine is a hotly debated topic. Our paper presents a review of the key arguments in favor and against explainability for AI-powered Clinical Decision Support System (CDSS) applied to a concrete use case, namely an AI-powered CDSS currently used in the emergency call setting to identify patients with life-threatening cardiac arrest. More specifically, we performed a normative analysis using socio-technical scenarios to provide a nuanced accoun"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 18,
+    "first_publication_year": null,
+    "last_publication_year": 2011,
+    "h_index": 6,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5083104697",
+    "name": "Karel G.M. Moons",
+    "institution": "Utrecht University",
+    "institution_url": "https://ror.org/04pp8hn57",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+        "year": 2024,
+        "url": "https://doi.org/10.1136/bmj-2023-078378",
+        "venue": "BMJ",
+        "abstract": "The TRIPOD (Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis) statement was published in 2015 to provide the minimum reporting recommendations for studies developing or evaluating the performance of a prediction model. Methodological advances in the field of prediction have since included the widespread use of artificial intelligence (AI) powered by machine learning methods to develop prediction models. An update to the TRIPOD statement is thus need"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 677,
+    "first_publication_year": null,
+    "last_publication_year": 1996,
+    "h_index": 132,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5038576720",
+    "name": "Susanne Gaube",
+    "institution": "University of Regensburg",
+    "institution_url": "https://ror.org/01eezs655",
+    "country_hint": "DE",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Do as AI say: susceptibility in deployment of clinical decision-aids",
+        "year": 2021,
+        "url": "https://doi.org/10.1038/s41746-021-00385-9",
+        "venue": "npj Digital Medicine",
+        "abstract": "Artificial intelligence (AI) models for decision support have been developed for clinical settings such as radiology, but little work evaluates the potential impact of such systems. In this study, physicians received chest X-rays and diagnostic advice, some of which was inaccurate, and were asked to evaluate advice quality and make diagnoses. All advice was generated by human experts, but some was labeled as coming from an AI system. As a group, radiologists rated advice as lower quality when it"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 88,
+    "first_publication_year": null,
+    "last_publication_year": 2018,
+    "h_index": 15,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5005897735",
+    "name": "Mozhgan Salimiparsa",
+    "institution": "Western University",
+    "institution_url": "https://ror.org/02grkyz14",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A User-Centered Design of Explainable AI for Clinical Decision Support",
+        "year": 2021,
+        "url": "https://doi.org/10.21428/594757db.62860442",
+        "venue": "",
+        "abstract": "Clinical decision support (CDS) systems are computer applications whose goal is to facilitate the decision-making process of clinicians. In recent years, CDSS has developed an interest in applying machine learning (ML) models to make predictions related to clinical outcomes. The limited interpretability of many ML models is a major barrier to clinical adoption. This challenge has sparked research interest in interpretable and explainable AI, commonly known as XAI. XAI methods are used to constru"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 4,
+    "first_publication_year": null,
+    "last_publication_year": 2021,
+    "h_index": 2,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5036279488",
+    "name": "Farah Magrabi",
+    "institution": "Macquarie University",
+    "institution_url": "https://ror.org/01sf06y89",
+    "country_hint": "AU",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Artificial Intelligence in Clinical Decision Support: Challenges for Evaluating AI and Practical Implications",
+        "year": 2019,
+        "url": "https://doi.org/10.1055/s-0039-1677903",
+        "venue": "Yearbook of Medical Informatics",
+        "abstract": "OBJECTIVES: This paper draws attention to: i) key considerations for evaluating artificial intelligence (AI) enabled clinical decision support; and ii) challenges and practical implications of AI design, development, selection, use, and ongoing surveillance. METHOD: A narrative review of existing research and evaluation approaches along with expert perspectives drawn from the International Medical Informatics Association (IMIA) Working Group on Technology Assessment and Quality Development in He"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 188,
+    "first_publication_year": null,
+    "last_publication_year": 1999,
+    "h_index": 40,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5044033735",
+    "name": "Theo Araujo",
+    "institution": "University of Amsterdam",
+    "institution_url": "https://ror.org/04dkp9463",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "In AI we trust? Perceptions about automated decision-making by artificial intelligence",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00146-019-00931-w",
+        "venue": "AI & Society",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 111,
+    "first_publication_year": null,
+    "last_publication_year": 2007,
+    "h_index": 33,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5053437341",
+    "name": "Natali Helberger",
+    "institution": "University of Amsterdam",
+    "institution_url": "https://ror.org/04dkp9463",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "In AI we trust? Perceptions about automated decision-making by artificial intelligence",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00146-019-00931-w",
+        "venue": "AI & Society",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 253,
+    "first_publication_year": null,
+    "last_publication_year": 1998,
+    "h_index": 44,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5084456812",
+    "name": "Sanne Kruikemeier",
+    "institution": "University of Amsterdam",
+    "institution_url": "https://ror.org/04dkp9463",
+    "country_hint": "NL",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "In AI we trust? Perceptions about automated decision-making by artificial intelligence",
+        "year": 2020,
+        "url": "https://doi.org/10.1007/s00146-019-00931-w",
+        "venue": "AI & Society",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 130,
+    "first_publication_year": null,
+    "last_publication_year": 2009,
+    "h_index": 36,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5068353058",
+    "name": "David Moher",
+    "institution": "University of Ottawa",
+    "institution_url": "https://ror.org/03c4mmv16",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension",
+        "year": 2020,
+        "url": "https://doi.org/10.1038/s41591-020-1034-x",
+        "venue": "Nature Medicine",
+        "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomized trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new re"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 1543,
+    "first_publication_year": null,
+    "last_publication_year": 1984,
+    "h_index": 216,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5014940551",
+    "name": "Weina Jin",
+    "institution": "Simon Fraser University",
+    "institution_url": "https://ror.org/0213rcc28",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Guidelines and evaluation of clinical explainable AI in medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102684",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 48,
+    "first_publication_year": null,
+    "last_publication_year": 2009,
+    "h_index": 14,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5100458658",
+    "name": "Xiaoxiao Li",
+    "institution": "University of British Columbia",
+    "institution_url": "https://ror.org/03rmrcq20",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Guidelines and evaluation of clinical explainable AI in medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102684",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 245,
+    "first_publication_year": null,
+    "last_publication_year": 2002,
+    "h_index": 30,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5023420610",
+    "name": "Mostafa Fatehi",
+    "institution": "University of British Columbia",
+    "institution_url": "https://ror.org/03rmrcq20",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "Guidelines and evaluation of clinical explainable AI in medical image analysis",
+        "year": 2022,
+        "url": "https://doi.org/10.1016/j.media.2022.102684",
+        "venue": "Medical Image Analysis",
+        "abstract": ""
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 51,
+    "first_publication_year": null,
+    "last_publication_year": 2013,
+    "h_index": 12,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5046941628",
+    "name": "Erico Tjoa",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+        "year": 2020,
+        "url": "https://doi.org/10.1109/tnnls.2020.3027314",
+        "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+        "abstract": "Recently, artificial intelligence and machine learning in general have demonstrated remarkable performances in many tasks, from image processing to natural language processing, especially with the advent of deep learning (DL). Along with research progress, they have encroached upon many different fields and disciplines. Some of them require high level of accountability and thus transparency, for example, the medical sector. Explanations for machine decisions and predictions are thus needed to ju"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 20,
+    "first_publication_year": null,
+    "last_publication_year": 2018,
+    "h_index": 5,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5031778999",
+    "name": "Cuntai Guan",
+    "institution": "Nanyang Technological University",
+    "institution_url": "https://ror.org/02e7b5302",
+    "country_hint": "SG",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "A Survey on Explainable Artificial Intelligence (XAI): Toward Medical XAI",
+        "year": 2020,
+        "url": "https://doi.org/10.1109/tnnls.2020.3027314",
+        "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+        "abstract": "Recently, artificial intelligence and machine learning in general have demonstrated remarkable performances in many tasks, from image processing to natural language processing, especially with the advent of deep learning (DL). Along with research progress, they have encroached upon many different fields and disciplines. Some of them require high level of accountability and thus transparency, for example, the medical sector. Explanations for machine decisions and predictions are thus needed to ju"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 522,
+    "first_publication_year": null,
+    "last_publication_year": 1993,
+    "h_index": 81,
+    "position_title": null
+  },
+  {
+    "source": "openalex",
+    "source_author_id": "A5095095069",
+    "name": "Sara Hamam",
+    "institution": "Hospital for Sick Children",
+    "institution_url": "https://ror.org/057q4rt57",
+    "country_hint": "CA",
+    "email": null,
+    "homepage_url": null,
+    "research_focus": null,
+    "evidence_papers": [
+      {
+        "title": "AI-Driven Clinical Decision Support Systems: An Ongoing Pursuit of Potential",
+        "year": 2024,
+        "url": "https://doi.org/10.7759/cureus.57728",
+        "venue": "Cureus",
+        "abstract": "Clinical Decision Support Systems (CDSS) are essential tools in contemporary healthcare, enhancing clinicians' decisions and patient outcomes. The integration of artificial intelligence (AI) is now revolutionizing CDSS even further. This review delves into AI technologies transforming CDSS, their applications in healthcare decision-making, associated challenges, and the potential trajectory toward fully realizing AI-CDSS's potential. The review begins by laying the groundwork with a definition o"
+      }
+    ],
+    "evidence_grants": [],
+    "matched_area": "explainable AI in clinical decision support",
+    "matched_keyword": "explainable AI in clinical decision support",
+    "total_paper_count": 1,
+    "first_publication_year": null,
+    "last_publication_year": 2024,
+    "h_index": 1,
+    "position_title": null
+  }
+]

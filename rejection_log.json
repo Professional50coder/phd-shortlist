@@ -1,0 +1,1316 @@
+[
+  {
+    "source_author_id": "A5005985801",
+    "source": "openalex",
+    "name": "Tim McInerney",
+    "institution": "University of Toronto",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.283 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Deformable models in medical image analysis: a survey"
+  },
+  {
+    "source_author_id": "A5034397232",
+    "source": "openalex",
+    "name": "Demetri Terzopoulos",
+    "institution": "University of Toronto",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.283 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Deformable models in medical image analysis: a survey"
+  },
+  {
+    "source_author_id": "A5058987737",
+    "source": "openalex",
+    "name": "Philippe Lambin",
+    "institution": "Maastricht University Medical Centre",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.128 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Radiomics: Extracting more information from medical images using advanced feature analysis"
+  },
+  {
+    "source_author_id": "A5073148967",
+    "source": "openalex",
+    "name": "Emmanuel Rios-Velazquez",
+    "institution": "Maastricht University",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=3 < 5 \u2717 | paper_count=4 < 8 \u2717",
+    "evidence_sample": "Radiomics: Extracting more information from medical images using advanced feature analysis"
+  },
+  {
+    "source_author_id": "A5055844896",
+    "source": "openalex",
+    "name": "Ralph T. H. Leijenaar",
+    "institution": "Maastricht University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.128 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Radiomics: Extracting more information from medical images using advanced feature analysis"
+  },
+  {
+    "source_author_id": "A5013950108",
+    "source": "openalex",
+    "name": "Felix Ritter",
+    "institution": "Fraunhofer Institute for Digital Medicine",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.263 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Medical Image Analysis"
+  },
+  {
+    "source_author_id": "A5074650107",
+    "source": "openalex",
+    "name": "Tobias Boskamp",
+    "institution": "MeVis Medical Solutions (Germany)",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.263 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Medical Image Analysis"
+  },
+  {
+    "source_author_id": "A5033981831",
+    "source": "openalex",
+    "name": "Andr\u00e9 Homeyer",
+    "institution": "Fraunhofer Institute for Digital Medicine",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.263 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Medical Image Analysis"
+  },
+  {
+    "source_author_id": "A5078711649",
+    "source": "openalex",
+    "name": "Xingjun Ma",
+    "institution": "The University of Melbourne",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.313 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Understanding adversarial attacks on deep learning based medical image analysis systems"
+  },
+  {
+    "source_author_id": "A5087512747",
+    "source": "openalex",
+    "name": "Reza Azad",
+    "institution": "RWTH Aachen University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.226 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Advances in medical image analysis with vision Transformers: A comprehensive review"
+  },
+  {
+    "source_author_id": "A5078933997",
+    "source": "openalex",
+    "name": "Dwarikanath Mahapatra",
+    "institution": "IBM Research - Australia",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.230 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Image super-resolution using progressive generative adversarial networks for medical image analysis"
+  },
+  {
+    "source_author_id": "A5091677392",
+    "source": "openalex",
+    "name": "Rahil Garnavi",
+    "institution": "IBM Research - Australia",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.230 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Image super-resolution using progressive generative adversarial networks for medical image analysis"
+  },
+  {
+    "source_author_id": "A5035749164",
+    "source": "openalex",
+    "name": "Timo M. Deist",
+    "institution": "Maastricht University Medical Centre",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.107 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Radiomics: the bridge between medical imaging and personalized medicine"
+  },
+  {
+    "source_author_id": "nih_023011b9",
+    "source": "nih",
+    "name": "BARBARA  DRIVER",
+    "institution": "WESTAT, INC.",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "SUPPORT SERVICES FOR THE PREVENTION AND TREATMENT THROUGH A COMPREHENSIVE CARE CONTINUUM FOR HIV-AFFECTED ADOLESCENTS IN RESOURCE CONSTRAINED SETTINGS IMPLEMENTATION SCIENCE NETWORK"
+  },
+  {
+    "source_author_id": "nih_be8ab752",
+    "source": "nih",
+    "name": "Alexandra K. Heaney",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Determining the effects of ambient dust exposure and extreme dust events on coccidioidomycosis in Arizona"
+  },
+  {
+    "source_author_id": "nih_d3ceb002",
+    "source": "nih",
+    "name": "Lauren Elizabeth Gyllenhammer",
+    "institution": "UNIVERSITY OF CALIFORNIA-IRVINE",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Early Life Stress, Cellular Vulnerability, and the Developmental Programming of Metabolic Disease"
+  },
+  {
+    "source_author_id": "nih_d7715e07",
+    "source": "nih",
+    "name": "Nasim  Annabi",
+    "institution": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Multifaceted Immunomodulatory Self-Healing Glue for Treatment of Chronic Wounds"
+  },
+  {
+    "source_author_id": "nih_971db2c9",
+    "source": "nih",
+    "name": "OBIDIUGWU KENRIK DURU",
+    "institution": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Promoting Uptake of Evidence-Based DiaBetes and Prediabetes Screening to Increase HeaLth Effectiveness Study (PEBBLES)"
+  },
+  {
+    "source_author_id": "nih_841e86c8",
+    "source": "nih",
+    "name": "HONGMIN  LI",
+    "institution": "UNIVERSITY OF ARIZONA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Identification and characterization of novel antifungals against Cryptococcus spp"
+  },
+  {
+    "source_author_id": "nih_c4ae96c6",
+    "source": "nih",
+    "name": "ANTHONY P HEANEY",
+    "institution": "UNIVERSITY OF CALIFORNIA LOS ANGELES",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Towards Safe and Efficacious Medical Therapy for Patients with Clinically Non-Functioning Pituitary Tumors"
+  },
+  {
+    "source_author_id": "nih_ab9b7d57",
+    "source": "nih",
+    "name": "Tigest  Mekonnen",
+    "institution": "EMORY UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Using RE-AIM to Assess the Implementation of Depression Screening in HIV Clinics in Kenya"
+  },
+  {
+    "source_author_id": "nih_32421b9f",
+    "source": "nih",
+    "name": "SHELLEY E HAYDEL",
+    "institution": "ARIZONA STATE UNIVERSITY-TEMPE CAMPUS",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "AI-enhanced LVSim2.0 technology for rapid phenotypic susceptibility testing of new and experimental TB drugs"
+  },
+  {
+    "source_author_id": "nih_5ef2a9e4",
+    "source": "nih",
+    "name": "Sona  Kang",
+    "institution": "UNIVERSITY OF CALIFORNIA BERKELEY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Regulation of Insulin Sensitivity by a Novel Adipokine"
+  },
+  {
+    "source_author_id": "nih_016e313e",
+    "source": "nih",
+    "name": "Kathleen Marie Fisch",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Immune Cell-Placenta-Serotonin Axis in Peripartum Depression and SSRI Therapy"
+  },
+  {
+    "source_author_id": "nih_8a4c5120",
+    "source": "nih",
+    "name": "Christian  Grov",
+    "institution": "GRADUATE SCHOOL OF PUBLIC HEALTH AND HEALTH POLICY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Proyecto VIDA (VIH Informaci\u00f3n Distribuci\u00f3n y Acci\u00f3n): A Longitudinal Study of HIV Incidence and Engagement in HIV Prevention and Care Among MSM in Colombia"
+  },
+  {
+    "source_author_id": "nih_31766367",
+    "source": "nih",
+    "name": "Harish  Vasudevan",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Elucidating the function of NF2 in NF1 mutant peripheral nervous system tumors."
+  },
+  {
+    "source_author_id": "nih_f1dc9de2",
+    "source": "nih",
+    "name": "Yuanyuan  Fu",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Medical Artificial Intelligence Core (MEDAI Core)"
+  },
+  {
+    "source_author_id": "nih_4d72c809",
+    "source": "nih",
+    "name": "Kevin Darryl Cassel",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Project I - Exploring use of Full Body Two-Dimensional Photography Combined with Artificial Intelligence to Triage Skin Lesions"
+  },
+  {
+    "source_author_id": "nih_8df9a68a",
+    "source": "nih",
+    "name": "David M Koelle",
+    "institution": "UNIVERSITY OF WASHINGTON",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Herpes Simplex Immunotherapeutic Targeting CD8 T cells"
+  },
+  {
+    "source_author_id": "nih_57a53fd8",
+    "source": "nih",
+    "name": "Youping  Deng",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Pacific Center for Artificial Intelligence and Data Science in Medicine (PAC-AID)"
+  },
+  {
+    "source_author_id": "nih_55c81dd4",
+    "source": "nih",
+    "name": "JOHN Alan SHEPHERD",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Core A: Administrative Core"
+  },
+  {
+    "source_author_id": "nih_0cd66891",
+    "source": "nih",
+    "name": "Zi  Yao",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Harnessing antibody-driven bioconjugation to modulate immune function"
+  },
+  {
+    "source_author_id": "A5040361272",
+    "source": "openalex",
+    "name": "J. B. Antoine Maintz",
+    "institution": "Utrecht University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.278 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "A survey of medical image registration"
+  },
+  {
+    "source_author_id": "A5033933581",
+    "source": "openalex",
+    "name": "Max A. Viergever",
+    "institution": "Utrecht University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.278 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "A survey of medical image registration"
+  },
+  {
+    "source_author_id": "A5028026588",
+    "source": "openalex",
+    "name": "Feifei Li",
+    "institution": "University Health Network",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=4 < 5 \u2717 | paper_count=5 < 8 \u2717",
+    "evidence_sample": "Segment anything in medical images"
+  },
+  {
+    "source_author_id": "A5011193488",
+    "source": "openalex",
+    "name": "Hu Cao",
+    "institution": "Technical University of Munich",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.196 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Swin-Unet: Unet-Like Pure Transformer for\u00a0Medical Image Segmentation"
+  },
+  {
+    "source_author_id": "A5057583165",
+    "source": "openalex",
+    "name": "Josien P. W. Pluim",
+    "institution": "University Medical Center Utrecht",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.271 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Mutual-information-based registration of medical images: a survey"
+  },
+  {
+    "source_author_id": "A5103810782",
+    "source": "openalex",
+    "name": "Robert E. Smith",
+    "institution": "The University of Melbourne",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.203 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation"
+  },
+  {
+    "source_author_id": "A5045933824",
+    "source": "openalex",
+    "name": "David Raffelt",
+    "institution": "Florey Institute of Neuroscience and Mental Health",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.203 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation"
+  },
+  {
+    "source_author_id": "A5046896448",
+    "source": "openalex",
+    "name": "Nassir Navab",
+    "institution": "Technical University of Munich",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.143 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015"
+  },
+  {
+    "source_author_id": "A5058662444",
+    "source": "openalex",
+    "name": "Joachim Hornegger",
+    "institution": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.143 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015"
+  },
+  {
+    "source_author_id": "A5006921976",
+    "source": "openalex",
+    "name": "Yi Xin",
+    "institution": "University of Saskatchewan",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.176 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Generative adversarial network in medical imaging: A review"
+  },
+  {
+    "source_author_id": "A5069952907",
+    "source": "openalex",
+    "name": "Ekta Walia",
+    "institution": "University of Saskatchewan",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.176 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Generative adversarial network in medical imaging: A review"
+  },
+  {
+    "source_author_id": "A5017986343",
+    "source": "openalex",
+    "name": "Paul Babyn",
+    "institution": "University of Saskatchewan",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.176 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Generative adversarial network in medical imaging: A review"
+  },
+  {
+    "source_author_id": "A5107886806",
+    "source": "openalex",
+    "name": "Salman Khan",
+    "institution": "Australian National University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.208 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Transformers in medical imaging: A survey"
+  },
+  {
+    "source_author_id": "A5004153656",
+    "source": "openalex",
+    "name": "Thomas Lehmann",
+    "institution": "RWTH Aachen University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.259 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Survey: interpolation methods in medical image processing"
+  },
+  {
+    "source_author_id": "A5000905409",
+    "source": "openalex",
+    "name": "C. Gonner",
+    "institution": "RWTH Aachen University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.259 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Survey: interpolation methods in medical image processing"
+  },
+  {
+    "source_author_id": "A5028396912",
+    "source": "openalex",
+    "name": "Klaus Spitzer",
+    "institution": "RWTH Aachen University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.259 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Survey: interpolation methods in medical image processing"
+  },
+  {
+    "source_author_id": "A5109501628",
+    "source": "openalex",
+    "name": "Tobias Heimann",
+    "institution": "German Cancer Research Center",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.227 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Statistical shape models for 3D medical image segmentation: A review"
+  },
+  {
+    "source_author_id": "A5109185878",
+    "source": "openalex",
+    "name": "Hans-Peter Meinzer",
+    "institution": "German Cancer Research Center",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.227 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Statistical shape models for 3D medical image segmentation: A review"
+  },
+  {
+    "source_author_id": "nih_079436d5",
+    "source": "nih",
+    "name": "Yiqiang  Zhang",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Project III - Systems Functional Genomics Mechanisms of Congenital Heart Diseases"
+  },
+  {
+    "source_author_id": "nih_a51f56ef",
+    "source": "nih",
+    "name": "Hiroyuki  Nakai",
+    "institution": "OREGON HEALTH & SCIENCE UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "AAV vector-mediated gene therapy for cystinuria type B"
+  },
+  {
+    "source_author_id": "nih_30391fc7",
+    "source": "nih",
+    "name": "R. Brad  Jones",
+    "institution": "JOHNS HOPKINS UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Impact of HIV-1 5' Leader Defects on plasma viremia, proviral dynamics, and immune responses"
+  },
+  {
+    "source_author_id": "nih_d870d6d1",
+    "source": "nih",
+    "name": "Yusha  Liu",
+    "institution": "UNIVERSITY OF WASHINGTON",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Surface EMG-driven home exercise program for postoperative rehabilitation after peripheral nerve injuries"
+  },
+  {
+    "source_author_id": "nih_81a21d2c",
+    "source": "nih",
+    "name": "Sairam  Geethanath",
+    "institution": "JOHNS HOPKINS UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Open-source Low-field MRI: Learn, Design, Build, Scan"
+  },
+  {
+    "source_author_id": "nih_c4e64e04",
+    "source": "nih",
+    "name": "Sujatha  Srinivasan",
+    "institution": "FRED HUTCHINSON CANCER CENTER",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Next Generation Metabolic Signatures of Infectious Causes of Vaginitis: Small Molecule Metabolite-Based Biomarkers for Diagnosis, Test-of-Cure, and Prediction of Recurrence"
+  },
+  {
+    "source_author_id": "nih_c2252674",
+    "source": "nih",
+    "name": "Amit  Sethi",
+    "institution": "UTAH STATE HIGHER EDUCATION SYSTEM--UNIVERSITY OF UTAH",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "A Novel Multimodal Approach to Promote Motor Recovery and Plasticity after Stroke"
+  },
+  {
+    "source_author_id": "A5037001404",
+    "source": "openalex",
+    "name": "L.G.D. Strohm",
+    "institution": "Utrecht University",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=2 < 5 \u2717 | paper_count=2 < 8 \u2717",
+    "evidence_sample": "Implementation of artificial intelligence (AI) applications in radiology: hindering and facilitating factors"
+  },
+  {
+    "source_author_id": "A5011187635",
+    "source": "openalex",
+    "name": "Charisma Hehakaya",
+    "institution": "Utrecht University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.268 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Implementation of artificial intelligence (AI) applications in radiology: hindering and facilitating factors"
+  },
+  {
+    "source_author_id": "A5008796850",
+    "source": "openalex",
+    "name": "Merel Huisman",
+    "institution": "Utrecht University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.308 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "An international survey on AI in radiology in 1,041 radiologists and radiology residents part 1: fear of replacement, knowledge, and attitude"
+  },
+  {
+    "source_author_id": "A5047563379",
+    "source": "openalex",
+    "name": "William Parker",
+    "institution": "University of British Columbia",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.308 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "An international survey on AI in radiology in 1,041 radiologists and radiology residents part 1: fear of replacement, knowledge, and attitude"
+  },
+  {
+    "source_author_id": "A5093565264",
+    "source": "openalex",
+    "name": "Bart-Jan Boverhof",
+    "institution": "Erasmus University Rotterdam",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=4 < 5 \u2717 | paper_count=7 < 8 \u2717",
+    "evidence_sample": "Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice"
+  },
+  {
+    "source_author_id": "A5038765957",
+    "source": "openalex",
+    "name": "Ken Redekop",
+    "institution": "Erasmus University Rotterdam",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.265 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice"
+  },
+  {
+    "source_author_id": "A5089667544",
+    "source": "openalex",
+    "name": "Dani\u00ebl Bos",
+    "institution": "Erasmus University Rotterdam",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.265 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice"
+  },
+  {
+    "source_author_id": "A5013663784",
+    "source": "openalex",
+    "name": "Antoine Tournier",
+    "institution": null,
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=2 < 8 \u2717",
+    "evidence_sample": "To buy or not to buy\u2014evaluating commercial AI solutions in radiology (the ECLAIR guidelines)"
+  },
+  {
+    "source_author_id": "A5087413038",
+    "source": "openalex",
+    "name": "Elmar Kotter",
+    "institution": "University of Freiburg",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.291 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Guiding AI in radiology: ESR\u2019s recommendations for effective implementation of the European AI Act"
+  },
+  {
+    "source_author_id": "A5029172836",
+    "source": "openalex",
+    "name": "Tugba Akinci D\u2019Antonoli",
+    "institution": null,
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.291 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Guiding AI in radiology: ESR\u2019s recommendations for effective implementation of the European AI Act"
+  },
+  {
+    "source_author_id": "A5024082845",
+    "source": "openalex",
+    "name": "Peter M. A. van Ooijen",
+    "institution": "University Medical Center Groningen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.284 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Applications of artificial intelligence (AI) in diagnostic radiology: a technography study"
+  },
+  {
+    "source_author_id": "A5041407651",
+    "source": "openalex",
+    "name": "Milou Homan",
+    "institution": "Vrije Universiteit Amsterdam",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=1 < 8 \u2717",
+    "evidence_sample": "Applications of artificial intelligence (AI) in diagnostic radiology: a technography study"
+  },
+  {
+    "source_author_id": "A5079542856",
+    "source": "openalex",
+    "name": "Kicky G. van Leeuwen",
+    "institution": "Radboud University Nijmegen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.216 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence"
+  },
+  {
+    "source_author_id": "A5074610940",
+    "source": "openalex",
+    "name": "Steven Schalekamp",
+    "institution": "Radboud University Nijmegen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.216 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence"
+  },
+  {
+    "source_author_id": "A5036815525",
+    "source": "openalex",
+    "name": "Matthieu Rutten",
+    "institution": "Radboud University Nijmegen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.216 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence"
+  },
+  {
+    "source_author_id": "A5009321937",
+    "source": "openalex",
+    "name": "Floor Schuur",
+    "institution": "Vrije Universiteit Amsterdam",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=2 < 8 \u2717",
+    "evidence_sample": "Training opportunities of artificial intelligence (AI) in radiology: a systematic review"
+  },
+  {
+    "source_author_id": "A5093537411",
+    "source": "openalex",
+    "name": "Ethan Sacoransky",
+    "institution": "Queen's University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.290 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "ChatGPT and assistive AI in structured radiology reporting: A systematic review"
+  },
+  {
+    "source_author_id": "A5072268653",
+    "source": "openalex",
+    "name": "Benjamin Y. M. Kwan",
+    "institution": "Queen's University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.290 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "ChatGPT and assistive AI in structured radiology reporting: A systematic review"
+  },
+  {
+    "source_author_id": "A5113282302",
+    "source": "openalex",
+    "name": "Donald Soboleski",
+    "institution": "Queen's University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.290 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "ChatGPT and assistive AI in structured radiology reporting: A systematic review"
+  },
+  {
+    "source_author_id": "A5077221559",
+    "source": "openalex",
+    "name": "Arjan M Groen",
+    "institution": null,
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=1 < 8 \u2717",
+    "evidence_sample": "A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?"
+  },
+  {
+    "source_author_id": "A5047091216",
+    "source": "openalex",
+    "name": "Rik Kraan",
+    "institution": null,
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=1 < 8 \u2717",
+    "evidence_sample": "A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?"
+  },
+  {
+    "source_author_id": "A5041632354",
+    "source": "openalex",
+    "name": "Shahira F Amirkhan",
+    "institution": null,
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=1 < 8 \u2717",
+    "evidence_sample": "A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?"
+  },
+  {
+    "source_author_id": "A5031408152",
+    "source": "openalex",
+    "name": "Jacob J. Visser",
+    "institution": "Erasmus MC",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.237 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Impact of AI on radiology: a EuroAIM/EuSoMII 2024 survey among members of the European Society of Radiology"
+  },
+  {
+    "source_author_id": "nih_53f5f813",
+    "source": "nih",
+    "name": "Amy Celeste Keller",
+    "institution": "UNIVERSITY OF COLORADO DENVER",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "2026 Annual Meeting of the American Society of Pharmacognosy: Elevating Natural Products"
+  },
+  {
+    "source_author_id": "nih_c23a2a76",
+    "source": "nih",
+    "name": "Jonathan Yinhao Huang",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Project IV - Isolating placental effects of environmental toxicants in fetal development: AI/ML-augmented multi-omic causal discovery and prognostic modeling"
+  },
+  {
+    "source_author_id": "nih_c707a74f",
+    "source": "nih",
+    "name": "Elizabeth S Nakasone",
+    "institution": "UNIVERSITY OF HAWAII AT MANOA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Project II - Leveraging artificial intelligence for integrative multiomics analysis of high-risk populations to understand the biologic etiology of pancreatic cancer"
+  },
+  {
+    "source_author_id": "nih_5fa9d4c7",
+    "source": "nih",
+    "name": "Verena M Link",
+    "institution": "UNIVERSITY OF CALIFORNIA AT DAVIS",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Transcriptional Regulation of the Microbiota-Nutrition Axis in Genetically Diverse Macrophages During Psoriasiform Inflammation."
+  },
+  {
+    "source_author_id": "nih_14103a23",
+    "source": "nih",
+    "name": "Jong Hyuk  Kim",
+    "institution": "UNIVERSITY OF FLORIDA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Naturally Occurring Canine Hemangiosarcoma as a Translational Model for Angiosarcoma"
+  },
+  {
+    "source_author_id": "nih_f8c0782e",
+    "source": "nih",
+    "name": "Azra  Alizad",
+    "institution": "MAYO CLINIC ROCHESTER",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Artificial Intelligence-powered Advanced Ultrasound for Early Diagnosis of Intraocular Melanoma"
+  },
+  {
+    "source_author_id": "nih_c91ebdb5",
+    "source": "nih",
+    "name": "Neha  Koonjoo",
+    "institution": "MASSACHUSETTS GENERAL HOSPITAL",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Quantitative point-of-care MRI for breast cancer screening"
+  },
+  {
+    "source_author_id": "nih_e5798eb9",
+    "source": "nih",
+    "name": "Aprill  Dawson",
+    "institution": "MEDICAL COLLEGE OF WISCONSIN",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Voice-activated and touchscreen-controlled smart speaker intervention for adults aged 50 years and older with poorly controlled type 2 diabetes"
+  },
+  {
+    "source_author_id": "nih_291df9ff",
+    "source": "nih",
+    "name": "Diego  Hernando",
+    "institution": "UNIVERSITY OF WISCONSIN-MADISON",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "MRI-based Quantification of Perfusion and Microstructure"
+  },
+  {
+    "source_author_id": "A5015054335",
+    "source": "openalex",
+    "name": "David Tellez",
+    "institution": "Radboud University Nijmegen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.269 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology"
+  },
+  {
+    "source_author_id": "A5037509355",
+    "source": "openalex",
+    "name": "P\u00e9ter B\u00e1ndi",
+    "institution": "Radboud University Nijmegen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.269 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology"
+  },
+  {
+    "source_author_id": "A5107077385",
+    "source": "openalex",
+    "name": "Peter Neidlinger",
+    "institution": "University Hospital Carl Gustav Carus",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.228 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Benchmarking foundation models as feature extractors for weakly supervised computational pathology"
+  },
+  {
+    "source_author_id": "A5008461109",
+    "source": "openalex",
+    "name": "Stephanie Sch\u00f6rner",
+    "institution": "University Hospitals of the Ruhr-University of Bochum",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=3 < 5 \u2717 | paper_count=3 < 8 \u2717",
+    "evidence_sample": "A framework for falsifiable explanations of machine learning models with an application in computational pathology"
+  },
+  {
+    "source_author_id": "A5006291762",
+    "source": "openalex",
+    "name": "Nicolas Wagner",
+    "institution": "Technische Universit\u00e4t Darmstadt",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.307 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Federated Stain Normalization for Computational Pathology"
+  },
+  {
+    "source_author_id": "A5056472668",
+    "source": "openalex",
+    "name": "Moritz Fuchs",
+    "institution": "Technische Universit\u00e4t Darmstadt",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.307 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Federated Stain Normalization for Computational Pathology"
+  },
+  {
+    "source_author_id": "A5062655554",
+    "source": "openalex",
+    "name": "Yuri Tolkach",
+    "institution": "University Hospital Cologne",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.307 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Federated Stain Normalization for Computational Pathology"
+  },
+  {
+    "source_author_id": "nih_ea2311e0",
+    "source": "nih",
+    "name": "Amir  Zarrinpar",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Development of methods for robust gene integration into native gut E. coli"
+  },
+  {
+    "source_author_id": "nih_74d087c2",
+    "source": "nih",
+    "name": "Jeremy  Mills",
+    "institution": "ARIZONA STATE UNIVERSITY-TEMPE CAMPUS",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "A general method for converting antibodies into fluorescent sensors of their antigens"
+  },
+  {
+    "source_author_id": "nih_5c492057",
+    "source": "nih",
+    "name": "Sung-Min  Sohn",
+    "institution": "ARIZONA STATE UNIVERSITY-TEMPE CAMPUS",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Pneumatically controlled RF coil design for multinuclear magnetic resonance imaging and spectroscopy"
+  },
+  {
+    "source_author_id": "nih_f179f5bb",
+    "source": "nih",
+    "name": "Jennifer  Head",
+    "institution": "UNIVERSITY OF MICHIGAN AT ANN ARBOR",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Estimating and understanding implications of population susceptibility to coccidioidomycosis, an emerging infectious disease"
+  },
+  {
+    "source_author_id": "nih_d923384f",
+    "source": "nih",
+    "name": "Sarah Beth Walker",
+    "institution": "UNIVERSITY OF COLORADO DENVER",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Using Trajectory Based Phenotypes to Target Treatment in Pediatric Septic Shock"
+  },
+  {
+    "source_author_id": "nih_781052c8",
+    "source": "nih",
+    "name": "Chyung-Ru  Wang",
+    "institution": "NORTHWESTERN UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Impact of Diet-Induced Dyslipidemia on Skin Inflammation Driven by Autoreactive Lipid-Specific T Cells."
+  },
+  {
+    "source_author_id": "nih_cd0efb35",
+    "source": "nih",
+    "name": "Heidi  Kloefkorn",
+    "institution": "OREGON STATE UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Does Shiftwork Sleep Disorder Exacerbate OA Outcomes"
+  },
+  {
+    "source_author_id": "nih_dbea407c",
+    "source": "nih",
+    "name": "Getahun  Abate",
+    "institution": "SAINT LOUIS UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Use of scnn1b transgenic mice to develop new vaccines against pulmonary Mycobacterium avium"
+  },
+  {
+    "source_author_id": "nih_ad0cc968",
+    "source": "nih",
+    "name": "Bryan  Berube",
+    "institution": "TUFTS UNIVERSITY BOSTON",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Next Generation pan-serotype,antitoxin for botulinum neurotoxin exposures"
+  },
+  {
+    "source_author_id": "nih_f2ecdcf5",
+    "source": "nih",
+    "name": "Kathleen  Noller",
+    "institution": "UNIVERSITY OF MARYLAND BALTIMORE",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Transcriptomic, Genomic, and Microenvironmental Heterogeneity in pancreatic precancer: subtyping, classification, and cross-comparison"
+  },
+  {
+    "source_author_id": "nih_06b904f7",
+    "source": "nih",
+    "name": "CATHERINE MARY O'CONNELL",
+    "institution": "UNIV OF NORTH CAROLINA CHAPEL HILL",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Uncovering Molecular Markers of Protection and Disease in Chlamydial Infections for Vaccine Development"
+  },
+  {
+    "source_author_id": "nih_2ad03ca5",
+    "source": "nih",
+    "name": "Yuval  Itan",
+    "institution": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Investigating the genetic and genomic mechanisms of human lactation disorders"
+  },
+  {
+    "source_author_id": "A5017339916",
+    "source": "openalex",
+    "name": "Yansong Zhao",
+    "institution": "Nanyang Technological University",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=2 < 5 \u2717 | paper_count=4 < 8 \u2717",
+    "evidence_sample": "Contribution-Aware Federated Learning for Smart Healthcare"
+  },
+  {
+    "source_author_id": "A5018409592",
+    "source": "openalex",
+    "name": "Mamoun Alazab",
+    "institution": "Charles Darwin University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.240 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "FL-PMI: Federated Learning-Based Person Movement Identification through Wearable Devices in Smart Healthcare Systems"
+  },
+  {
+    "source_author_id": "nih_b36e7295",
+    "source": "nih",
+    "name": "Chris  Glembotski",
+    "institution": "UNIVERSITY OF ARIZONA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "ATF6 as a Regulator of Atrial Myocyte ER Proteostasis"
+  },
+  {
+    "source_author_id": "nih_32b50997",
+    "source": "nih",
+    "name": "Lomeli Carpio Shull",
+    "institution": "UNIVERSITY OF NEW MEXICO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Functions of PRDM paralogs in craniofacial cartilage development"
+  },
+  {
+    "source_author_id": "nih_a1d4ec34",
+    "source": "nih",
+    "name": "Aaron J Fields",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Matrix-modifying therapies for increasing cartilage endplate permeability and improving spinal disc nutrition"
+  },
+  {
+    "source_author_id": "nih_1b5551e1",
+    "source": "nih",
+    "name": "Cynthia T McEvoy",
+    "institution": "OREGON HEALTH & SCIENCE UNIVERSITY",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Extending Continuous Positive Airway Pressure (eCPAP) in Preterm Infants to Improve Long-Term Lung Growth and Reduce Respiratory Morbidity at School Age: Follow-up of a Randomized Trial"
+  },
+  {
+    "source_author_id": "nih_1d02fd6a",
+    "source": "nih",
+    "name": "Deepta  Bhattacharya",
+    "institution": "UNIVERSITY OF ARIZONA",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Immune evasive mouse models for transplantation research"
+  },
+  {
+    "source_author_id": "nih_238d0f86",
+    "source": "nih",
+    "name": "HAILYN  NIELSEN",
+    "institution": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
+    "reason": "COUNTRY",
+    "detail": "country_hint='US' not in target=['AU', 'CA', 'NL', 'DE', 'SG']",
+    "evidence_sample": "Coordinating Central Tolerance: Defining Distinct Roles for Nr4a1 and Nr4a3 in Thymocyte Selection"
+  },
+  {
+    "source_author_id": "A5045584219",
+    "source": "openalex",
+    "name": "Jann Arends",
+    "institution": "University of Freiburg",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.063 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "ESPEN Guidelines on Enteral Nutrition: Non-surgical oncology"
+  },
+  {
+    "source_author_id": "A5027652600",
+    "source": "openalex",
+    "name": "Jan\u2010Niklas Eckardt",
+    "institution": "Fresenius (Germany)",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.283 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Large language models and multimodal foundation models for precision oncology"
+  },
+  {
+    "source_author_id": "A5100675672",
+    "source": "openalex",
+    "name": "David Chen",
+    "institution": "University of Toronto",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.310 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Performance of Multimodal Artificial Intelligence Chatbots Evaluated on Clinical Oncology Cases"
+  },
+  {
+    "source_author_id": "A5068472891",
+    "source": "openalex",
+    "name": "Ryan S. Huang",
+    "institution": "University of Toronto",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.310 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Performance of Multimodal Artificial Intelligence Chatbots Evaluated on Clinical Oncology Cases"
+  },
+  {
+    "source_author_id": "A5091834563",
+    "source": "openalex",
+    "name": "Jane Jomy",
+    "institution": "University of Toronto",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.310 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Performance of Multimodal Artificial Intelligence Chatbots Evaluated on Clinical Oncology Cases"
+  },
+  {
+    "source_author_id": "A5090993508",
+    "source": "openalex",
+    "name": "Roc\u00edo Mercado",
+    "institution": null,
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.238 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Molecular representations in AI-driven drug discovery: a review and practical guide"
+  },
+  {
+    "source_author_id": "A5052648825",
+    "source": "openalex",
+    "name": "Shalini Vinod",
+    "institution": "Western Sydney University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.268 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Uncertainties in volume delineation in radiation oncology: A systematic review and recommendations for future studies"
+  },
+  {
+    "source_author_id": "A5014481486",
+    "source": "openalex",
+    "name": "Michael Jameson",
+    "institution": "University of Wollongong",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.268 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Uncertainties in volume delineation in radiation oncology: A systematic review and recommendations for future studies"
+  },
+  {
+    "source_author_id": "A5006934380",
+    "source": "openalex",
+    "name": "Myo Min",
+    "institution": "Liverpool Hospital",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.268 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Uncertainties in volume delineation in radiation oncology: A systematic review and recommendations for future studies"
+  },
+  {
+    "source_author_id": "A5044172388",
+    "source": "openalex",
+    "name": "Michael Orth",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.283 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Current concepts in clinical radiation oncology"
+  },
+  {
+    "source_author_id": "A5016924764",
+    "source": "openalex",
+    "name": "Kirsten Lauber",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.283 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Current concepts in clinical radiation oncology"
+  },
+  {
+    "source_author_id": "A5065547065",
+    "source": "openalex",
+    "name": "Maximilian Niyazi",
+    "institution": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.283 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Current concepts in clinical radiation oncology"
+  },
+  {
+    "source_author_id": "A5114642914",
+    "source": "openalex",
+    "name": "Bas Dille",
+    "institution": "Radboud University Nijmegen",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=2 < 5 \u2717 | paper_count=2 < 8 \u2717",
+    "evidence_sample": "Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications"
+  },
+  {
+    "source_author_id": "A5057118523",
+    "source": "openalex",
+    "name": "C. Kaempf",
+    "institution": "Fraunhofer Institute for Cell Therapy and Immunology",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=4 < 5 \u2717 | paper_count=6 < 8 \u2717",
+    "evidence_sample": "New regulatory thinking is needed for AI-based personalised drug and cell therapies in precision oncology"
+  },
+  {
+    "source_author_id": "A5062761846",
+    "source": "openalex",
+    "name": "Dirk Graf",
+    "institution": "Heinrich Heine University D\u00fcsseldorf",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.190 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Multimodal treatment of hepatocellular carcinoma"
+  },
+  {
+    "source_author_id": "A5034221030",
+    "source": "openalex",
+    "name": "Daniel Vallb\u00f6hmer",
+    "institution": "Heinrich Heine University D\u00fcsseldorf",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.190 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Multimodal treatment of hepatocellular carcinoma"
+  },
+  {
+    "source_author_id": "A5083695901",
+    "source": "openalex",
+    "name": "Wolfram Trudo Knoefel",
+    "institution": "Heinrich Heine University D\u00fcsseldorf",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.190 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Multimodal treatment of hepatocellular carcinoma"
+  },
+  {
+    "source_author_id": "A5112563918",
+    "source": "openalex",
+    "name": "Luke Oakden\u2010Rayner",
+    "institution": "University of Adelaide",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.289 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "The false hope of current approaches to explainable artificial intelligence in health care"
+  },
+  {
+    "source_author_id": "A5062201387",
+    "source": "openalex",
+    "name": "Danding Wang",
+    "institution": "National University of Singapore",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.259 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Designing Theory-Driven User-Centric Explainable AI"
+  },
+  {
+    "source_author_id": "A5101779238",
+    "source": "openalex",
+    "name": "Ashraf Abdul",
+    "institution": "National University of Singapore",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.259 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Designing Theory-Driven User-Centric Explainable AI"
+  },
+  {
+    "source_author_id": "A5120161470",
+    "source": "openalex",
+    "name": "Mozhgan Salimparsa",
+    "institution": "Western University",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=1 < 8 \u2717",
+    "evidence_sample": "Explainable AI for Clinical Decision Support Systems: Literature Review, Key Gaps, and Research Synthesis"
+  },
+  {
+    "source_author_id": "A5083104697",
+    "source": "openalex",
+    "name": "Karel G.M. Moons",
+    "institution": "Utrecht University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.311 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods"
+  },
+  {
+    "source_author_id": "A5038576720",
+    "source": "openalex",
+    "name": "Susanne Gaube",
+    "institution": "University of Regensburg",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.293 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Do as AI say: susceptibility in deployment of clinical decision-aids"
+  },
+  {
+    "source_author_id": "A5005897735",
+    "source": "openalex",
+    "name": "Mozhgan Salimiparsa",
+    "institution": "Western University",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=2 < 5 \u2717 | paper_count=4 < 8 \u2717",
+    "evidence_sample": "A User-Centered Design of Explainable AI for Clinical Decision Support"
+  },
+  {
+    "source_author_id": "A5036279488",
+    "source": "openalex",
+    "name": "Farah Magrabi",
+    "institution": "Macquarie University",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.320 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Artificial Intelligence in Clinical Decision Support: Challenges for Evaluating AI and Practical Implications"
+  },
+  {
+    "source_author_id": "A5044033735",
+    "source": "openalex",
+    "name": "Theo Araujo",
+    "institution": "University of Amsterdam",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.186 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "In AI we trust? Perceptions about automated decision-making by artificial intelligence"
+  },
+  {
+    "source_author_id": "A5053437341",
+    "source": "openalex",
+    "name": "Natali Helberger",
+    "institution": "University of Amsterdam",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.186 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "In AI we trust? Perceptions about automated decision-making by artificial intelligence"
+  },
+  {
+    "source_author_id": "A5084456812",
+    "source": "openalex",
+    "name": "Sanne Kruikemeier",
+    "institution": "University of Amsterdam",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.186 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "In AI we trust? Perceptions about automated decision-making by artificial intelligence"
+  },
+  {
+    "source_author_id": "A5068353058",
+    "source": "openalex",
+    "name": "David Moher",
+    "institution": "University of Ottawa",
+    "reason": "DOMAIN",
+    "detail": "Cosine similarity=0.255 < hard_fail threshold=0.32. Evidence does not match student research areas.",
+    "evidence_sample": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension"
+  },
+  {
+    "source_author_id": "A5095095069",
+    "source": "openalex",
+    "name": "Sara Hamam",
+    "institution": "Hospital for Sick Children",
+    "reason": "CAREER_STAGE",
+    "detail": "h-index=1 < 5 \u2717 | paper_count=1 < 8 \u2717",
+    "evidence_sample": "AI-Driven Clinical Decision Support Systems: An Ongoing Pursuit of Potential"
+  }
+]
