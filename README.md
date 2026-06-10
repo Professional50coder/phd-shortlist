@@ -2,6 +2,10 @@
 
 Automated PhD supervisor shortlist builder — given a student profile JSON, produces a ranked list of 50–200 faculty supervisors with verifiable paper/grant evidence and personalised outreach context.
 
+## 🎥 Project Demo
+
+[▶️ Watch Demo](https://drive.google.com/file/d/1rOBHB8WirujR8ahXbbh00H1o01kOEBgh/view)
+
 ## Quick Start
 
 ```bash
